@@ -1,0 +1,5 @@
+https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=eb510e20-53d5-11ec-9c54-b54b4d3d7cd0 - 국내 여랭자 특성
+https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=359f0000-4129-11ec-a107-3b8bd6a15b10#! - 국내 여행지역 관심도
+https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=25c89d50-1e55-11eb-a4e6-a9a03a61580b - 국내여행TOP10트랜드데이터결과
+https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=8e465f1a-262a-449a-b5cb-a31a2ad5e77b - 여행 비용 지출 특성
+https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=224bf2b0-4129-11ec-a107-3b8bd6a15b10 - 여행 비용 지출 의향
