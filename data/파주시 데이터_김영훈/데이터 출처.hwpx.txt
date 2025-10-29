@@ -1,1 +1,0 @@
-25.4.1기준_숙박시설 및 객실 수 상세(객실 수 현황 폴더 안에 파일명)	- https://pjsports.paju.go.kr/main/main.php한국관광 데이터랩	- https://datalab.visitkorea.or.kr/datalab/portal/main/getMainForm.do공공데이터포털	- https://www.data.go.kr/index.do

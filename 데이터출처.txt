@@ -4,3 +4,7 @@ https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=25c89d50-1e
 https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=8e465f1a-262a-449a-b5cb-a31a2ad5e77b - 여행 비용 지출 특성
 https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=224bf2b0-4129-11ec-a107-3b8bd6a15b10 - 여행 비용 지출 의향
 https://www.data.go.kr/index.do - 경기도 파주시_지역화폐 발행및이용현황
+https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=a8e8bb70-7b78-11ed-b3ef-49efc94461a7 - 숙박시설 일일 판매가격(최고, 최저, 평균) 정보
+https://pjsports.paju.go.kr/main/main.php - 25.4.1기준_숙박시설 및 객실 수 상세(객실 수 현황 폴더 안에 파일명)
+https://datalab.visitkorea.or.kr/datalab/portal/main/getMainForm.do - 한국관광 데이터랩
+https://www.data.go.kr/index.do - 공공데이터포털
