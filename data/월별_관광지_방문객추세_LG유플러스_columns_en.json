@@ -1,0 +1,55 @@
+{
+  "file_name": "월별_관광지_방문객추세_LG유플러스.csv",
+  "columns": [
+    {
+      "column_name": "연도",
+      "label_en": "연도",
+      "description": "Original field '연도' from the source dataset."
+    },
+    {
+      "column_name": "월",
+      "label_en": "월",
+      "description": "Original field '월' from the source dataset."
+    },
+    {
+      "column_name": "방문인구(명)",
+      "label_en": "방문인구(명)",
+      "description": "Original field '방문인구(명)' from the source dataset. Unit: 명."
+    },
+    {
+      "column_name": "누적방문인구(명)",
+      "label_en": "누적방문인구(명)",
+      "description": "Original field '누적방문인구(명)' from the source dataset. Unit: 명."
+    },
+    {
+      "column_name": "전월대비 증감률(%)",
+      "label_en": "전월대비 증감률(%)",
+      "description": "Original field '전월대비 증감률(%)' from the source dataset. Unit: %."
+    },
+    {
+      "column_name": "전년동월대비 증감률(%)",
+      "label_en": "전년동월대비 증감률(%)",
+      "description": "Original field '전년동월대비 증감률(%)' from the source dataset. Unit: %."
+    },
+    {
+      "column_name": "3개월 이동평균(명)",
+      "label_en": "3개월 이동평균(명)",
+      "description": "Original field '3개월 이동평균(명)' from the source dataset. Unit: 명."
+    },
+    {
+      "column_name": "방문인구 지수(평균=100)",
+      "label_en": "방문인구 지수(평균=100)",
+      "description": "Original field '방문인구 지수(평균=100)' from the source dataset. Unit: 평균=100."
+    },
+    {
+      "column_name": "성수기 구분",
+      "label_en": "성수기 구분",
+      "description": "Original field '성수기 구분' from the source dataset."
+    },
+    {
+      "column_name": "기준월",
+      "label_en": "기준월",
+      "description": "Original field '기준월' from the source dataset."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "file_name": "현시점_행정동별_생활인구_경기데이터드림.csv",
+  "columns": [
+    {
+      "column_name": "행정동명",
+      "label_en": "행정동명",
+      "description": "Original field '행정동명' from the source dataset."
+    },
+    {
+      "column_name": "거주인구",
+      "label_en": "거주인구",
+      "description": "Original field '거주인구' from the source dataset."
+    },
+    {
+      "column_name": "방문인구",
+      "label_en": "방문인구",
+      "description": "Original field '방문인구' from the source dataset."
+    },
+    {
+      "column_name": "근무인구",
+      "label_en": "근무인구",
+      "description": "Original field '근무인구' from the source dataset."
+    },
+    {
+      "column_name": "생활인구",
+      "label_en": "생활인구",
+      "description": "Original field '생활인구' from the source dataset."
+    }
+  ]
+}

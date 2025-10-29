@@ -1,0 +1,50 @@
+{
+  "file_name": "현시점_행정동별_식품위생업소_영업유형분포_삼성카드.csv",
+  "columns": [
+    {
+      "column_name": "행정동",
+      "label_en": "행정동",
+      "description": "Original field '행정동' from the source dataset."
+    },
+    {
+      "column_name": "식품위상업소수",
+      "label_en": "식품위상업소수",
+      "description": "Original field '식품위상업소수' from the source dataset."
+    },
+    {
+      "column_name": "음식점수",
+      "label_en": "음식점수",
+      "description": "Original field '음식점수' from the source dataset."
+    },
+    {
+      "column_name": "주점\\u00b7비알코올음료점업 수",
+      "label_en": "주점\\u00b7비알코올음료점업 수",
+      "description": "Original field '주점\\u00b7비알코올음료점업 수' from the source dataset."
+    },
+    {
+      "column_name": "음식점 비중(%)",
+      "label_en": "음식점 비중(%)",
+      "description": "Original field '음식점 비중(%)' from the source dataset. Unit: %."
+    },
+    {
+      "column_name": "주점\\u00b7비알 비중(%)",
+      "label_en": "주점\\u00b7비알 비중(%)",
+      "description": "Original field '주점\\u00b7비알 비중(%)' from the source dataset. Unit: %."
+    },
+    {
+      "column_name": "주점 비중(\\uc74c식+\\uc8fc점)",
+      "label_en": "주점 비중(\\uc74c식+\\uc8fc점)",
+      "description": "Original field '주점 비중(\\uc74c식+\\uc8fc점)' from the source dataset. Unit: \\uc74c식+\\uc8fc점."
+    },
+    {
+      "column_name": "주점 대비 음식점 비율(%)",
+      "label_en": "주점 대비 음식점 비율(%)",
+      "description": "Original field '주점 대비 음식점 비율(%)' from the source dataset. Unit: %."
+    },
+    {
+      "column_name": "영업유형 구분",
+      "label_en": "영업유형 구분",
+      "description": "Original field '영업유형 구분' from the source dataset."
+    }
+  ]
+}

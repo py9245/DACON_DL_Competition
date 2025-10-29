@@ -1,0 +1,45 @@
+{
+  "file_name": "현시점_행정동별_숙박시설 및 객실 수 상세.csv",
+  "columns": [
+    {
+      "column_name": "번호",
+      "label_en": "번호",
+      "description": "Original field '번호' from the source dataset."
+    },
+    {
+      "column_name": "지역",
+      "label_en": "지역",
+      "description": "Original field '지역' from the source dataset."
+    },
+    {
+      "column_name": "업종",
+      "label_en": "업종",
+      "description": "Original field '업종' from the source dataset."
+    },
+    {
+      "column_name": "상호",
+      "label_en": "상호",
+      "description": "Original field '상호' from the source dataset."
+    },
+    {
+      "column_name": "주소",
+      "label_en": "주소",
+      "description": "Original field '주소' from the source dataset."
+    },
+    {
+      "column_name": "연락처",
+      "label_en": "연락처",
+      "description": "Original field '연락처' from the source dataset."
+    },
+    {
+      "column_name": "객실수",
+      "label_en": "객실수",
+      "description": "Original field '객실수' from the source dataset."
+    },
+    {
+      "column_name": "기타",
+      "label_en": "기타",
+      "description": "Original field '기타' from the source dataset."
+    }
+  ]
+}

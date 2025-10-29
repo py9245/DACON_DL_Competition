@@ -1,0 +1,45 @@
+{
+  "file_name": "설문_국내여행_TOP10_트랜드_데이터_결과.csv",
+  "columns": [
+    {
+      "column_name": "week_label",
+      "label_en": "week_label",
+      "description": "Original field 'week_label' from the source dataset."
+    },
+    {
+      "column_name": "SRCHWRD_NM",
+      "label_en": "SRCHWRD_NM",
+      "description": "Original field 'SRCHWRD_NM' from the source dataset."
+    },
+    {
+      "column_name": "UPPER_CTGRY_NM",
+      "label_en": "UPPER_CTGRY_NM",
+      "description": "Original field 'UPPER_CTGRY_NM' from the source dataset."
+    },
+    {
+      "column_name": "LWPRT_CTGRY_NM",
+      "label_en": "LWPRT_CTGRY_NM",
+      "description": "Original field 'LWPRT_CTGRY_NM' from the source dataset."
+    },
+    {
+      "column_name": "AREA_NM",
+      "label_en": "AREA_NM",
+      "description": "Original field 'AREA_NM' from the source dataset."
+    },
+    {
+      "column_name": "MOBILE_SCCNT_VALUE",
+      "label_en": "MOBILE_SCCNT_VALUE",
+      "description": "Original field 'MOBILE_SCCNT_VALUE' from the source dataset."
+    },
+    {
+      "column_name": "PC_SCCNT_VALUE",
+      "label_en": "PC_SCCNT_VALUE",
+      "description": "Original field 'PC_SCCNT_VALUE' from the source dataset."
+    },
+    {
+      "column_name": "SCCNT_SM_VALUE",
+      "label_en": "SCCNT_SM_VALUE",
+      "description": "Original field 'SCCNT_SM_VALUE' from the source dataset."
+    }
+  ]
+}

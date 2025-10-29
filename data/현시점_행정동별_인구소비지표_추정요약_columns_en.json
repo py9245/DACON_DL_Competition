@@ -1,0 +1,85 @@
+{
+  "file_name": "현시점_행정동별_인구소비지표_추정요약.csv",
+  "columns": [
+    {
+      "column_name": "행정동",
+      "label_en": "행정동",
+      "description": "Original field '행정동' from the source dataset."
+    },
+    {
+      "column_name": "2023.01 방문인구(명)",
+      "label_en": "2023.01 방문인구(명)",
+      "description": "Original field '2023.01 방문인구(명)' from the source dataset. Unit: 명."
+    },
+    {
+      "column_name": "2025.07 방문인구(명)",
+      "label_en": "2025.07 방문인구(명)",
+      "description": "Original field '2025.07 방문인구(명)' from the source dataset. Unit: 명."
+    },
+    {
+      "column_name": "방문인구 증감(명)",
+      "label_en": "방문인구 증감(명)",
+      "description": "Original field '방문인구 증감(명)' from the source dataset. Unit: 명."
+    },
+    {
+      "column_name": "방문인구 증감률(%)",
+      "label_en": "방문인구 증감률(%)",
+      "description": "Original field '방문인구 증감률(%)' from the source dataset. Unit: %."
+    },
+    {
+      "column_name": "2025.07 방문인구지수",
+      "label_en": "2025.07 방문인구지수",
+      "description": "Original field '2025.07 방문인구지수' from the source dataset."
+    },
+    {
+      "column_name": "2023.01 생산가능인구(명)",
+      "label_en": "2023.01 생산가능인구(명)",
+      "description": "Original field '2023.01 생산가능인구(명)' from the source dataset. Unit: 명."
+    },
+    {
+      "column_name": "2025.07 생산가능인구(명)",
+      "label_en": "2025.07 생산가능인구(명)",
+      "description": "Original field '2025.07 생산가능인구(명)' from the source dataset. Unit: 명."
+    },
+    {
+      "column_name": "생산가능인구 증감(명)",
+      "label_en": "생산가능인구 증감(명)",
+      "description": "Original field '생산가능인구 증감(명)' from the source dataset. Unit: 명."
+    },
+    {
+      "column_name": "생산가능인구 증감률(%)",
+      "label_en": "생산가능인구 증감률(%)",
+      "description": "Original field '생산가능인구 증감률(%)' from the source dataset. Unit: %."
+    },
+    {
+      "column_name": "2025.07 생산가능인구지수",
+      "label_en": "2025.07 생산가능인구지수",
+      "description": "Original field '2025.07 생산가능인구지수' from the source dataset."
+    },
+    {
+      "column_name": "2023.01 인구활력지수",
+      "label_en": "2023.01 인구활력지수",
+      "description": "Original field '2023.01 인구활력지수' from the source dataset."
+    },
+    {
+      "column_name": "2025.07 인구활력지수",
+      "label_en": "2025.07 인구활력지수",
+      "description": "Original field '2025.07 인구활력지수' from the source dataset."
+    },
+    {
+      "column_name": "인구활력지수 변화",
+      "label_en": "인구활력지수 변화",
+      "description": "Original field '인구활력지수 변화' from the source dataset."
+    },
+    {
+      "column_name": "인구활력지수 증감률(%)",
+      "label_en": "인구활력지수 증감률(%)",
+      "description": "Original field '인구활력지수 증감률(%)' from the source dataset. Unit: %."
+    },
+    {
+      "column_name": "방문인구 증감방향",
+      "label_en": "방문인구 증감방향",
+      "description": "Original field '방문인구 증감방향' from the source dataset."
+    }
+  ]
+}

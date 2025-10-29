@@ -1,0 +1,1634 @@
+[
+  {
+    "file": "년도별_인구감소지역 현황 및 지역주민 소비액_한국관광 데이터랩_통합.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 3,
+    "sample_rows": 3,
+    "n_cols": 37,
+    "columns": [
+      "기간",
+      "고령화_유소년비율_고령화 비율",
+      "고령화_유소년비율_유소년 비율",
+      "사망률_사망률",
+      "인구감소관련주요데이터_1회평균당일관광객소비액(I)",
+      "인구감소관련주요데이터_1회평균숙박관광객소비액(H)",
+      "인구감소관련주요데이터_①숙박관광객(G/H)",
+      "인구감소관련주요데이터_②당일관광객(G/I)",
+      "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객당일",
+      "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객당일비율",
+      "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객숙박",
+      "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객숙박비율",
+      "인구감소관련주요데이터_전국소비지출액(A)",
+      "인구감소관련주요데이터_전국카드지출액대비지역주민의카드소비액비율(B)",
+      "인구감소관련주요데이터_주간인구수",
+      "인구감소관련주요데이터_주민1인당지역내소비액(G=D/E)",
+      "인구감소관련주요데이터_주민등록인구수(E)",
+      "인구감소관련주요데이터_지역내소비비율(F)",
+      "인구감소관련주요데이터_지역외소비액비율",
+      "인구감소관련주요데이터_지역주민의지역내소비액(D=CXF)",
+      "인구감소관련주요데이터_지역주민의총소비지출액(C=AXB)",
+      "인구밀도_인구밀도",
+      "재정자립도_재정자립도",
+      "재정자주도_재정자주도",
+      "전입전출이동규모_전입",
+      "전입전출이동규모_전출",
+      "조출생률_조출생률",
+      "주민등록인구연령별분포추이_10대 이하",
+      "주민등록인구연령별분포추이_10대",
+      "주민등록인구연령별분포추이_20대",
+      "주민등록인구연령별분포추이_30대",
+      "주민등록인구연령별분포추이_40대",
+      "주민등록인구연령별분포추이_50대",
+      "주민등록인구연령별분포추이_60대",
+      "주민등록인구연령별분포추이_70대 이상",
+      "주민등록인구연령별분포추이_총인구수",
+      "청년순이동률_청년순이동률"
+    ],
+    "dtypes": {
+      "기간": "int64",
+      "고령화_유소년비율_고령화 비율": "float64",
+      "고령화_유소년비율_유소년 비율": "float64",
+      "사망률_사망률": "float64",
+      "인구감소관련주요데이터_1회평균당일관광객소비액(I)": "float64",
+      "인구감소관련주요데이터_1회평균숙박관광객소비액(H)": "float64",
+      "인구감소관련주요데이터_①숙박관광객(G/H)": "float64",
+      "인구감소관련주요데이터_②당일관광객(G/I)": "float64",
+      "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객당일": "float64",
+      "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객당일비율": "float64",
+      "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객숙박": "float64",
+      "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객숙박비율": "float64",
+      "인구감소관련주요데이터_전국소비지출액(A)": "float64",
+      "인구감소관련주요데이터_전국카드지출액대비지역주민의카드소비액비율(B)": "float64",
+      "인구감소관련주요데이터_주간인구수": "float64",
+      "인구감소관련주요데이터_주민1인당지역내소비액(G=D/E)": "float64",
+      "인구감소관련주요데이터_주민등록인구수(E)": "float64",
+      "인구감소관련주요데이터_지역내소비비율(F)": "float64",
+      "인구감소관련주요데이터_지역외소비액비율": "float64",
+      "인구감소관련주요데이터_지역주민의지역내소비액(D=CXF)": "float64",
+      "인구감소관련주요데이터_지역주민의총소비지출액(C=AXB)": "float64",
+      "인구밀도_인구밀도": "float64",
+      "재정자립도_재정자립도": "float64",
+      "재정자주도_재정자주도": "float64",
+      "전입전출이동규모_전입": "float64",
+      "전입전출이동규모_전출": "float64",
+      "조출생률_조출생률": "float64",
+      "주민등록인구연령별분포추이_10대 이하": "int64",
+      "주민등록인구연령별분포추이_10대": "int64",
+      "주민등록인구연령별분포추이_20대": "int64",
+      "주민등록인구연령별분포추이_30대": "int64",
+      "주민등록인구연령별분포추이_40대": "int64",
+      "주민등록인구연령별분포추이_50대": "int64",
+      "주민등록인구연령별분포추이_60대": "int64",
+      "주민등록인구연령별분포추이_70대 이상": "int64",
+      "주민등록인구연령별분포추이_총인구수": "int64",
+      "청년순이동률_청년순이동률": "float64"
+    },
+    "missing_counts_sample": {
+      "기간": 0,
+      "고령화_유소년비율_고령화 비율": 0,
+      "고령화_유소년비율_유소년 비율": 0,
+      "사망률_사망률": 0,
+      "인구감소관련주요데이터_1회평균당일관광객소비액(I)": 0,
+      "인구감소관련주요데이터_1회평균숙박관광객소비액(H)": 0,
+      "인구감소관련주요데이터_①숙박관광객(G/H)": 0,
+      "인구감소관련주요데이터_②당일관광객(G/I)": 0,
+      "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객당일": 0,
+      "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객당일비율": 0,
+      "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객숙박": 0,
+      "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객숙박비율": 0,
+      "인구감소관련주요데이터_전국소비지출액(A)": 0,
+      "인구감소관련주요데이터_전국카드지출액대비지역주민의카드소비액비율(B)": 0,
+      "인구감소관련주요데이터_주간인구수": 0,
+      "인구감소관련주요데이터_주민1인당지역내소비액(G=D/E)": 0,
+      "인구감소관련주요데이터_주민등록인구수(E)": 0,
+      "인구감소관련주요데이터_지역내소비비율(F)": 0,
+      "인구감소관련주요데이터_지역외소비액비율": 0,
+      "인구감소관련주요데이터_지역주민의지역내소비액(D=CXF)": 0,
+      "인구감소관련주요데이터_지역주민의총소비지출액(C=AXB)": 0,
+      "인구밀도_인구밀도": 0,
+      "재정자립도_재정자립도": 0,
+      "재정자주도_재정자주도": 0,
+      "전입전출이동규모_전입": 0,
+      "전입전출이동규모_전출": 0,
+      "조출생률_조출생률": 0,
+      "주민등록인구연령별분포추이_10대 이하": 0,
+      "주민등록인구연령별분포추이_10대": 0,
+      "주민등록인구연령별분포추이_20대": 0,
+      "주민등록인구연령별분포추이_30대": 0,
+      "주민등록인구연령별분포추이_40대": 0,
+      "주민등록인구연령별분포추이_50대": 0,
+      "주민등록인구연령별분포추이_60대": 0,
+      "주민등록인구연령별분포추이_70대 이상": 0,
+      "주민등록인구연령별분포추이_총인구수": 0,
+      "청년순이동률_청년순이동률": 0
+    },
+    "nunique_sample": {
+      "기간": 3,
+      "고령화_유소년비율_고령화 비율": 3,
+      "고령화_유소년비율_유소년 비율": 3,
+      "사망률_사망률": 3,
+      "인구감소관련주요데이터_1회평균당일관광객소비액(I)": 3,
+      "인구감소관련주요데이터_1회평균숙박관광객소비액(H)": 3,
+      "인구감소관련주요데이터_①숙박관광객(G/H)": 3,
+      "인구감소관련주요데이터_②당일관광객(G/I)": 3,
+      "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객당일": 3,
+      "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객당일비율": 3,
+      "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객숙박": 3,
+      "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객숙박비율": 3,
+      "인구감소관련주요데이터_전국소비지출액(A)": 3,
+      "인구감소관련주요데이터_전국카드지출액대비지역주민의카드소비액비율(B)": 3,
+      "인구감소관련주요데이터_주간인구수": 1,
+      "인구감소관련주요데이터_주민1인당지역내소비액(G=D/E)": 3,
+      "인구감소관련주요데이터_주민등록인구수(E)": 3,
+      "인구감소관련주요데이터_지역내소비비율(F)": 3,
+      "인구감소관련주요데이터_지역외소비액비율": 3,
+      "인구감소관련주요데이터_지역주민의지역내소비액(D=CXF)": 3,
+      "인구감소관련주요데이터_지역주민의총소비지출액(C=AXB)": 3,
+      "인구밀도_인구밀도": 3,
+      "재정자립도_재정자립도": 3,
+      "재정자주도_재정자주도": 3,
+      "전입전출이동규모_전입": 3,
+      "전입전출이동규모_전출": 3,
+      "조출생률_조출생률": 3,
+      "주민등록인구연령별분포추이_10대 이하": 3,
+      "주민등록인구연령별분포추이_10대": 3,
+      "주민등록인구연령별분포추이_20대": 3,
+      "주민등록인구연령별분포추이_30대": 3,
+      "주민등록인구연령별분포추이_40대": 3,
+      "주민등록인구연령별분포추이_50대": 3,
+      "주민등록인구연령별분포추이_60대": 3,
+      "주민등록인구연령별분포추이_70대 이상": 3,
+      "주민등록인구연령별분포추이_총인구수": 3,
+      "청년순이동률_청년순이동률": 3
+    }
+  },
+  {
+    "file": "설문_국내_여행_비용_지출_의향_통합.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 46000,
+    "sample_rows": 300,
+    "n_cols": 8,
+    "columns": [
+      "EXAMIN_BEGIN_DE",
+      "SEXDSTN_FLAG_CD",
+      "AGRDE_FLAG_NM",
+      "ANSWRR_OC_AREA_NM",
+      "HSHLD_INCOME_DGREE_NM",
+      "ALL_TURSM_TOUR_EXPNDTR_INTEN_VALUE",
+      "DMSTC_TURSM_TOUR_EXPNDTR_INTEN_VALUE",
+      "OVSEA_TURSM_TOUR_EXPNDTR_INTEN_VALUE"
+    ],
+    "dtypes": {
+      "EXAMIN_BEGIN_DE": "int64",
+      "SEXDSTN_FLAG_CD": "object",
+      "AGRDE_FLAG_NM": "object",
+      "ANSWRR_OC_AREA_NM": "object",
+      "HSHLD_INCOME_DGREE_NM": "object",
+      "ALL_TURSM_TOUR_EXPNDTR_INTEN_VALUE": "object",
+      "DMSTC_TURSM_TOUR_EXPNDTR_INTEN_VALUE": "object",
+      "OVSEA_TURSM_TOUR_EXPNDTR_INTEN_VALUE": "object"
+    },
+    "missing_counts_sample": {
+      "EXAMIN_BEGIN_DE": 0,
+      "SEXDSTN_FLAG_CD": 0,
+      "AGRDE_FLAG_NM": 0,
+      "ANSWRR_OC_AREA_NM": 0,
+      "HSHLD_INCOME_DGREE_NM": 0,
+      "ALL_TURSM_TOUR_EXPNDTR_INTEN_VALUE": 0,
+      "DMSTC_TURSM_TOUR_EXPNDTR_INTEN_VALUE": 0,
+      "OVSEA_TURSM_TOUR_EXPNDTR_INTEN_VALUE": 0
+    },
+    "nunique_sample": {
+      "EXAMIN_BEGIN_DE": 1,
+      "SEXDSTN_FLAG_CD": 2,
+      "AGRDE_FLAG_NM": 5,
+      "ANSWRR_OC_AREA_NM": 16,
+      "HSHLD_INCOME_DGREE_NM": 5,
+      "ALL_TURSM_TOUR_EXPNDTR_INTEN_VALUE": 5,
+      "DMSTC_TURSM_TOUR_EXPNDTR_INTEN_VALUE": 5,
+      "OVSEA_TURSM_TOUR_EXPNDTR_INTEN_VALUE": 5
+    }
+  },
+  {
+    "file": "설문_국내_여행_비용_지출_특성_통합.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 28858,
+    "sample_rows": 300,
+    "n_cols": 18,
+    "columns": [
+      "EXAMIN_BEGIN_DE",
+      "TOUR_TOT_CT_VALUE",
+      "TOUR_LDGMNT_CT_VALUE",
+      "TOUR_FOOD_CT_VALUE",
+      "TOUR_TRNSPORT_CT_VALUE",
+      "TOUR_SHOPNG_CT_VALUE",
+      "TOUR_ACTVTY_CT_VALUE",
+      "TOUR_ETC_CT_VALUE",
+      "TOUR_CTPRVN_NM",
+      "TOUR_SIGNGU_NM",
+      "TOUR_COM_NMPR_NM",
+      "TOUR_PD_VALUE",
+      "SEXDSTN_FLAG_CD",
+      "AGRDE_FLAG_NM",
+      "MRRG_AT_NM",
+      "CHLDRN_TY_NM",
+      "OCCP_NM",
+      "HSHLD_INCOME_DGREE_NM"
+    ],
+    "dtypes": {
+      "EXAMIN_BEGIN_DE": "int64",
+      "TOUR_TOT_CT_VALUE": "object",
+      "TOUR_LDGMNT_CT_VALUE": "object",
+      "TOUR_FOOD_CT_VALUE": "object",
+      "TOUR_TRNSPORT_CT_VALUE": "object",
+      "TOUR_SHOPNG_CT_VALUE": "object",
+      "TOUR_ACTVTY_CT_VALUE": "object",
+      "TOUR_ETC_CT_VALUE": "object",
+      "TOUR_CTPRVN_NM": "object",
+      "TOUR_SIGNGU_NM": "object",
+      "TOUR_COM_NMPR_NM": "object",
+      "TOUR_PD_VALUE": "object",
+      "SEXDSTN_FLAG_CD": "object",
+      "AGRDE_FLAG_NM": "object",
+      "MRRG_AT_NM": "object",
+      "CHLDRN_TY_NM": "object",
+      "OCCP_NM": "object",
+      "HSHLD_INCOME_DGREE_NM": "object"
+    },
+    "missing_counts_sample": {
+      "EXAMIN_BEGIN_DE": 0,
+      "TOUR_TOT_CT_VALUE": 0,
+      "TOUR_LDGMNT_CT_VALUE": 0,
+      "TOUR_FOOD_CT_VALUE": 0,
+      "TOUR_TRNSPORT_CT_VALUE": 0,
+      "TOUR_SHOPNG_CT_VALUE": 0,
+      "TOUR_ACTVTY_CT_VALUE": 0,
+      "TOUR_ETC_CT_VALUE": 0,
+      "TOUR_CTPRVN_NM": 0,
+      "TOUR_SIGNGU_NM": 0,
+      "TOUR_COM_NMPR_NM": 0,
+      "TOUR_PD_VALUE": 0,
+      "SEXDSTN_FLAG_CD": 0,
+      "AGRDE_FLAG_NM": 0,
+      "MRRG_AT_NM": 0,
+      "CHLDRN_TY_NM": 0,
+      "OCCP_NM": 0,
+      "HSHLD_INCOME_DGREE_NM": 0
+    },
+    "nunique_sample": {
+      "EXAMIN_BEGIN_DE": 1,
+      "TOUR_TOT_CT_VALUE": 6,
+      "TOUR_LDGMNT_CT_VALUE": 7,
+      "TOUR_FOOD_CT_VALUE": 7,
+      "TOUR_TRNSPORT_CT_VALUE": 7,
+      "TOUR_SHOPNG_CT_VALUE": 7,
+      "TOUR_ACTVTY_CT_VALUE": 7,
+      "TOUR_ETC_CT_VALUE": 7,
+      "TOUR_CTPRVN_NM": 16,
+      "TOUR_SIGNGU_NM": 134,
+      "TOUR_COM_NMPR_NM": 6,
+      "TOUR_PD_VALUE": 7,
+      "SEXDSTN_FLAG_CD": 2,
+      "AGRDE_FLAG_NM": 5,
+      "MRRG_AT_NM": 3,
+      "CHLDRN_TY_NM": 6,
+      "OCCP_NM": 8,
+      "HSHLD_INCOME_DGREE_NM": 5
+    }
+  },
+  {
+    "file": "설문_국내_여행자_특성.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 1968,
+    "sample_rows": 300,
+    "n_cols": 4,
+    "columns": [
+      "EXAMIN_YM",
+      "RESPOND_CHARTR_SDIV_ID",
+      "RESPOND_CHARTR_SDIV_NM",
+      "RSPNS_RATE"
+    ],
+    "dtypes": {
+      "EXAMIN_YM": "int64",
+      "RESPOND_CHARTR_SDIV_ID": "object",
+      "RESPOND_CHARTR_SDIV_NM": "object",
+      "RSPNS_RATE": "float64"
+    },
+    "missing_counts_sample": {
+      "EXAMIN_YM": 0,
+      "RESPOND_CHARTR_SDIV_ID": 0,
+      "RESPOND_CHARTR_SDIV_NM": 0,
+      "RSPNS_RATE": 0
+    },
+    "nunique_sample": {
+      "EXAMIN_YM": 8,
+      "RESPOND_CHARTR_SDIV_ID": 47,
+      "RESPOND_CHARTR_SDIV_NM": 57,
+      "RSPNS_RATE": 175
+    }
+  },
+  {
+    "file": "설문_국내_여행지역_관심도.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 23064,
+    "sample_rows": 300,
+    "n_cols": 16,
+    "columns": [
+      "EXAMIN_BEGIN_DE",
+      "SEXDSTN_FLAG_CD",
+      "AGRDE_FLAG_NM",
+      "ANSWRR_OC_AREA_NM",
+      "HSHLD_INCOME_DGREE_NM",
+      "SU_TOUR_INTRST_VALUE",
+      "GG_IC_TOUR_INTRST_VALUE",
+      "BS_TOUR_INTRST_VALUE",
+      "CHN_DJ_TOUR_INTRST_VALUE",
+      "CB_TOUR_INTRST_VALUE",
+      "GN_US_TOUR_INTRST_VALUE",
+      "GB_DG_TOUR_INTRST_VALUE",
+      "JN_GJ_TOUR_INTRST_VALUE",
+      "JNBK_TOUR_INTRST_VALUE",
+      "GW_TOUR_INTRST_VALUE",
+      "JJ_TOUR_INTRST_VALUE"
+    ],
+    "dtypes": {
+      "EXAMIN_BEGIN_DE": "int64",
+      "SEXDSTN_FLAG_CD": "object",
+      "AGRDE_FLAG_NM": "object",
+      "ANSWRR_OC_AREA_NM": "object",
+      "HSHLD_INCOME_DGREE_NM": "object",
+      "SU_TOUR_INTRST_VALUE": "object",
+      "GG_IC_TOUR_INTRST_VALUE": "object",
+      "BS_TOUR_INTRST_VALUE": "object",
+      "CHN_DJ_TOUR_INTRST_VALUE": "object",
+      "CB_TOUR_INTRST_VALUE": "object",
+      "GN_US_TOUR_INTRST_VALUE": "object",
+      "GB_DG_TOUR_INTRST_VALUE": "object",
+      "JN_GJ_TOUR_INTRST_VALUE": "object",
+      "JNBK_TOUR_INTRST_VALUE": "object",
+      "GW_TOUR_INTRST_VALUE": "object",
+      "JJ_TOUR_INTRST_VALUE": "object"
+    },
+    "missing_counts_sample": {
+      "EXAMIN_BEGIN_DE": 0,
+      "SEXDSTN_FLAG_CD": 0,
+      "AGRDE_FLAG_NM": 0,
+      "ANSWRR_OC_AREA_NM": 0,
+      "HSHLD_INCOME_DGREE_NM": 0,
+      "SU_TOUR_INTRST_VALUE": 0,
+      "GG_IC_TOUR_INTRST_VALUE": 0,
+      "BS_TOUR_INTRST_VALUE": 0,
+      "CHN_DJ_TOUR_INTRST_VALUE": 0,
+      "CB_TOUR_INTRST_VALUE": 0,
+      "GN_US_TOUR_INTRST_VALUE": 0,
+      "GB_DG_TOUR_INTRST_VALUE": 0,
+      "JN_GJ_TOUR_INTRST_VALUE": 0,
+      "JNBK_TOUR_INTRST_VALUE": 0,
+      "GW_TOUR_INTRST_VALUE": 0,
+      "JJ_TOUR_INTRST_VALUE": 0
+    },
+    "nunique_sample": {
+      "EXAMIN_BEGIN_DE": 2,
+      "SEXDSTN_FLAG_CD": 2,
+      "AGRDE_FLAG_NM": 5,
+      "ANSWRR_OC_AREA_NM": 16,
+      "HSHLD_INCOME_DGREE_NM": 5,
+      "SU_TOUR_INTRST_VALUE": 5,
+      "GG_IC_TOUR_INTRST_VALUE": 5,
+      "BS_TOUR_INTRST_VALUE": 5,
+      "CHN_DJ_TOUR_INTRST_VALUE": 5,
+      "CB_TOUR_INTRST_VALUE": 5,
+      "GN_US_TOUR_INTRST_VALUE": 5,
+      "GB_DG_TOUR_INTRST_VALUE": 5,
+      "JN_GJ_TOUR_INTRST_VALUE": 5,
+      "JNBK_TOUR_INTRST_VALUE": 5,
+      "GW_TOUR_INTRST_VALUE": 5,
+      "JJ_TOUR_INTRST_VALUE": 5
+    }
+  },
+  {
+    "file": "설문_국내여행_TOP10_트랜드_데이터_결과.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 1004,
+    "sample_rows": 300,
+    "n_cols": 8,
+    "columns": [
+      "week_label",
+      "SRCHWRD_NM",
+      "UPPER_CTGRY_NM",
+      "LWPRT_CTGRY_NM",
+      "AREA_NM",
+      "MOBILE_SCCNT_VALUE",
+      "PC_SCCNT_VALUE",
+      "SCCNT_SM_VALUE"
+    ],
+    "dtypes": {
+      "week_label": "object",
+      "SRCHWRD_NM": "object",
+      "UPPER_CTGRY_NM": "object",
+      "LWPRT_CTGRY_NM": "object",
+      "AREA_NM": "object",
+      "MOBILE_SCCNT_VALUE": "int64",
+      "PC_SCCNT_VALUE": "int64",
+      "SCCNT_SM_VALUE": "int64"
+    },
+    "missing_counts_sample": {
+      "week_label": 0,
+      "SRCHWRD_NM": 0,
+      "UPPER_CTGRY_NM": 0,
+      "LWPRT_CTGRY_NM": 0,
+      "AREA_NM": 0,
+      "MOBILE_SCCNT_VALUE": 0,
+      "PC_SCCNT_VALUE": 0,
+      "SCCNT_SM_VALUE": 0
+    },
+    "nunique_sample": {
+      "week_label": 28,
+      "SRCHWRD_NM": 16,
+      "UPPER_CTGRY_NM": 1,
+      "LWPRT_CTGRY_NM": 1,
+      "AREA_NM": 9,
+      "MOBILE_SCCNT_VALUE": 292,
+      "PC_SCCNT_VALUE": 280,
+      "SCCNT_SM_VALUE": 297
+    }
+  },
+  {
+    "file": "월별_검색건수 추이.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 360,
+    "sample_rows": 300,
+    "n_cols": 5,
+    "columns": [
+      "기간",
+      "기준년월",
+      "기초지자체",
+      "카테고리중분류명",
+      "기초지자체 검색건수"
+    ],
+    "dtypes": {
+      "기간": "object",
+      "기준년월": "int64",
+      "기초지자체": "object",
+      "카테고리중분류명": "object",
+      "기초지자체 검색건수": "int64"
+    },
+    "missing_counts_sample": {
+      "기간": 0,
+      "기준년월": 0,
+      "기초지자체": 0,
+      "카테고리중분류명": 0,
+      "기초지자체 검색건수": 0
+    },
+    "nunique_sample": {
+      "기간": 3,
+      "기준년월": 36,
+      "기초지자체": 1,
+      "카테고리중분류명": 10,
+      "기초지자체 검색건수": 297
+    }
+  },
+  {
+    "file": "월별_경기도_파주시_지역화폐 발행및이용현황.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 46,
+    "sample_rows": 46,
+    "n_cols": 8,
+    "columns": [
+      "시도명",
+      "시군구명",
+      "발행년월",
+      "월별카드발행수량",
+      "월별카드충전액",
+      "월별카드사용액",
+      "관리기관명",
+      "관리기관전화번호"
+    ],
+    "dtypes": {
+      "시도명": "object",
+      "시군구명": "object",
+      "발행년월": "object",
+      "월별카드발행수량": "int64",
+      "월별카드충전액": "int64",
+      "월별카드사용액": "int64",
+      "관리기관명": "object",
+      "관리기관전화번호": "object"
+    },
+    "missing_counts_sample": {
+      "시도명": 0,
+      "시군구명": 0,
+      "발행년월": 0,
+      "월별카드발행수량": 0,
+      "월별카드충전액": 0,
+      "월별카드사용액": 0,
+      "관리기관명": 0,
+      "관리기관전화번호": 0
+    },
+    "nunique_sample": {
+      "시도명": 1,
+      "시군구명": 1,
+      "발행년월": 46,
+      "월별카드발행수량": 45,
+      "월별카드충전액": 46,
+      "월별카드사용액": 46,
+      "관리기관명": 1,
+      "관리기관전화번호": 1
+    }
+  },
+  {
+    "file": "월별_관광지_방문객추세_LG유플러스.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 23,
+    "sample_rows": 23,
+    "n_cols": 10,
+    "columns": [
+      "연도",
+      "월",
+      "방문인구(명)",
+      "누적방문인구(명)",
+      "전월대비 증감률(%)",
+      "전년동월대비 증감률(%)",
+      "3개월 이동평균(명)",
+      "방문인구 지수(평균=100)",
+      "성수기 구분",
+      "기준월"
+    ],
+    "dtypes": {
+      "연도": "int64",
+      "월": "int64",
+      "방문인구(명)": "int64",
+      "누적방문인구(명)": "int64",
+      "전월대비 증감률(%)": "float64",
+      "전년동월대비 증감률(%)": "float64",
+      "3개월 이동평균(명)": "float64",
+      "방문인구 지수(평균=100)": "float64",
+      "성수기 구분": "object",
+      "기준월": "object"
+    },
+    "missing_counts_sample": {
+      "연도": 0,
+      "월": 0,
+      "방문인구(명)": 0,
+      "누적방문인구(명)": 0,
+      "전월대비 증감률(%)": 1,
+      "전년동월대비 증감률(%)": 12,
+      "3개월 이동평균(명)": 2,
+      "방문인구 지수(평균=100)": 0,
+      "성수기 구분": 0,
+      "기준월": 0
+    },
+    "nunique_sample": {
+      "연도": 3,
+      "월": 12,
+      "방문인구(명)": 23,
+      "누적방문인구(명)": 23,
+      "전월대비 증감률(%)": 21,
+      "전년동월대비 증감률(%)": 11,
+      "3개월 이동평균(명)": 21,
+      "방문인구 지수(평균=100)": 23,
+      "성수기 구분": 3,
+      "기준월": 23
+    }
+  },
+  {
+    "file": "월별_관광지_소비지표_삼성카드.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 23,
+    "sample_rows": 23,
+    "n_cols": 13,
+    "columns": [
+      "연도",
+      "월",
+      "매출금액(백만원)",
+      "매출건수(건)",
+      "누적매출금액(백만원)",
+      "전월대비 매출증감률(%)",
+      "전년동월대비 매출증감률(%)",
+      "3개월 이동평균 매출(백만원)",
+      "월별 매출비중(%)",
+      "객단가(만원)",
+      "객단가(원)",
+      "건담 이용지수(평균=100)",
+      "기준월"
+    ],
+    "dtypes": {
+      "연도": "int64",
+      "월": "int64",
+      "매출금액(백만원)": "int64",
+      "매출건수(건)": "int64",
+      "누적매출금액(백만원)": "int64",
+      "전월대비 매출증감률(%)": "float64",
+      "전년동월대비 매출증감률(%)": "float64",
+      "3개월 이동평균 매출(백만원)": "float64",
+      "월별 매출비중(%)": "float64",
+      "객단가(만원)": "float64",
+      "객단가(원)": "int64",
+      "건담 이용지수(평균=100)": "float64",
+      "기준월": "object"
+    },
+    "missing_counts_sample": {
+      "연도": 0,
+      "월": 0,
+      "매출금액(백만원)": 0,
+      "매출건수(건)": 0,
+      "누적매출금액(백만원)": 0,
+      "전월대비 매출증감률(%)": 1,
+      "전년동월대비 매출증감률(%)": 12,
+      "3개월 이동평균 매출(백만원)": 2,
+      "월별 매출비중(%)": 0,
+      "객단가(만원)": 0,
+      "객단가(원)": 0,
+      "건담 이용지수(평균=100)": 0,
+      "기준월": 0
+    },
+    "nunique_sample": {
+      "연도": 3,
+      "월": 12,
+      "매출금액(백만원)": 23,
+      "매출건수(건)": 23,
+      "누적매출금액(백만원)": 23,
+      "전월대비 매출증감률(%)": 22,
+      "전년동월대비 매출증감률(%)": 11,
+      "3개월 이동평균 매출(백만원)": 21,
+      "월별 매출비중(%)": 23,
+      "객단가(만원)": 12,
+      "객단가(원)": 23,
+      "건담 이용지수(평균=100)": 22,
+      "기준월": 23
+    }
+  },
+  {
+    "file": "월별_방문자수 히트맵.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 131,
+    "sample_rows": 131,
+    "n_cols": 3,
+    "columns": [
+      "기간",
+      "기초지자체",
+      "검색건수"
+    ],
+    "dtypes": {
+      "기간": "object",
+      "기초지자체": "object",
+      "검색건수": "int64"
+    },
+    "missing_counts_sample": {
+      "기간": 0,
+      "기초지자체": 0,
+      "검색건수": 0
+    },
+    "nunique_sample": {
+      "기간": 3,
+      "기초지자체": 45,
+      "검색건수": 131
+    }
+  },
+  {
+    "file": "월별_생활인구_LG유플러스.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 19,
+    "sample_rows": 19,
+    "n_cols": 2,
+    "columns": [
+      "기준연월",
+      "생활인구수"
+    ],
+    "dtypes": {
+      "기준연월": "int64",
+      "생활인구수": "int64"
+    },
+    "missing_counts_sample": {
+      "기준연월": 0,
+      "생활인구수": 0
+    },
+    "nunique_sample": {
+      "기준연월": 19,
+      "생활인구수": 19
+    }
+  },
+  {
+    "file": "월별_유형별 검색건수.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 27,
+    "sample_rows": 27,
+    "n_cols": 4,
+    "columns": [
+      "기간",
+      "카테고리중분류명",
+      "유형별 검색건수",
+      "유형별 검색건수 비율"
+    ],
+    "dtypes": {
+      "기간": "object",
+      "카테고리중분류명": "object",
+      "유형별 검색건수": "int64",
+      "유형별 검색건수 비율": "float64"
+    },
+    "missing_counts_sample": {
+      "기간": 0,
+      "카테고리중분류명": 0,
+      "유형별 검색건수": 0,
+      "유형별 검색건수 비율": 0
+    },
+    "nunique_sample": {
+      "기간": 3,
+      "카테고리중분류명": 9,
+      "유형별 검색건수": 27,
+      "유형별 검색건수 비율": 25
+    }
+  },
+  {
+    "file": "월별_지역별 검색건수.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 1175,
+    "sample_rows": 300,
+    "n_cols": 7,
+    "columns": [
+      "기간",
+      "기초지자체",
+      "카테고리중분류명 ",
+      "기초지자체 검색건수",
+      "기초지자체 검색건수 비율",
+      "중분류 검색건수",
+      "중분류 검색건수 비율"
+    ],
+    "dtypes": {
+      "기간": "object",
+      "기초지자체": "object",
+      "카테고리중분류명 ": "object",
+      "기초지자체 검색건수": "int64",
+      "기초지자체 검색건수 비율": "float64",
+      "중분류 검색건수": "int64",
+      "중분류 검색건수 비율": "float64"
+    },
+    "missing_counts_sample": {
+      "기간": 0,
+      "기초지자체": 0,
+      "카테고리중분류명 ": 0,
+      "기초지자체 검색건수": 0,
+      "기초지자체 검색건수 비율": 0,
+      "중분류 검색건수": 0,
+      "중분류 검색건수 비율": 0
+    },
+    "nunique_sample": {
+      "기간": 1,
+      "기초지자체": 34,
+      "카테고리중분류명 ": 9,
+      "기초지자체 검색건수": 34,
+      "기초지자체 검색건수 비율": 26,
+      "중분류 검색건수": 300,
+      "중분류 검색건수 비율": 157
+    }
+  },
+  {
+    "file": "월별_파주시방문 추이.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 36,
+    "sample_rows": 36,
+    "n_cols": 5,
+    "columns": [
+      "기준년월",
+      "구분",
+      "방문지",
+      "방문자 수",
+      "방문자 수 비율"
+    ],
+    "dtypes": {
+      "기준년월": "int64",
+      "구분": "object",
+      "방문지": "object",
+      "방문자 수": "int64",
+      "방문자 수 비율": "int64"
+    },
+    "missing_counts_sample": {
+      "기준년월": 0,
+      "구분": 0,
+      "방문지": 0,
+      "방문자 수": 0,
+      "방문자 수 비율": 0
+    },
+    "nunique_sample": {
+      "기준년월": 36,
+      "구분": 1,
+      "방문지": 1,
+      "방문자 수": 36,
+      "방문자 수 비율": 1
+    }
+  },
+  {
+    "file": "현시점_업종별 관광사업체 수.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 24,
+    "sample_rows": 24,
+    "n_cols": 4,
+    "columns": [
+      "업종명",
+      "기준년도",
+      "상위업종명",
+      "영업현황수"
+    ],
+    "dtypes": {
+      "업종명": "object",
+      "기준년도": "int64",
+      "상위업종명": "object",
+      "영업현황수": "int64"
+    },
+    "missing_counts_sample": {
+      "업종명": 0,
+      "기준년도": 0,
+      "상위업종명": 0,
+      "영업현황수": 0
+    },
+    "nunique_sample": {
+      "업종명": 18,
+      "기준년도": 1,
+      "상위업종명": 7,
+      "영업현황수": 16
+    }
+  },
+  {
+    "file": "현시점_행정동별_생활인구_경기데이터드림.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 19,
+    "sample_rows": 19,
+    "n_cols": 5,
+    "columns": [
+      "행정동명",
+      "거주인구",
+      "방문인구",
+      "근무인구",
+      "생활인구"
+    ],
+    "dtypes": {
+      "행정동명": "object",
+      "거주인구": "float64",
+      "방문인구": "float64",
+      "근무인구": "float64",
+      "생활인구": "float64"
+    },
+    "missing_counts_sample": {
+      "행정동명": 0,
+      "거주인구": 0,
+      "방문인구": 0,
+      "근무인구": 0,
+      "생활인구": 0
+    },
+    "nunique_sample": {
+      "행정동명": 19,
+      "거주인구": 19,
+      "방문인구": 19,
+      "근무인구": 19,
+      "생활인구": 19
+    }
+  },
+  {
+    "file": "현시점_행정동별_숙박시설 및 객실 수 상세.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 362,
+    "sample_rows": 300,
+    "n_cols": 8,
+    "columns": [
+      "번호",
+      "지역",
+      "업종",
+      "상호",
+      "주소",
+      "연락처",
+      "객실수",
+      "기타"
+    ],
+    "dtypes": {
+      "번호": "object",
+      "지역": "object",
+      "업종": "object",
+      "상호": "object",
+      "주소": "object",
+      "연락처": "object",
+      "객실수": "object",
+      "기타": "object"
+    },
+    "missing_counts_sample": {
+      "번호": 0,
+      "지역": 0,
+      "업종": 0,
+      "상호": 0,
+      "주소": 0,
+      "연락처": 0,
+      "객실수": 0,
+      "기타": 299
+    },
+    "nunique_sample": {
+      "번호": 300,
+      "지역": 16,
+      "업종": 4,
+      "상호": 288,
+      "주소": 287,
+      "연락처": 279,
+      "객실수": 50,
+      "기타": 1
+    }
+  },
+  {
+    "file": "현시점_행정동별_식품위생업소_영업유형분포_삼성카드.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 20,
+    "sample_rows": 20,
+    "n_cols": 9,
+    "columns": [
+      "행정동",
+      "식품위상업소수",
+      "음식점수",
+      "주점\\u00b7비알코올음료점업 수",
+      "음식점 비중(%)",
+      "주점\\u00b7비알 비중(%)",
+      "주점 비중(\\uc74c식+\\uc8fc점)",
+      "주점 대비 음식점 비율(%)",
+      "영업유형 구분"
+    ],
+    "dtypes": {
+      "행정동": "object",
+      "식품위상업소수": "int64",
+      "음식점수": "int64",
+      "주점\\u00b7비알코올음료점업 수": "int64",
+      "음식점 비중(%)": "float64",
+      "주점\\u00b7비알 비중(%)": "float64",
+      "주점 비중(\\uc74c식+\\uc8fc점)": "float64",
+      "주점 대비 음식점 비율(%)": "float64",
+      "영업유형 구분": "object"
+    },
+    "missing_counts_sample": {
+      "행정동": 0,
+      "식품위상업소수": 0,
+      "음식점수": 0,
+      "주점\\u00b7비알코올음료점업 수": 0,
+      "음식점 비중(%)": 0,
+      "주점\\u00b7비알 비중(%)": 0,
+      "주점 비중(\\uc74c식+\\uc8fc점)": 0,
+      "주점 대비 음식점 비율(%)": 0,
+      "영업유형 구분": 0
+    },
+    "nunique_sample": {
+      "행정동": 20,
+      "식품위상업소수": 19,
+      "음식점수": 20,
+      "주점\\u00b7비알코올음료점업 수": 20,
+      "음식점 비중(%)": 20,
+      "주점\\u00b7비알 비중(%)": 20,
+      "주점 비중(\\uc74c식+\\uc8fc점)": 20,
+      "주점 대비 음식점 비율(%)": 20,
+      "영업유형 구분": 3
+    }
+  },
+  {
+    "file": "현시점_행정동별_식품위생업소_지역별소비규모_경기데이터드림.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 20,
+    "sample_rows": 20,
+    "n_cols": 6,
+    "columns": [
+      "행정동",
+      "연간소비금액(백만원)",
+      "소비규모순위",
+      "전체비중(%)",
+      "누적비중(%)",
+      "소비규모군"
+    ],
+    "dtypes": {
+      "행정동": "object",
+      "연간소비금액(백만원)": "float64",
+      "소비규모순위": "int64",
+      "전체비중(%)": "float64",
+      "누적비중(%)": "float64",
+      "소비규모군": "object"
+    },
+    "missing_counts_sample": {
+      "행정동": 0,
+      "연간소비금액(백만원)": 0,
+      "소비규모순위": 0,
+      "전체비중(%)": 0,
+      "누적비중(%)": 0,
+      "소비규모군": 0
+    },
+    "nunique_sample": {
+      "행정동": 20,
+      "연간소비금액(백만원)": 20,
+      "소비규모순위": 20,
+      "전체비중(%)": 20,
+      "누적비중(%)": 20,
+      "소비규모군": 4
+    }
+  },
+  {
+    "file": "현시점_행정동별_인구소비지표_추정요약.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 20,
+    "sample_rows": 20,
+    "n_cols": 16,
+    "columns": [
+      "행정동",
+      "2023.01 방문인구(명)",
+      "2025.07 방문인구(명)",
+      "방문인구 증감(명)",
+      "방문인구 증감률(%)",
+      "2025.07 방문인구지수",
+      "2023.01 생산가능인구(명)",
+      "2025.07 생산가능인구(명)",
+      "생산가능인구 증감(명)",
+      "생산가능인구 증감률(%)",
+      "2025.07 생산가능인구지수",
+      "2023.01 인구활력지수",
+      "2025.07 인구활력지수",
+      "인구활력지수 변화",
+      "인구활력지수 증감률(%)",
+      "방문인구 증감방향"
+    ],
+    "dtypes": {
+      "행정동": "object",
+      "2023.01 방문인구(명)": "int64",
+      "2025.07 방문인구(명)": "int64",
+      "방문인구 증감(명)": "int64",
+      "방문인구 증감률(%)": "float64",
+      "2025.07 방문인구지수": "float64",
+      "2023.01 생산가능인구(명)": "int64",
+      "2025.07 생산가능인구(명)": "int64",
+      "생산가능인구 증감(명)": "int64",
+      "생산가능인구 증감률(%)": "float64",
+      "2025.07 생산가능인구지수": "float64",
+      "2023.01 인구활력지수": "float64",
+      "2025.07 인구활력지수": "float64",
+      "인구활력지수 변화": "float64",
+      "인구활력지수 증감률(%)": "float64",
+      "방문인구 증감방향": "object"
+    },
+    "missing_counts_sample": {
+      "행정동": 0,
+      "2023.01 방문인구(명)": 0,
+      "2025.07 방문인구(명)": 0,
+      "방문인구 증감(명)": 0,
+      "방문인구 증감률(%)": 0,
+      "2025.07 방문인구지수": 0,
+      "2023.01 생산가능인구(명)": 0,
+      "2025.07 생산가능인구(명)": 0,
+      "생산가능인구 증감(명)": 0,
+      "생산가능인구 증감률(%)": 0,
+      "2025.07 생산가능인구지수": 0,
+      "2023.01 인구활력지수": 0,
+      "2025.07 인구활력지수": 0,
+      "인구활력지수 변화": 0,
+      "인구활력지수 증감률(%)": 0,
+      "방문인구 증감방향": 0
+    },
+    "nunique_sample": {
+      "행정동": 20,
+      "2023.01 방문인구(명)": 20,
+      "2025.07 방문인구(명)": 20,
+      "방문인구 증감(명)": 20,
+      "방문인구 증감률(%)": 20,
+      "2025.07 방문인구지수": 20,
+      "2023.01 생산가능인구(명)": 20,
+      "2025.07 생산가능인구(명)": 20,
+      "생산가능인구 증감(명)": 20,
+      "생산가능인구 증감률(%)": 20,
+      "2025.07 생산가능인구지수": 20,
+      "2023.01 인구활력지수": 20,
+      "2025.07 인구활력지수": 20,
+      "인구활력지수 변화": 10,
+      "인구활력지수 증감률(%)": 19,
+      "방문인구 증감방향": 2
+    }
+  },
+  {
+    "file": "내외국인_비교데이터\\내국인 관심 관광지.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 100,
+    "sample_rows": 100,
+    "n_cols": 5,
+    "columns": [
+      "시군구명",
+      "시도명",
+      "관광지명",
+      "구분",
+      "방문자수"
+    ],
+    "dtypes": {
+      "시군구명": "object",
+      "시도명": "object",
+      "관광지명": "object",
+      "구분": "object",
+      "방문자수": "int64"
+    },
+    "missing_counts_sample": {
+      "시군구명": 0,
+      "시도명": 0,
+      "관광지명": 0,
+      "구분": 0,
+      "방문자수": 0
+    },
+    "nunique_sample": {
+      "시군구명": 1,
+      "시도명": 1,
+      "관광지명": 100,
+      "구분": 10,
+      "방문자수": 100
+    }
+  },
+  {
+    "file": "내외국인_비교데이터\\내외국인_관광소비 추이.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 864,
+    "sample_rows": 300,
+    "n_cols": 6,
+    "columns": [
+      "기간",
+      "기준년월",
+      "기초지자체",
+      "중분류",
+      "소비액(천원) (내국인)",
+      "소비액(천원) (외국인)"
+    ],
+    "dtypes": {
+      "기간": "object",
+      "기준년월": "int64",
+      "기초지자체": "object",
+      "중분류": "object",
+      "소비액(천원) (내국인)": "float64",
+      "소비액(천원) (외국인)": "float64"
+    },
+    "missing_counts_sample": {
+      "기간": 0,
+      "기준년월": 0,
+      "기초지자체": 0,
+      "중분류": 0,
+      "소비액(천원) (내국인)": 0,
+      "소비액(천원) (외국인)": 29
+    },
+    "nunique_sample": {
+      "기간": 2,
+      "기준년월": 17,
+      "기초지자체": 1,
+      "중분류": 18,
+      "소비액(천원) (내국인)": 300,
+      "소비액(천원) (외국인)": 262
+    }
+  },
+  {
+    "file": "내외국인_비교데이터\\내외국인_관광소비 히트맵.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 352,
+    "sample_rows": 300,
+    "n_cols": 6,
+    "columns": [
+      "기간",
+      "기초지자체",
+      "중분류",
+      "소비액(천원) (내국인)",
+      "전년동기 소비액 (내국인)",
+      "소비액(천원) (외국인)"
+    ],
+    "dtypes": {
+      "기간": "object",
+      "기초지자체": "object",
+      "중분류": "object",
+      "소비액(천원) (내국인)": "float64",
+      "전년동기 소비액 (내국인)": "float64",
+      "소비액(천원) (외국인)": "float64"
+    },
+    "missing_counts_sample": {
+      "기간": 0,
+      "기초지자체": 0,
+      "중분류": 0,
+      "소비액(천원) (내국인)": 167,
+      "전년동기 소비액 (내국인)": 167,
+      "소비액(천원) (외국인)": 133
+    },
+    "nunique_sample": {
+      "기간": 4,
+      "기초지자체": 45,
+      "중분류": 1,
+      "소비액(천원) (내국인)": 133,
+      "전년동기 소비액 (내국인)": 133,
+      "소비액(천원) (외국인)": 167
+    }
+  },
+  {
+    "file": "내외국인_비교데이터\\내외국인_업종별 지출액.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 68,
+    "sample_rows": 68,
+    "n_cols": 7,
+    "columns": [
+      "기간",
+      "대분류",
+      "중분류",
+      "대분류 지출액 비율 (내국인)",
+      "중분류 지출액 비율 (내국인)",
+      "대분류 지출액 비율 (외국인)",
+      "중분류 지출액 비율 (외국인)"
+    ],
+    "dtypes": {
+      "기간": "object",
+      "대분류": "object",
+      "중분류": "object",
+      "대분류 지출액 비율 (내국인)": "float64",
+      "중분류 지출액 비율 (내국인)": "float64",
+      "대분류 지출액 비율 (외국인)": "float64",
+      "중분류 지출액 비율 (외국인)": "float64"
+    },
+    "missing_counts_sample": {
+      "기간": 0,
+      "대분류": 0,
+      "중분류": 0,
+      "대분류 지출액 비율 (내국인)": 0,
+      "중분류 지출액 비율 (내국인)": 0,
+      "대분류 지출액 비율 (외국인)": 0,
+      "중분류 지출액 비율 (외국인)": 0
+    },
+    "nunique_sample": {
+      "기간": 4,
+      "대분류": 7,
+      "중분류": 17,
+      "대분류 지출액 비율 (내국인)": 24,
+      "중분류 지출액 비율 (내국인)": 56,
+      "대분류 지출액 비율 (외국인)": 23,
+      "중분류 지출액 비율 (외국인)": 61
+    }
+  },
+  {
+    "file": "내외국인_비교데이터\\내외국인_지역별 지출액.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 81,
+    "sample_rows": 81,
+    "n_cols": 4,
+    "columns": [
+      "기간",
+      "지역명",
+      "비율(%) (내국인)",
+      "비율(%) (외국인)"
+    ],
+    "dtypes": {
+      "기간": "object",
+      "지역명": "object",
+      "비율(%) (내국인)": "float64",
+      "비율(%) (외국인)": "float64"
+    },
+    "missing_counts_sample": {
+      "기간": 0,
+      "지역명": 1,
+      "비율(%) (내국인)": 0,
+      "비율(%) (외국인)": 1
+    },
+    "nunique_sample": {
+      "기간": 4,
+      "지역명": 20,
+      "비율(%) (내국인)": 52,
+      "비율(%) (외국인)": 38
+    }
+  },
+  {
+    "file": "내외국인_비교데이터\\인기관광지_외지인.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 100,
+    "sample_rows": 100,
+    "n_cols": 4,
+    "columns": [
+      "순위",
+      "관광지ID",
+      "관광지명",
+      "분류"
+    ],
+    "dtypes": {
+      "순위": "int64",
+      "관광지ID": "object",
+      "관광지명": "object",
+      "분류": "object"
+    },
+    "missing_counts_sample": {
+      "순위": 0,
+      "관광지ID": 0,
+      "관광지명": 0,
+      "분류": 0
+    },
+    "nunique_sample": {
+      "순위": 100,
+      "관광지ID": 100,
+      "관광지명": 100,
+      "분류": 25
+    }
+  },
+  {
+    "file": "내외국인_비교데이터\\인기관광지_전체.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 100,
+    "sample_rows": 100,
+    "n_cols": 4,
+    "columns": [
+      "순위",
+      "관광지ID",
+      "관광지명",
+      "분류"
+    ],
+    "dtypes": {
+      "순위": "int64",
+      "관광지ID": "object",
+      "관광지명": "object",
+      "분류": "object"
+    },
+    "missing_counts_sample": {
+      "순위": 0,
+      "관광지ID": 0,
+      "관광지명": 0,
+      "분류": 0
+    },
+    "nunique_sample": {
+      "순위": 100,
+      "관광지ID": 100,
+      "관광지명": 100,
+      "분류": 25
+    }
+  },
+  {
+    "file": "내외국인_비교데이터\\인기관광지_현지인.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 100,
+    "sample_rows": 100,
+    "n_cols": 4,
+    "columns": [
+      "순위",
+      "관광지ID",
+      "관광지명",
+      "분류"
+    ],
+    "dtypes": {
+      "순위": "int64",
+      "관광지ID": "object",
+      "관광지명": "object",
+      "분류": "object"
+    },
+    "missing_counts_sample": {
+      "순위": 0,
+      "관광지ID": 0,
+      "관광지명": 0,
+      "분류": 0
+    },
+    "nunique_sample": {
+      "순위": 100,
+      "관광지ID": 100,
+      "관광지명": 100,
+      "분류": 24
+    }
+  },
+  {
+    "file": "내외국인_비교데이터\\주요 유료관광지점 입장객 수_내국인 .csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 504,
+    "sample_rows": 300,
+    "n_cols": 7,
+    "columns": [
+      "순위",
+      "광역지자체명",
+      "기초지자체명",
+      "관광지명",
+      "기준연월",
+      "입장객수",
+      "입장객 수 총계"
+    ],
+    "dtypes": {
+      "순위": "int64",
+      "광역지자체명": "object",
+      "기초지자체명": "object",
+      "관광지명": "object",
+      "기준연월": "int64",
+      "입장객수": "object",
+      "입장객 수 총계": "float64"
+    },
+    "missing_counts_sample": {
+      "순위": 0,
+      "광역지자체명": 0,
+      "기초지자체명": 0,
+      "관광지명": 0,
+      "기준연월": 0,
+      "입장객수": 0,
+      "입장객 수 총계": 0
+    },
+    "nunique_sample": {
+      "순위": 17,
+      "광역지자체명": 1,
+      "기초지자체명": 1,
+      "관광지명": 17,
+      "기준연월": 18,
+      "입장객수": 288,
+      "입장객 수 총계": 17
+    }
+  },
+  {
+    "file": "내외국인_비교데이터\\주요 유료관광지점 입장객 수_외국인.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 270,
+    "sample_rows": 270,
+    "n_cols": 7,
+    "columns": [
+      "순위",
+      "광역지자체명",
+      "기초지자체명",
+      "관광지명",
+      "기준연월",
+      "입장객수",
+      "입장객 수 총계"
+    ],
+    "dtypes": {
+      "순위": "int64",
+      "광역지자체명": "object",
+      "기초지자체명": "object",
+      "관광지명": "object",
+      "기준연월": "int64",
+      "입장객수": "object",
+      "입장객 수 총계": "float64"
+    },
+    "missing_counts_sample": {
+      "순위": 0,
+      "광역지자체명": 0,
+      "기초지자체명": 0,
+      "관광지명": 0,
+      "기준연월": 0,
+      "입장객수": 0,
+      "입장객 수 총계": 0
+    },
+    "nunique_sample": {
+      "순위": 15,
+      "광역지자체명": 1,
+      "기초지자체명": 1,
+      "관광지명": 15,
+      "기준연월": 18,
+      "입장객수": 105,
+      "입장객 수 총계": 15
+    }
+  },
+  {
+    "file": "내외국인_비교데이터\\주요 유료관광지점 입장객 수_전체.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 504,
+    "sample_rows": 300,
+    "n_cols": 7,
+    "columns": [
+      "순위",
+      "광역지자체명",
+      "기초지자체명",
+      "관광지명",
+      "기준연월",
+      "입장객수",
+      "입장객총계"
+    ],
+    "dtypes": {
+      "순위": "int64",
+      "광역지자체명": "object",
+      "기초지자체명": "object",
+      "관광지명": "object",
+      "기준연월": "int64",
+      "입장객수": "object",
+      "입장객총계": "float64"
+    },
+    "missing_counts_sample": {
+      "순위": 0,
+      "광역지자체명": 0,
+      "기초지자체명": 0,
+      "관광지명": 0,
+      "기준연월": 0,
+      "입장객수": 0,
+      "입장객총계": 0
+    },
+    "nunique_sample": {
+      "순위": 17,
+      "광역지자체명": 1,
+      "기초지자체명": 1,
+      "관광지명": 17,
+      "기준연월": 18,
+      "입장객수": 286,
+      "입장객총계": 17
+    }
+  },
+  {
+    "file": "내외국인_비교데이터\\중심 관광지.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 100,
+    "sample_rows": 100,
+    "n_cols": 4,
+    "columns": [
+      "순위",
+      "관광지ID",
+      "관광지명",
+      "분류"
+    ],
+    "dtypes": {
+      "순위": "int64",
+      "관광지ID": "object",
+      "관광지명": "object",
+      "분류": "object"
+    },
+    "missing_counts_sample": {
+      "순위": 0,
+      "관광지ID": 0,
+      "관광지명": 0,
+      "분류": 0
+    },
+    "nunique_sample": {
+      "순위": 100,
+      "관광지ID": 98,
+      "관광지명": 98,
+      "분류": 8
+    }
+  },
+  {
+    "file": "내외국인_비교데이터\\지역_맛집_외지인.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 100,
+    "sample_rows": 100,
+    "n_cols": 4,
+    "columns": [
+      "순위",
+      "관광지ID",
+      "업소명",
+      "분류"
+    ],
+    "dtypes": {
+      "순위": "int64",
+      "관광지ID": "object",
+      "업소명": "object",
+      "분류": "object"
+    },
+    "missing_counts_sample": {
+      "순위": 0,
+      "관광지ID": 0,
+      "업소명": 0,
+      "분류": 0
+    },
+    "nunique_sample": {
+      "순위": 98,
+      "관광지ID": 100,
+      "업소명": 100,
+      "분류": 5
+    }
+  },
+  {
+    "file": "내외국인_비교데이터\\지역_맛집_전체.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 100,
+    "sample_rows": 100,
+    "n_cols": 4,
+    "columns": [
+      "순위",
+      "관광지ID",
+      "업소명",
+      "분류"
+    ],
+    "dtypes": {
+      "순위": "int64",
+      "관광지ID": "object",
+      "업소명": "object",
+      "분류": "object"
+    },
+    "missing_counts_sample": {
+      "순위": 0,
+      "관광지ID": 0,
+      "업소명": 0,
+      "분류": 0
+    },
+    "nunique_sample": {
+      "순위": 100,
+      "관광지ID": 100,
+      "업소명": 100,
+      "분류": 5
+    }
+  },
+  {
+    "file": "내외국인_비교데이터\\지역맛집_현지인.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 100,
+    "sample_rows": 100,
+    "n_cols": 4,
+    "columns": [
+      "순위",
+      "관광지ID",
+      "업소명",
+      "분류"
+    ],
+    "dtypes": {
+      "순위": "int64",
+      "관광지ID": "object",
+      "업소명": "object",
+      "분류": "object"
+    },
+    "missing_counts_sample": {
+      "순위": 0,
+      "관광지ID": 0,
+      "업소명": 0,
+      "분류": 0
+    },
+    "nunique_sample": {
+      "순위": 100,
+      "관광지ID": 100,
+      "업소명": 100,
+      "분류": 5
+    }
+  }
+]

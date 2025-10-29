@@ -1,0 +1,30 @@
+{
+  "file_name": "월별_검색건수 추이.csv",
+  "columns": [
+    {
+      "column_name": "기간",
+      "label_en": "기간",
+      "description": "Original field '기간' from the source dataset."
+    },
+    {
+      "column_name": "기준년월",
+      "label_en": "기준년월",
+      "description": "Original field '기준년월' from the source dataset."
+    },
+    {
+      "column_name": "기초지자체",
+      "label_en": "기초지자체",
+      "description": "Original field '기초지자체' from the source dataset."
+    },
+    {
+      "column_name": "카테고리중분류명",
+      "label_en": "카테고리중분류명",
+      "description": "Original field '카테고리중분류명' from the source dataset."
+    },
+    {
+      "column_name": "기초지자체 검색건수",
+      "label_en": "기초지자체 검색건수",
+      "description": "Original field '기초지자체 검색건수' from the source dataset."
+    }
+  ]
+}

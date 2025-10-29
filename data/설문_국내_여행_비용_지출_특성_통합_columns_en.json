@@ -1,0 +1,95 @@
+{
+  "file_name": "설문_국내_여행_비용_지출_특성_통합.csv",
+  "columns": [
+    {
+      "column_name": "EXAMIN_BEGIN_DE",
+      "label_en": "EXAMIN_BEGIN_DE",
+      "description": "Original field 'EXAMIN_BEGIN_DE' from the source dataset."
+    },
+    {
+      "column_name": "TOUR_TOT_CT_VALUE",
+      "label_en": "TOUR_TOT_CT_VALUE",
+      "description": "Original field 'TOUR_TOT_CT_VALUE' from the source dataset."
+    },
+    {
+      "column_name": "TOUR_LDGMNT_CT_VALUE",
+      "label_en": "TOUR_LDGMNT_CT_VALUE",
+      "description": "Original field 'TOUR_LDGMNT_CT_VALUE' from the source dataset."
+    },
+    {
+      "column_name": "TOUR_FOOD_CT_VALUE",
+      "label_en": "TOUR_FOOD_CT_VALUE",
+      "description": "Original field 'TOUR_FOOD_CT_VALUE' from the source dataset."
+    },
+    {
+      "column_name": "TOUR_TRNSPORT_CT_VALUE",
+      "label_en": "TOUR_TRNSPORT_CT_VALUE",
+      "description": "Original field 'TOUR_TRNSPORT_CT_VALUE' from the source dataset."
+    },
+    {
+      "column_name": "TOUR_SHOPNG_CT_VALUE",
+      "label_en": "TOUR_SHOPNG_CT_VALUE",
+      "description": "Original field 'TOUR_SHOPNG_CT_VALUE' from the source dataset."
+    },
+    {
+      "column_name": "TOUR_ACTVTY_CT_VALUE",
+      "label_en": "TOUR_ACTVTY_CT_VALUE",
+      "description": "Original field 'TOUR_ACTVTY_CT_VALUE' from the source dataset."
+    },
+    {
+      "column_name": "TOUR_ETC_CT_VALUE",
+      "label_en": "TOUR_ETC_CT_VALUE",
+      "description": "Original field 'TOUR_ETC_CT_VALUE' from the source dataset."
+    },
+    {
+      "column_name": "TOUR_CTPRVN_NM",
+      "label_en": "TOUR_CTPRVN_NM",
+      "description": "Original field 'TOUR_CTPRVN_NM' from the source dataset."
+    },
+    {
+      "column_name": "TOUR_SIGNGU_NM",
+      "label_en": "TOUR_SIGNGU_NM",
+      "description": "Original field 'TOUR_SIGNGU_NM' from the source dataset."
+    },
+    {
+      "column_name": "TOUR_COM_NMPR_NM",
+      "label_en": "TOUR_COM_NMPR_NM",
+      "description": "Original field 'TOUR_COM_NMPR_NM' from the source dataset."
+    },
+    {
+      "column_name": "TOUR_PD_VALUE",
+      "label_en": "TOUR_PD_VALUE",
+      "description": "Original field 'TOUR_PD_VALUE' from the source dataset."
+    },
+    {
+      "column_name": "SEXDSTN_FLAG_CD",
+      "label_en": "SEXDSTN_FLAG_CD",
+      "description": "Original field 'SEXDSTN_FLAG_CD' from the source dataset."
+    },
+    {
+      "column_name": "AGRDE_FLAG_NM",
+      "label_en": "AGRDE_FLAG_NM",
+      "description": "Original field 'AGRDE_FLAG_NM' from the source dataset."
+    },
+    {
+      "column_name": "MRRG_AT_NM",
+      "label_en": "MRRG_AT_NM",
+      "description": "Original field 'MRRG_AT_NM' from the source dataset."
+    },
+    {
+      "column_name": "CHLDRN_TY_NM",
+      "label_en": "CHLDRN_TY_NM",
+      "description": "Original field 'CHLDRN_TY_NM' from the source dataset."
+    },
+    {
+      "column_name": "OCCP_NM",
+      "label_en": "OCCP_NM",
+      "description": "Original field 'OCCP_NM' from the source dataset."
+    },
+    {
+      "column_name": "HSHLD_INCOME_DGREE_NM",
+      "label_en": "HSHLD_INCOME_DGREE_NM",
+      "description": "Original field 'HSHLD_INCOME_DGREE_NM' from the source dataset."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "file_name": "월별_파주시방문 추이.csv",
+  "columns": [
+    {
+      "column_name": "기준년월",
+      "label_en": "기준년월",
+      "description": "Original field '기준년월' from the source dataset."
+    },
+    {
+      "column_name": "구분",
+      "label_en": "구분",
+      "description": "Original field '구분' from the source dataset."
+    },
+    {
+      "column_name": "방문지",
+      "label_en": "방문지",
+      "description": "Original field '방문지' from the source dataset."
+    },
+    {
+      "column_name": "방문자 수",
+      "label_en": "방문자 수",
+      "description": "Original field '방문자 수' from the source dataset."
+    },
+    {
+      "column_name": "방문자 수 비율",
+      "label_en": "방문자 수 비율",
+      "description": "Original field '방문자 수 비율' from the source dataset."
+    }
+  ]
+}
