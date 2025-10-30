@@ -1,0 +1,23 @@
+{
+  "file": "data_csv_type/내외국인/방문자_파주시_202410-202509_데이터랩_다운로드/202410-202509_외국인_방문_현황.csv",
+  "generated_at": "2025-10-30 11:47:41",
+  "language": "en",
+  "columns": [
+    {
+      "column": "년도",
+      "description": "Values recorded in column \"년도\" of the dataset."
+    },
+    {
+      "column": "월",
+      "description": "Values recorded in column \"월\" of the dataset."
+    },
+    {
+      "column": "국가명",
+      "description": "Values recorded in column \"국가명\" of the dataset."
+    },
+    {
+      "column": "비율(%)",
+      "description": "Values recorded in column \"비율(%)\" of the dataset."
+    }
+  ]
+}

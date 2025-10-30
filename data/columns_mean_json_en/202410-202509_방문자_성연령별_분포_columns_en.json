@@ -1,0 +1,27 @@
+{
+  "file": "data_csv_type/내외국인/방문자_파주시_202410-202509_데이터랩_다운로드/202410-202509_방문자_성연령별_분포.csv",
+  "generated_at": "2025-10-30 11:47:41",
+  "language": "en",
+  "columns": [
+    {
+      "column": "년도",
+      "description": "Values recorded in column \"년도\" of the dataset."
+    },
+    {
+      "column": "월",
+      "description": "Values recorded in column \"월\" of the dataset."
+    },
+    {
+      "column": "방문자 연령",
+      "description": "Values recorded in column \"방문자 연령\" of the dataset."
+    },
+    {
+      "column": "방문자 비율(남성)",
+      "description": "Values recorded in column \"방문자 비율(남성)\" of the dataset."
+    },
+    {
+      "column": "방문자 비율(여성)",
+      "description": "Values recorded in column \"방문자 비율(여성)\" of the dataset."
+    }
+  ]
+}

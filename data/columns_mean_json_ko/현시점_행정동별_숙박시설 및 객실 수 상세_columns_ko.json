@@ -1,39 +1,39 @@
 {
-  "file": "현시점_행정동별_숙박시설 및 객실 수 상세.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/기간없음/현시점_행정동별_숙박시설 및 객실 수 상세.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "ko",
   "columns": [
     {
       "column": "번호",
-      "description": "'번호' 값을 담고 있습니다."
+      "description": "데이터셋의 \"번호\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "지역",
-      "description": "'지역' 값을 담고 있습니다."
+      "description": "데이터셋의 \"지역\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "업종",
-      "description": "'업종' 값을 담고 있습니다."
+      "description": "데이터셋의 \"업종\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "상호",
-      "description": "'상호' 값을 담고 있습니다."
+      "description": "데이터셋의 \"상호\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "주소",
-      "description": "'주소' 값을 담고 있습니다."
+      "description": "데이터셋의 \"주소\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "연락처",
-      "description": "'연락처' 값을 담고 있습니다."
+      "description": "데이터셋의 \"연락처\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "객실수",
-      "description": "'객실수' 값을 담고 있습니다."
+      "description": "데이터셋의 \"객실수\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "기타",
-      "description": "'기타' 값을 담고 있습니다."
+      "description": "데이터셋의 \"기타\" 컬럼에 기록된 값입니다."
     }
   ]
 }

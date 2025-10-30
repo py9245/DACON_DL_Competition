@@ -1,35 +1,35 @@
 {
-  "file": "월별_지역별 검색건수.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/월단위/월별_지역별 검색건수.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "en",
   "columns": [
     {
       "column": "기간",
-      "description": "Contains the values for Korean labeled column '기간'."
+      "description": "Values recorded in column \"기간\" of the dataset."
     },
     {
       "column": "기초지자체",
-      "description": "Contains the values for Korean labeled column '기초지자체'."
+      "description": "Values recorded in column \"기초지자체\" of the dataset."
     },
     {
       "column": "카테고리중분류명 ",
-      "description": "Contains the values for Korean labeled column '카테고리중분류명'."
+      "description": "Values recorded in column \"카테고리중분류명 \" of the dataset."
     },
     {
       "column": "기초지자체 검색건수",
-      "description": "Contains the values for Korean labeled column '기초지자체 검색건수'."
+      "description": "Values recorded in column \"기초지자체 검색건수\" of the dataset."
     },
     {
       "column": "기초지자체 검색건수 비율",
-      "description": "Contains the values for Korean labeled column '기초지자체 검색건수 비율'."
+      "description": "Values recorded in column \"기초지자체 검색건수 비율\" of the dataset."
     },
     {
       "column": "중분류 검색건수",
-      "description": "Contains the values for Korean labeled column '중분류 검색건수'."
+      "description": "Values recorded in column \"중분류 검색건수\" of the dataset."
     },
     {
       "column": "중분류 검색건수 비율",
-      "description": "Contains the values for Korean labeled column '중분류 검색건수 비율'."
+      "description": "Values recorded in column \"중분류 검색건수 비율\" of the dataset."
     }
   ]
 }

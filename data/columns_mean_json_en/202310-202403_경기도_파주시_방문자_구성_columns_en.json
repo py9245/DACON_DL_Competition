@@ -1,0 +1,27 @@
+{
+  "file": "data_csv_type/내외국인/유사지역_파주시_202310-202403_데이터랩_다운로드/202310-202403_경기도_파주시_방문자_구성.csv",
+  "generated_at": "2025-10-30 11:47:41",
+  "language": "en",
+  "columns": [
+    {
+      "column": "년도",
+      "description": "Values recorded in column \"년도\" of the dataset."
+    },
+    {
+      "column": "월",
+      "description": "Values recorded in column \"월\" of the dataset."
+    },
+    {
+      "column": "성/연령",
+      "description": "Values recorded in column \"성/연령\" of the dataset."
+    },
+    {
+      "column": "지역명",
+      "description": "Values recorded in column \"지역명\" of the dataset."
+    },
+    {
+      "column": "비율",
+      "description": "Values recorded in column \"비율\" of the dataset."
+    }
+  ]
+}

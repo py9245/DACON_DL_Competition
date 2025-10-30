@@ -1,0 +1,31 @@
+{
+  "file": "data_csv_type/내외국인/종합분석_파주시_202309-202309_데이터랩_다운로드/202309-202309_AI_관광_분석_연관지역.csv",
+  "generated_at": "2025-10-30 11:47:41",
+  "language": "en",
+  "columns": [
+    {
+      "column": "년도",
+      "description": "Values recorded in column \"년도\" of the dataset."
+    },
+    {
+      "column": "월",
+      "description": "Values recorded in column \"월\" of the dataset."
+    },
+    {
+      "column": "유입지역명",
+      "description": "Values recorded in column \"유입지역명\" of the dataset."
+    },
+    {
+      "column": "유출지역명",
+      "description": "Values recorded in column \"유출지역명\" of the dataset."
+    },
+    {
+      "column": "유입유출 비율",
+      "description": "Values recorded in column \"유입유출 비율\" of the dataset."
+    },
+    {
+      "column": "유입/유출 구분 코드 (1:유입 / 2:유출)",
+      "description": "Values recorded in column \"유입/유출 구분 코드 (1:유입 / 2:유출)\" of the dataset."
+    }
+  ]
+}

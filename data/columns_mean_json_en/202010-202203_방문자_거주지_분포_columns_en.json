@@ -1,0 +1,27 @@
+{
+  "file": "data_csv_type/내외국인/방문자_파주시_202010-202203_데이터랩_다운로드/202010-202203_방문자_거주지_분포.csv",
+  "generated_at": "2025-10-30 11:47:41",
+  "language": "en",
+  "columns": [
+    {
+      "column": "년도",
+      "description": "Values recorded in column \"년도\" of the dataset."
+    },
+    {
+      "column": "월",
+      "description": "Values recorded in column \"월\" of the dataset."
+    },
+    {
+      "column": "거주지명",
+      "description": "Values recorded in column \"거주지명\" of the dataset."
+    },
+    {
+      "column": "광역지자체 비율(%)",
+      "description": "Values recorded in column \"광역지자체 비율(%)\" of the dataset."
+    },
+    {
+      "column": "기초지자체 비율(%)",
+      "description": "Values recorded in column \"기초지자체 비율(%)\" of the dataset."
+    }
+  ]
+}

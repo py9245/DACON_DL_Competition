@@ -1,39 +1,39 @@
 {
-  "file": "설문_국내여행_TOP10_트랜드_데이터_결과.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/주단위/설문_국내여행_TOP10_트랜드_데이터_결과.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "en",
   "columns": [
     {
       "column": "week_label",
-      "description": "Week label (e.g., 202401W1)"
+      "description": "Values recorded in column \"week_label\" of the dataset."
     },
     {
       "column": "SRCHWRD_NM",
-      "description": "Search keyword name"
+      "description": "Values recorded in column \"SRCHWRD_NM\" of the dataset."
     },
     {
       "column": "UPPER_CTGRY_NM",
-      "description": "Upper category name"
+      "description": "Values recorded in column \"UPPER_CTGRY_NM\" of the dataset."
     },
     {
       "column": "LWPRT_CTGRY_NM",
-      "description": "Lower category name"
+      "description": "Values recorded in column \"LWPRT_CTGRY_NM\" of the dataset."
     },
     {
       "column": "AREA_NM",
-      "description": "Area name"
+      "description": "Values recorded in column \"AREA_NM\" of the dataset."
     },
     {
       "column": "MOBILE_SCCNT_VALUE",
-      "description": "Mobile search count"
+      "description": "Values recorded in column \"MOBILE_SCCNT_VALUE\" of the dataset."
     },
     {
       "column": "PC_SCCNT_VALUE",
-      "description": "PC search count"
+      "description": "Values recorded in column \"PC_SCCNT_VALUE\" of the dataset."
     },
     {
       "column": "SCCNT_SM_VALUE",
-      "description": "Combined search count (mobile+PC)"
+      "description": "Values recorded in column \"SCCNT_SM_VALUE\" of the dataset."
     }
   ]
 }

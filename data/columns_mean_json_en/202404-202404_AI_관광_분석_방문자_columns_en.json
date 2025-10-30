@@ -1,0 +1,31 @@
+{
+  "file": "data_csv_type/내외국인/종합분석_파주시_202404-202404_데이터랩_다운로드/202404-202404_AI_관광_분석_방문자.csv",
+  "generated_at": "2025-10-30 11:47:41",
+  "language": "en",
+  "columns": [
+    {
+      "column": "년도",
+      "description": "Values recorded in column \"년도\" of the dataset."
+    },
+    {
+      "column": "월",
+      "description": "Values recorded in column \"월\" of the dataset."
+    },
+    {
+      "column": "광역지자체명",
+      "description": "Values recorded in column \"광역지자체명\" of the dataset."
+    },
+    {
+      "column": "광역지자체 증감률",
+      "description": "Values recorded in column \"광역지자체 증감률\" of the dataset."
+    },
+    {
+      "column": "기초지자체명",
+      "description": "Values recorded in column \"기초지자체명\" of the dataset."
+    },
+    {
+      "column": "기초지자체 증감률",
+      "description": "Values recorded in column \"기초지자체 증감률\" of the dataset."
+    }
+  ]
+}

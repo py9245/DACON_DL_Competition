@@ -1,23 +1,19 @@
 {
-  "file": "현시점_업종별 관광사업체 수.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/기간없음/현시점_업종별 관광사업체 수.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "ko",
   "columns": [
     {
       "column": "업종명",
-      "description": "'업종명' 값을 담고 있습니다."
-    },
-    {
-      "column": "기준년도",
-      "description": "'기준년도' 값을 담고 있습니다."
+      "description": "데이터셋의 \"업종명\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "상위업종명",
-      "description": "'상위업종명' 값을 담고 있습니다."
+      "description": "데이터셋의 \"상위업종명\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "영업현황수",
-      "description": "'영업현황수' 값을 담고 있습니다."
+      "description": "데이터셋의 \"영업현황수\" 컬럼에 기록된 값입니다."
     }
   ]
 }

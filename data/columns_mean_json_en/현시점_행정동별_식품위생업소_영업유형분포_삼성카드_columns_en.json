@@ -1,43 +1,43 @@
 {
-  "file": "현시점_행정동별_식품위생업소_영업유형분포_삼성카드.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/기간없음/현시점_행정동별_식품위생업소_영업유형분포_삼성카드.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "en",
   "columns": [
     {
       "column": "행정동",
-      "description": "Contains the values for Korean labeled column '행정동'."
+      "description": "Values recorded in column \"행정동\" of the dataset."
     },
     {
       "column": "식품위상업소수",
-      "description": "Contains the values for Korean labeled column '식품위상업소수'."
+      "description": "Values recorded in column \"식품위상업소수\" of the dataset."
     },
     {
       "column": "음식점수",
-      "description": "Contains the values for Korean labeled column '음식점수'."
+      "description": "Values recorded in column \"음식점수\" of the dataset."
     },
     {
       "column": "주점\\u00b7비알코올음료점업 수",
-      "description": "Contains the values for Korean labeled column '주점\\u00b7비알코올음료점업 수'."
+      "description": "Values recorded in column \"주점\\u00b7비알코올음료점업 수\" of the dataset."
     },
     {
       "column": "음식점 비중(%)",
-      "description": "Contains the values for Korean labeled column '음식점 비중(%)'."
+      "description": "Values recorded in column \"음식점 비중(%)\" of the dataset."
     },
     {
       "column": "주점\\u00b7비알 비중(%)",
-      "description": "Contains the values for Korean labeled column '주점\\u00b7비알 비중(%)'."
+      "description": "Values recorded in column \"주점\\u00b7비알 비중(%)\" of the dataset."
     },
     {
       "column": "주점 비중(\\uc74c식+\\uc8fc점)",
-      "description": "Contains the values for Korean labeled column '주점 비중(\\uc74c식+\\uc8fc점)'."
+      "description": "Values recorded in column \"주점 비중(\\uc74c식+\\uc8fc점)\" of the dataset."
     },
     {
       "column": "주점 대비 음식점 비율(%)",
-      "description": "Contains the values for Korean labeled column '주점 대비 음식점 비율(%)'."
+      "description": "Values recorded in column \"주점 대비 음식점 비율(%)\" of the dataset."
     },
     {
       "column": "영업유형 구분",
-      "description": "Contains the values for Korean labeled column '영업유형 구분'."
+      "description": "Values recorded in column \"영업유형 구분\" of the dataset."
     }
   ]
 }

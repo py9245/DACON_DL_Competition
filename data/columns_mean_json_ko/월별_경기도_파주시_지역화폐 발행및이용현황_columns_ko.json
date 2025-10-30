@@ -1,39 +1,39 @@
 {
-  "file": "월별_경기도_파주시_지역화폐 발행및이용현황.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/월단위/월별_경기도_파주시_지역화폐 발행및이용현황.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "ko",
   "columns": [
     {
       "column": "시도명",
-      "description": "시/도 명칭"
+      "description": "데이터셋의 \"시도명\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "시군구명",
-      "description": "시/군/구 명칭"
+      "description": "데이터셋의 \"시군구명\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "발행년월",
-      "description": "지역화폐 발행 기준 연월(YYYYMM)"
+      "description": "데이터셋의 \"발행년월\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "월별카드발행수량",
-      "description": "월별 지역화폐 카드 발행 수량"
+      "description": "데이터셋의 \"월별카드발행수량\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "월별카드충전액",
-      "description": "월별 지역화폐 충전액"
+      "description": "데이터셋의 \"월별카드충전액\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "월별카드사용액",
-      "description": "월별 지역화폐 사용액"
+      "description": "데이터셋의 \"월별카드사용액\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "관리기관명",
-      "description": "관리기관 명칭"
+      "description": "데이터셋의 \"관리기관명\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "관리기관전화번호",
-      "description": "관리기관 연락처"
+      "description": "데이터셋의 \"관리기관전화번호\" 컬럼에 기록된 값입니다."
     }
   ]
 }

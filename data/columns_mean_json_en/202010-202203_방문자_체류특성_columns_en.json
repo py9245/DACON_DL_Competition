@@ -1,0 +1,31 @@
+{
+  "file": "data_csv_type/내외국인/숙박_체류_파주시_202010-202203_데이터랩_다운로드/202010-202203_방문자_체류특성.csv",
+  "generated_at": "2025-10-30 11:47:41",
+  "language": "en",
+  "columns": [
+    {
+      "column": "년도",
+      "description": "Values recorded in column \"년도\" of the dataset."
+    },
+    {
+      "column": "월",
+      "description": "Values recorded in column \"월\" of the dataset."
+    },
+    {
+      "column": "지역코드",
+      "description": "Values recorded in column \"지역코드\" of the dataset."
+    },
+    {
+      "column": "지역명",
+      "description": "Values recorded in column \"지역명\" of the dataset."
+    },
+    {
+      "column": "평균 체류시간",
+      "description": "Values recorded in column \"평균 체류시간\" of the dataset."
+    },
+    {
+      "column": "평균 숙박일수",
+      "description": "Values recorded in column \"평균 숙박일수\" of the dataset."
+    }
+  ]
+}

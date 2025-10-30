@@ -1,0 +1,23 @@
+{
+  "file": "data_csv_type/내외국인/종합분석_파주시_202301-202301_데이터랩_다운로드/202301-202301_지역관광진단(전년동기대비).csv",
+  "generated_at": "2025-10-30 11:47:41",
+  "language": "en",
+  "columns": [
+    {
+      "column": "년도",
+      "description": "Values recorded in column \"년도\" of the dataset."
+    },
+    {
+      "column": "월",
+      "description": "Values recorded in column \"월\" of the dataset."
+    },
+    {
+      "column": "지표명",
+      "description": "Values recorded in column \"지표명\" of the dataset."
+    },
+    {
+      "column": "지표 증감률",
+      "description": "Values recorded in column \"지표 증감률\" of the dataset."
+    }
+  ]
+}

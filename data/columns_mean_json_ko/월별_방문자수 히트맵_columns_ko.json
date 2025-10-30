@@ -1,19 +1,19 @@
 {
-  "file": "월별_방문자수 히트맵.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/월단위/월별_방문자수 히트맵.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "ko",
   "columns": [
     {
       "column": "기간",
-      "description": "'기간' 값을 담고 있습니다."
+      "description": "데이터셋의 \"기간\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "기초지자체",
-      "description": "'기초지자체' 값을 담고 있습니다."
+      "description": "데이터셋의 \"기초지자체\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "검색건수",
-      "description": "'검색건수' 값을 담고 있습니다."
+      "description": "데이터셋의 \"검색건수\" 컬럼에 기록된 값입니다."
     }
   ]
 }

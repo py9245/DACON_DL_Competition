@@ -1,71 +1,71 @@
 {
-  "file": "설문_국내_여행지역_관심도.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/일단위/설문_국내_여행지역_관심도.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "en",
   "columns": [
     {
       "column": "EXAMIN_BEGIN_DE",
-      "description": "Survey start date (YYYYMMDD)"
+      "description": "Values recorded in column \"EXAMIN_BEGIN_DE\" of the dataset."
     },
     {
       "column": "SEXDSTN_FLAG_CD",
-      "description": "Respondent gender code (M/F)"
+      "description": "Values recorded in column \"SEXDSTN_FLAG_CD\" of the dataset."
     },
     {
       "column": "AGRDE_FLAG_NM",
-      "description": "Respondent age-group label"
+      "description": "Values recorded in column \"AGRDE_FLAG_NM\" of the dataset."
     },
     {
       "column": "ANSWRR_OC_AREA_NM",
-      "description": "Respondent home region"
+      "description": "Values recorded in column \"ANSWRR_OC_AREA_NM\" of the dataset."
     },
     {
       "column": "HSHLD_INCOME_DGREE_NM",
-      "description": "Household income bracket label"
+      "description": "Values recorded in column \"HSHLD_INCOME_DGREE_NM\" of the dataset."
     },
     {
       "column": "SU_TOUR_INTRST_VALUE",
-      "description": "Holds the su travel intrst value."
+      "description": "Values recorded in column \"SU_TOUR_INTRST_VALUE\" of the dataset."
     },
     {
       "column": "GG_IC_TOUR_INTRST_VALUE",
-      "description": "Holds the gg ic travel intrst value."
+      "description": "Values recorded in column \"GG_IC_TOUR_INTRST_VALUE\" of the dataset."
     },
     {
       "column": "BS_TOUR_INTRST_VALUE",
-      "description": "Holds the bs travel intrst value."
+      "description": "Values recorded in column \"BS_TOUR_INTRST_VALUE\" of the dataset."
     },
     {
       "column": "CHN_DJ_TOUR_INTRST_VALUE",
-      "description": "Holds the chn dj travel intrst value."
+      "description": "Values recorded in column \"CHN_DJ_TOUR_INTRST_VALUE\" of the dataset."
     },
     {
       "column": "CB_TOUR_INTRST_VALUE",
-      "description": "Holds the cb travel intrst value."
+      "description": "Values recorded in column \"CB_TOUR_INTRST_VALUE\" of the dataset."
     },
     {
       "column": "GN_US_TOUR_INTRST_VALUE",
-      "description": "Holds the gn us travel intrst value."
+      "description": "Values recorded in column \"GN_US_TOUR_INTRST_VALUE\" of the dataset."
     },
     {
       "column": "GB_DG_TOUR_INTRST_VALUE",
-      "description": "Holds the gb dg travel intrst value."
+      "description": "Values recorded in column \"GB_DG_TOUR_INTRST_VALUE\" of the dataset."
     },
     {
       "column": "JN_GJ_TOUR_INTRST_VALUE",
-      "description": "Holds the jn gj travel intrst value."
+      "description": "Values recorded in column \"JN_GJ_TOUR_INTRST_VALUE\" of the dataset."
     },
     {
       "column": "JNBK_TOUR_INTRST_VALUE",
-      "description": "Holds the jnbk travel intrst value."
+      "description": "Values recorded in column \"JNBK_TOUR_INTRST_VALUE\" of the dataset."
     },
     {
       "column": "GW_TOUR_INTRST_VALUE",
-      "description": "Holds the gw travel intrst value."
+      "description": "Values recorded in column \"GW_TOUR_INTRST_VALUE\" of the dataset."
     },
     {
       "column": "JJ_TOUR_INTRST_VALUE",
-      "description": "Holds the jj travel intrst value."
+      "description": "Values recorded in column \"JJ_TOUR_INTRST_VALUE\" of the dataset."
     }
   ]
 }

@@ -1,27 +1,27 @@
 {
-  "file": "월별_파주시방문 추이.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/월단위/월별_파주시방문 추이.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "ko",
   "columns": [
     {
       "column": "기준년월",
-      "description": "'기준년월' 값을 담고 있습니다."
+      "description": "데이터셋의 \"기준년월\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "구분",
-      "description": "'구분' 값을 담고 있습니다."
+      "description": "데이터셋의 \"구분\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "방문지",
-      "description": "'방문지' 값을 담고 있습니다."
+      "description": "데이터셋의 \"방문지\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "방문자 수",
-      "description": "'방문자 수' 값을 담고 있습니다."
+      "description": "데이터셋의 \"방문자 수\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "방문자 수 비율",
-      "description": "'방문자 수 비율' 값을 담고 있습니다."
+      "description": "데이터셋의 \"방문자 수 비율\" 컬럼에 기록된 값입니다."
     }
   ]
 }

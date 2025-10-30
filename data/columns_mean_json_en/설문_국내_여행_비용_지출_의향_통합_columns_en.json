@@ -1,39 +1,39 @@
 {
-  "file": "설문_국내_여행_비용_지출_의향_통합.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/일단위/설문_국내_여행_비용_지출_의향_통합.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "en",
   "columns": [
     {
       "column": "EXAMIN_BEGIN_DE",
-      "description": "Survey start date (YYYYMMDD)"
+      "description": "Values recorded in column \"EXAMIN_BEGIN_DE\" of the dataset."
     },
     {
       "column": "SEXDSTN_FLAG_CD",
-      "description": "Respondent gender code (M/F)"
+      "description": "Values recorded in column \"SEXDSTN_FLAG_CD\" of the dataset."
     },
     {
       "column": "AGRDE_FLAG_NM",
-      "description": "Respondent age-group label"
+      "description": "Values recorded in column \"AGRDE_FLAG_NM\" of the dataset."
     },
     {
       "column": "ANSWRR_OC_AREA_NM",
-      "description": "Respondent home region"
+      "description": "Values recorded in column \"ANSWRR_OC_AREA_NM\" of the dataset."
     },
     {
       "column": "HSHLD_INCOME_DGREE_NM",
-      "description": "Household income bracket label"
+      "description": "Values recorded in column \"HSHLD_INCOME_DGREE_NM\" of the dataset."
     },
     {
       "column": "ALL_TURSM_TOUR_EXPNDTR_INTEN_VALUE",
-      "description": "Overall travel expenditure intention (categorical)"
+      "description": "Values recorded in column \"ALL_TURSM_TOUR_EXPNDTR_INTEN_VALUE\" of the dataset."
     },
     {
       "column": "DMSTC_TURSM_TOUR_EXPNDTR_INTEN_VALUE",
-      "description": "Domestic travel expenditure intention (categorical)"
+      "description": "Values recorded in column \"DMSTC_TURSM_TOUR_EXPNDTR_INTEN_VALUE\" of the dataset."
     },
     {
       "column": "OVSEA_TURSM_TOUR_EXPNDTR_INTEN_VALUE",
-      "description": "Outbound travel expenditure intention (categorical)"
+      "description": "Values recorded in column \"OVSEA_TURSM_TOUR_EXPNDTR_INTEN_VALUE\" of the dataset."
     }
   ]
 }

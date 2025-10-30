@@ -1,71 +1,71 @@
 {
-  "file": "현시점_행정동별_인구소비지표_추정요약.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/기간없음/현시점_행정동별_인구소비지표_추정요약.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "en",
   "columns": [
     {
       "column": "행정동",
-      "description": "Contains the values for Korean labeled column '행정동'."
+      "description": "Values recorded in column \"행정동\" of the dataset."
     },
     {
       "column": "2023.01 방문인구(명)",
-      "description": "Contains the values for Korean labeled column '2023.01 방문인구(명)'."
+      "description": "Values recorded in column \"2023.01 방문인구(명)\" of the dataset."
     },
     {
       "column": "2025.07 방문인구(명)",
-      "description": "Contains the values for Korean labeled column '2025.07 방문인구(명)'."
+      "description": "Values recorded in column \"2025.07 방문인구(명)\" of the dataset."
     },
     {
       "column": "방문인구 증감(명)",
-      "description": "Contains the values for Korean labeled column '방문인구 증감(명)'."
+      "description": "Values recorded in column \"방문인구 증감(명)\" of the dataset."
     },
     {
       "column": "방문인구 증감률(%)",
-      "description": "Contains the values for Korean labeled column '방문인구 증감률(%)'."
+      "description": "Values recorded in column \"방문인구 증감률(%)\" of the dataset."
     },
     {
       "column": "2025.07 방문인구지수",
-      "description": "Contains the values for Korean labeled column '2025.07 방문인구지수'."
+      "description": "Values recorded in column \"2025.07 방문인구지수\" of the dataset."
     },
     {
       "column": "2023.01 생산가능인구(명)",
-      "description": "Contains the values for Korean labeled column '2023.01 생산가능인구(명)'."
+      "description": "Values recorded in column \"2023.01 생산가능인구(명)\" of the dataset."
     },
     {
       "column": "2025.07 생산가능인구(명)",
-      "description": "Contains the values for Korean labeled column '2025.07 생산가능인구(명)'."
+      "description": "Values recorded in column \"2025.07 생산가능인구(명)\" of the dataset."
     },
     {
       "column": "생산가능인구 증감(명)",
-      "description": "Contains the values for Korean labeled column '생산가능인구 증감(명)'."
+      "description": "Values recorded in column \"생산가능인구 증감(명)\" of the dataset."
     },
     {
       "column": "생산가능인구 증감률(%)",
-      "description": "Contains the values for Korean labeled column '생산가능인구 증감률(%)'."
+      "description": "Values recorded in column \"생산가능인구 증감률(%)\" of the dataset."
     },
     {
       "column": "2025.07 생산가능인구지수",
-      "description": "Contains the values for Korean labeled column '2025.07 생산가능인구지수'."
+      "description": "Values recorded in column \"2025.07 생산가능인구지수\" of the dataset."
     },
     {
       "column": "2023.01 인구활력지수",
-      "description": "Contains the values for Korean labeled column '2023.01 인구활력지수'."
+      "description": "Values recorded in column \"2023.01 인구활력지수\" of the dataset."
     },
     {
       "column": "2025.07 인구활력지수",
-      "description": "Contains the values for Korean labeled column '2025.07 인구활력지수'."
+      "description": "Values recorded in column \"2025.07 인구활력지수\" of the dataset."
     },
     {
       "column": "인구활력지수 변화",
-      "description": "Contains the values for Korean labeled column '인구활력지수 변화'."
+      "description": "Values recorded in column \"인구활력지수 변화\" of the dataset."
     },
     {
       "column": "인구활력지수 증감률(%)",
-      "description": "Contains the values for Korean labeled column '인구활력지수 증감률(%)'."
+      "description": "Values recorded in column \"인구활력지수 증감률(%)\" of the dataset."
     },
     {
       "column": "방문인구 증감방향",
-      "description": "Contains the values for Korean labeled column '방문인구 증감방향'."
+      "description": "Values recorded in column \"방문인구 증감방향\" of the dataset."
     }
   ]
 }

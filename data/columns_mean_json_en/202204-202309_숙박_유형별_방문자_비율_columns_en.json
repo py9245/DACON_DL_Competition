@@ -1,0 +1,115 @@
+{
+  "file": "data_csv_type/내외국인/숙박_체류_파주시_202204-202309_데이터랩_다운로드/202204-202309_숙박_유형별_방문자_비율.csv",
+  "generated_at": "2025-10-30 11:47:41",
+  "language": "en",
+  "columns": [
+    {
+      "column": "년도",
+      "description": "Values recorded in column \"년도\" of the dataset."
+    },
+    {
+      "column": "월",
+      "description": "Values recorded in column \"월\" of the dataset."
+    },
+    {
+      "column": "기준연월",
+      "description": "Values recorded in column \"기준연월\" of the dataset."
+    },
+    {
+      "column": "1박",
+      "description": "Values recorded in column \"1박\" of the dataset."
+    },
+    {
+      "column": "2박",
+      "description": "Values recorded in column \"2박\" of the dataset."
+    },
+    {
+      "column": "3박",
+      "description": "Values recorded in column \"3박\" of the dataset."
+    },
+    {
+      "column": "4박",
+      "description": "Values recorded in column \"4박\" of the dataset."
+    },
+    {
+      "column": "5박",
+      "description": "Values recorded in column \"5박\" of the dataset."
+    },
+    {
+      "column": "6박",
+      "description": "Values recorded in column \"6박\" of the dataset."
+    },
+    {
+      "column": "7박이상",
+      "description": "Values recorded in column \"7박이상\" of the dataset."
+    },
+    {
+      "column": "전체",
+      "description": "Values recorded in column \"전체\" of the dataset."
+    },
+    {
+      "column": "전년 1박",
+      "description": "Values recorded in column \"전년 1박\" of the dataset."
+    },
+    {
+      "column": "전년 2박",
+      "description": "Values recorded in column \"전년 2박\" of the dataset."
+    },
+    {
+      "column": "전년 3박",
+      "description": "Values recorded in column \"전년 3박\" of the dataset."
+    },
+    {
+      "column": "전년 4박",
+      "description": "Values recorded in column \"전년 4박\" of the dataset."
+    },
+    {
+      "column": "전년 5박",
+      "description": "Values recorded in column \"전년 5박\" of the dataset."
+    },
+    {
+      "column": "전년 6박",
+      "description": "Values recorded in column \"전년 6박\" of the dataset."
+    },
+    {
+      "column": "전년 7박이상",
+      "description": "Values recorded in column \"전년 7박이상\" of the dataset."
+    },
+    {
+      "column": "전년 전체",
+      "description": "Values recorded in column \"전년 전체\" of the dataset."
+    },
+    {
+      "column": "전년 대비 1박 증감률",
+      "description": "Values recorded in column \"전년 대비 1박 증감률\" of the dataset."
+    },
+    {
+      "column": "전년 대비 2박 증감률",
+      "description": "Values recorded in column \"전년 대비 2박 증감률\" of the dataset."
+    },
+    {
+      "column": "전년 대비 3박 증감률",
+      "description": "Values recorded in column \"전년 대비 3박 증감률\" of the dataset."
+    },
+    {
+      "column": "전년 대비 4박 증감률",
+      "description": "Values recorded in column \"전년 대비 4박 증감률\" of the dataset."
+    },
+    {
+      "column": "전년 대비 5박 증감률",
+      "description": "Values recorded in column \"전년 대비 5박 증감률\" of the dataset."
+    },
+    {
+      "column": "전년 대비 6박 증감률",
+      "description": "Values recorded in column \"전년 대비 6박 증감률\" of the dataset."
+    },
+    {
+      "column": "전년 대비 7박이상 증감률",
+      "description": "Values recorded in column \"전년 대비 7박이상 증감률\" of the dataset."
+    },
+    {
+      "column": "전년 대비 전체 증감률",
+      "description": "Values recorded in column \"전년 대비 전체 증감률\" of the dataset."
+    }
+  ]
+}

@@ -1,39 +1,39 @@
 {
-  "file": "설문_국내여행_TOP10_트랜드_데이터_결과.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/주단위/설문_국내여행_TOP10_트랜드_데이터_결과.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "ko",
   "columns": [
     {
       "column": "week_label",
-      "description": "주차 라벨(예: 202401W1)"
+      "description": "데이터셋의 \"week_label\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "SRCHWRD_NM",
-      "description": "검색어 명칭"
+      "description": "데이터셋의 \"SRCHWRD_NM\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "UPPER_CTGRY_NM",
-      "description": "상위 분류 명칭"
+      "description": "데이터셋의 \"UPPER_CTGRY_NM\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "LWPRT_CTGRY_NM",
-      "description": "하위 분류 명칭"
+      "description": "데이터셋의 \"LWPRT_CTGRY_NM\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "AREA_NM",
-      "description": "지역 명칭"
+      "description": "데이터셋의 \"AREA_NM\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "MOBILE_SCCNT_VALUE",
-      "description": "모바일 검색 건수"
+      "description": "데이터셋의 \"MOBILE_SCCNT_VALUE\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "PC_SCCNT_VALUE",
-      "description": "PC 검색 건수"
+      "description": "데이터셋의 \"PC_SCCNT_VALUE\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "SCCNT_SM_VALUE",
-      "description": "모바일+PC 합산 검색 건수"
+      "description": "데이터셋의 \"SCCNT_SM_VALUE\" 컬럼에 기록된 값입니다."
     }
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "file": "data_csv_type/내외국인/인기관광지_파주시_202310-202403_데이터랩_다운로드/202310-202403_인기관광지_현지인.csv",
+  "generated_at": "2025-10-30 11:47:41",
+  "language": "en",
+  "columns": [
+    {
+      "column": "년도",
+      "description": "Values recorded in column \"년도\" of the dataset."
+    },
+    {
+      "column": "월",
+      "description": "Values recorded in column \"월\" of the dataset."
+    },
+    {
+      "column": "순위",
+      "description": "Values recorded in column \"순위\" of the dataset."
+    },
+    {
+      "column": "관광지ID",
+      "description": "Values recorded in column \"관광지ID\" of the dataset."
+    },
+    {
+      "column": "관광지명",
+      "description": "Values recorded in column \"관광지명\" of the dataset."
+    },
+    {
+      "column": "분류",
+      "description": "Values recorded in column \"분류\" of the dataset."
+    }
+  ]
+}

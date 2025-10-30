@@ -1,6 +1,6 @@
 [
   {
-    "file": "년도별_인구감소지역 현황 및 지역주민 소비액_한국관광 데이터랩_통합.csv",
+    "file": "data_csv_type/연단위/년도별_인구감소지역 현황 및 지역주민 소비액_한국관광 데이터랩_통합.csv",
     "encoding": "utf-8-sig",
     "total_rows_est": 3,
     "sample_rows": 3,
@@ -163,298 +163,42 @@
     }
   },
   {
-    "file": "설문_국내_여행_비용_지출_의향_통합.csv",
-    "encoding": "utf-8-sig",
-    "total_rows_est": 46000,
-    "sample_rows": 300,
-    "n_cols": 8,
-    "columns": [
-      "EXAMIN_BEGIN_DE",
-      "SEXDSTN_FLAG_CD",
-      "AGRDE_FLAG_NM",
-      "ANSWRR_OC_AREA_NM",
-      "HSHLD_INCOME_DGREE_NM",
-      "ALL_TURSM_TOUR_EXPNDTR_INTEN_VALUE",
-      "DMSTC_TURSM_TOUR_EXPNDTR_INTEN_VALUE",
-      "OVSEA_TURSM_TOUR_EXPNDTR_INTEN_VALUE"
-    ],
-    "dtypes": {
-      "EXAMIN_BEGIN_DE": "int64",
-      "SEXDSTN_FLAG_CD": "object",
-      "AGRDE_FLAG_NM": "object",
-      "ANSWRR_OC_AREA_NM": "object",
-      "HSHLD_INCOME_DGREE_NM": "object",
-      "ALL_TURSM_TOUR_EXPNDTR_INTEN_VALUE": "object",
-      "DMSTC_TURSM_TOUR_EXPNDTR_INTEN_VALUE": "object",
-      "OVSEA_TURSM_TOUR_EXPNDTR_INTEN_VALUE": "object"
-    },
-    "missing_counts_sample": {
-      "EXAMIN_BEGIN_DE": 0,
-      "SEXDSTN_FLAG_CD": 0,
-      "AGRDE_FLAG_NM": 0,
-      "ANSWRR_OC_AREA_NM": 0,
-      "HSHLD_INCOME_DGREE_NM": 0,
-      "ALL_TURSM_TOUR_EXPNDTR_INTEN_VALUE": 0,
-      "DMSTC_TURSM_TOUR_EXPNDTR_INTEN_VALUE": 0,
-      "OVSEA_TURSM_TOUR_EXPNDTR_INTEN_VALUE": 0
-    },
-    "nunique_sample": {
-      "EXAMIN_BEGIN_DE": 1,
-      "SEXDSTN_FLAG_CD": 2,
-      "AGRDE_FLAG_NM": 5,
-      "ANSWRR_OC_AREA_NM": 16,
-      "HSHLD_INCOME_DGREE_NM": 5,
-      "ALL_TURSM_TOUR_EXPNDTR_INTEN_VALUE": 5,
-      "DMSTC_TURSM_TOUR_EXPNDTR_INTEN_VALUE": 5,
-      "OVSEA_TURSM_TOUR_EXPNDTR_INTEN_VALUE": 5
-    }
-  },
-  {
-    "file": "설문_국내_여행_비용_지출_특성_통합.csv",
-    "encoding": "utf-8-sig",
-    "total_rows_est": 28858,
-    "sample_rows": 300,
-    "n_cols": 18,
-    "columns": [
-      "EXAMIN_BEGIN_DE",
-      "TOUR_TOT_CT_VALUE",
-      "TOUR_LDGMNT_CT_VALUE",
-      "TOUR_FOOD_CT_VALUE",
-      "TOUR_TRNSPORT_CT_VALUE",
-      "TOUR_SHOPNG_CT_VALUE",
-      "TOUR_ACTVTY_CT_VALUE",
-      "TOUR_ETC_CT_VALUE",
-      "TOUR_CTPRVN_NM",
-      "TOUR_SIGNGU_NM",
-      "TOUR_COM_NMPR_NM",
-      "TOUR_PD_VALUE",
-      "SEXDSTN_FLAG_CD",
-      "AGRDE_FLAG_NM",
-      "MRRG_AT_NM",
-      "CHLDRN_TY_NM",
-      "OCCP_NM",
-      "HSHLD_INCOME_DGREE_NM"
-    ],
-    "dtypes": {
-      "EXAMIN_BEGIN_DE": "int64",
-      "TOUR_TOT_CT_VALUE": "object",
-      "TOUR_LDGMNT_CT_VALUE": "object",
-      "TOUR_FOOD_CT_VALUE": "object",
-      "TOUR_TRNSPORT_CT_VALUE": "object",
-      "TOUR_SHOPNG_CT_VALUE": "object",
-      "TOUR_ACTVTY_CT_VALUE": "object",
-      "TOUR_ETC_CT_VALUE": "object",
-      "TOUR_CTPRVN_NM": "object",
-      "TOUR_SIGNGU_NM": "object",
-      "TOUR_COM_NMPR_NM": "object",
-      "TOUR_PD_VALUE": "object",
-      "SEXDSTN_FLAG_CD": "object",
-      "AGRDE_FLAG_NM": "object",
-      "MRRG_AT_NM": "object",
-      "CHLDRN_TY_NM": "object",
-      "OCCP_NM": "object",
-      "HSHLD_INCOME_DGREE_NM": "object"
-    },
-    "missing_counts_sample": {
-      "EXAMIN_BEGIN_DE": 0,
-      "TOUR_TOT_CT_VALUE": 0,
-      "TOUR_LDGMNT_CT_VALUE": 0,
-      "TOUR_FOOD_CT_VALUE": 0,
-      "TOUR_TRNSPORT_CT_VALUE": 0,
-      "TOUR_SHOPNG_CT_VALUE": 0,
-      "TOUR_ACTVTY_CT_VALUE": 0,
-      "TOUR_ETC_CT_VALUE": 0,
-      "TOUR_CTPRVN_NM": 0,
-      "TOUR_SIGNGU_NM": 0,
-      "TOUR_COM_NMPR_NM": 0,
-      "TOUR_PD_VALUE": 0,
-      "SEXDSTN_FLAG_CD": 0,
-      "AGRDE_FLAG_NM": 0,
-      "MRRG_AT_NM": 0,
-      "CHLDRN_TY_NM": 0,
-      "OCCP_NM": 0,
-      "HSHLD_INCOME_DGREE_NM": 0
-    },
-    "nunique_sample": {
-      "EXAMIN_BEGIN_DE": 1,
-      "TOUR_TOT_CT_VALUE": 6,
-      "TOUR_LDGMNT_CT_VALUE": 7,
-      "TOUR_FOOD_CT_VALUE": 7,
-      "TOUR_TRNSPORT_CT_VALUE": 7,
-      "TOUR_SHOPNG_CT_VALUE": 7,
-      "TOUR_ACTVTY_CT_VALUE": 7,
-      "TOUR_ETC_CT_VALUE": 7,
-      "TOUR_CTPRVN_NM": 16,
-      "TOUR_SIGNGU_NM": 134,
-      "TOUR_COM_NMPR_NM": 6,
-      "TOUR_PD_VALUE": 7,
-      "SEXDSTN_FLAG_CD": 2,
-      "AGRDE_FLAG_NM": 5,
-      "MRRG_AT_NM": 3,
-      "CHLDRN_TY_NM": 6,
-      "OCCP_NM": 8,
-      "HSHLD_INCOME_DGREE_NM": 5
-    }
-  },
-  {
-    "file": "설문_국내_여행자_특성.csv",
+    "file": "data_csv_type/월단위/설문_국내_여행자_특성.csv",
     "encoding": "utf-8-sig",
     "total_rows_est": 1968,
     "sample_rows": 300,
-    "n_cols": 4,
+    "n_cols": 5,
     "columns": [
-      "EXAMIN_YM",
+      "연도",
+      "월",
       "RESPOND_CHARTR_SDIV_ID",
       "RESPOND_CHARTR_SDIV_NM",
       "RSPNS_RATE"
     ],
     "dtypes": {
-      "EXAMIN_YM": "int64",
+      "연도": "int64",
+      "월": "int64",
       "RESPOND_CHARTR_SDIV_ID": "object",
       "RESPOND_CHARTR_SDIV_NM": "object",
       "RSPNS_RATE": "float64"
     },
     "missing_counts_sample": {
-      "EXAMIN_YM": 0,
+      "연도": 0,
+      "월": 0,
       "RESPOND_CHARTR_SDIV_ID": 0,
       "RESPOND_CHARTR_SDIV_NM": 0,
       "RSPNS_RATE": 0
     },
     "nunique_sample": {
-      "EXAMIN_YM": 8,
+      "연도": 2,
+      "월": 8,
       "RESPOND_CHARTR_SDIV_ID": 47,
       "RESPOND_CHARTR_SDIV_NM": 57,
       "RSPNS_RATE": 175
     }
   },
   {
-    "file": "설문_국내_여행지역_관심도.csv",
-    "encoding": "utf-8-sig",
-    "total_rows_est": 23064,
-    "sample_rows": 300,
-    "n_cols": 16,
-    "columns": [
-      "EXAMIN_BEGIN_DE",
-      "SEXDSTN_FLAG_CD",
-      "AGRDE_FLAG_NM",
-      "ANSWRR_OC_AREA_NM",
-      "HSHLD_INCOME_DGREE_NM",
-      "SU_TOUR_INTRST_VALUE",
-      "GG_IC_TOUR_INTRST_VALUE",
-      "BS_TOUR_INTRST_VALUE",
-      "CHN_DJ_TOUR_INTRST_VALUE",
-      "CB_TOUR_INTRST_VALUE",
-      "GN_US_TOUR_INTRST_VALUE",
-      "GB_DG_TOUR_INTRST_VALUE",
-      "JN_GJ_TOUR_INTRST_VALUE",
-      "JNBK_TOUR_INTRST_VALUE",
-      "GW_TOUR_INTRST_VALUE",
-      "JJ_TOUR_INTRST_VALUE"
-    ],
-    "dtypes": {
-      "EXAMIN_BEGIN_DE": "int64",
-      "SEXDSTN_FLAG_CD": "object",
-      "AGRDE_FLAG_NM": "object",
-      "ANSWRR_OC_AREA_NM": "object",
-      "HSHLD_INCOME_DGREE_NM": "object",
-      "SU_TOUR_INTRST_VALUE": "object",
-      "GG_IC_TOUR_INTRST_VALUE": "object",
-      "BS_TOUR_INTRST_VALUE": "object",
-      "CHN_DJ_TOUR_INTRST_VALUE": "object",
-      "CB_TOUR_INTRST_VALUE": "object",
-      "GN_US_TOUR_INTRST_VALUE": "object",
-      "GB_DG_TOUR_INTRST_VALUE": "object",
-      "JN_GJ_TOUR_INTRST_VALUE": "object",
-      "JNBK_TOUR_INTRST_VALUE": "object",
-      "GW_TOUR_INTRST_VALUE": "object",
-      "JJ_TOUR_INTRST_VALUE": "object"
-    },
-    "missing_counts_sample": {
-      "EXAMIN_BEGIN_DE": 0,
-      "SEXDSTN_FLAG_CD": 0,
-      "AGRDE_FLAG_NM": 0,
-      "ANSWRR_OC_AREA_NM": 0,
-      "HSHLD_INCOME_DGREE_NM": 0,
-      "SU_TOUR_INTRST_VALUE": 0,
-      "GG_IC_TOUR_INTRST_VALUE": 0,
-      "BS_TOUR_INTRST_VALUE": 0,
-      "CHN_DJ_TOUR_INTRST_VALUE": 0,
-      "CB_TOUR_INTRST_VALUE": 0,
-      "GN_US_TOUR_INTRST_VALUE": 0,
-      "GB_DG_TOUR_INTRST_VALUE": 0,
-      "JN_GJ_TOUR_INTRST_VALUE": 0,
-      "JNBK_TOUR_INTRST_VALUE": 0,
-      "GW_TOUR_INTRST_VALUE": 0,
-      "JJ_TOUR_INTRST_VALUE": 0
-    },
-    "nunique_sample": {
-      "EXAMIN_BEGIN_DE": 2,
-      "SEXDSTN_FLAG_CD": 2,
-      "AGRDE_FLAG_NM": 5,
-      "ANSWRR_OC_AREA_NM": 16,
-      "HSHLD_INCOME_DGREE_NM": 5,
-      "SU_TOUR_INTRST_VALUE": 5,
-      "GG_IC_TOUR_INTRST_VALUE": 5,
-      "BS_TOUR_INTRST_VALUE": 5,
-      "CHN_DJ_TOUR_INTRST_VALUE": 5,
-      "CB_TOUR_INTRST_VALUE": 5,
-      "GN_US_TOUR_INTRST_VALUE": 5,
-      "GB_DG_TOUR_INTRST_VALUE": 5,
-      "JN_GJ_TOUR_INTRST_VALUE": 5,
-      "JNBK_TOUR_INTRST_VALUE": 5,
-      "GW_TOUR_INTRST_VALUE": 5,
-      "JJ_TOUR_INTRST_VALUE": 5
-    }
-  },
-  {
-    "file": "설문_국내여행_TOP10_트랜드_데이터_결과.csv",
-    "encoding": "utf-8-sig",
-    "total_rows_est": 1004,
-    "sample_rows": 300,
-    "n_cols": 8,
-    "columns": [
-      "week_label",
-      "SRCHWRD_NM",
-      "UPPER_CTGRY_NM",
-      "LWPRT_CTGRY_NM",
-      "AREA_NM",
-      "MOBILE_SCCNT_VALUE",
-      "PC_SCCNT_VALUE",
-      "SCCNT_SM_VALUE"
-    ],
-    "dtypes": {
-      "week_label": "object",
-      "SRCHWRD_NM": "object",
-      "UPPER_CTGRY_NM": "object",
-      "LWPRT_CTGRY_NM": "object",
-      "AREA_NM": "object",
-      "MOBILE_SCCNT_VALUE": "int64",
-      "PC_SCCNT_VALUE": "int64",
-      "SCCNT_SM_VALUE": "int64"
-    },
-    "missing_counts_sample": {
-      "week_label": 0,
-      "SRCHWRD_NM": 0,
-      "UPPER_CTGRY_NM": 0,
-      "LWPRT_CTGRY_NM": 0,
-      "AREA_NM": 0,
-      "MOBILE_SCCNT_VALUE": 0,
-      "PC_SCCNT_VALUE": 0,
-      "SCCNT_SM_VALUE": 0
-    },
-    "nunique_sample": {
-      "week_label": 28,
-      "SRCHWRD_NM": 16,
-      "UPPER_CTGRY_NM": 1,
-      "LWPRT_CTGRY_NM": 1,
-      "AREA_NM": 9,
-      "MOBILE_SCCNT_VALUE": 292,
-      "PC_SCCNT_VALUE": 280,
-      "SCCNT_SM_VALUE": 297
-    }
-  },
-  {
-    "file": "월별_검색건수 추이.csv",
+    "file": "data_csv_type/월단위/월별_검색건수 추이.csv",
     "encoding": "utf-8-sig",
     "total_rows_est": 360,
     "sample_rows": 300,
@@ -489,7 +233,7 @@
     }
   },
   {
-    "file": "월별_경기도_파주시_지역화폐 발행및이용현황.csv",
+    "file": "data_csv_type/월단위/월별_경기도_파주시_지역화폐 발행및이용현황.csv",
     "encoding": "utf-8-sig",
     "total_rows_est": 46,
     "sample_rows": 46,
@@ -536,7 +280,7 @@
     }
   },
   {
-    "file": "월별_관광지_방문객추세_LG유플러스.csv",
+    "file": "data_csv_type/월단위/월별_관광지_방문객추세_LG유플러스.csv",
     "encoding": "utf-8-sig",
     "total_rows_est": 23,
     "sample_rows": 23,
@@ -591,7 +335,7 @@
     }
   },
   {
-    "file": "월별_관광지_소비지표_삼성카드.csv",
+    "file": "data_csv_type/월단위/월별_관광지_소비지표_삼성카드.csv",
     "encoding": "utf-8-sig",
     "total_rows_est": 23,
     "sample_rows": 23,
@@ -658,7 +402,7 @@
     }
   },
   {
-    "file": "월별_방문자수 히트맵.csv",
+    "file": "data_csv_type/월단위/월별_방문자수 히트맵.csv",
     "encoding": "utf-8-sig",
     "total_rows_est": 131,
     "sample_rows": 131,
@@ -685,7 +429,7 @@
     }
   },
   {
-    "file": "월별_생활인구_LG유플러스.csv",
+    "file": "data_csv_type/월단위/월별_생활인구_LG유플러스.csv",
     "encoding": "utf-8-sig",
     "total_rows_est": 19,
     "sample_rows": 19,
@@ -708,7 +452,7 @@
     }
   },
   {
-    "file": "월별_유형별 검색건수.csv",
+    "file": "data_csv_type/월단위/월별_유형별 검색건수.csv",
     "encoding": "utf-8-sig",
     "total_rows_est": 27,
     "sample_rows": 27,
@@ -739,7 +483,7 @@
     }
   },
   {
-    "file": "월별_지역별 검색건수.csv",
+    "file": "data_csv_type/월단위/월별_지역별 검색건수.csv",
     "encoding": "utf-8-sig",
     "total_rows_est": 1175,
     "sample_rows": 300,
@@ -782,7 +526,7 @@
     }
   },
   {
-    "file": "월별_파주시방문 추이.csv",
+    "file": "data_csv_type/월단위/월별_파주시방문 추이.csv",
     "encoding": "utf-8-sig",
     "total_rows_est": 36,
     "sample_rows": 36,
@@ -817,38 +561,342 @@
     }
   },
   {
-    "file": "현시점_업종별 관광사업체 수.csv",
+    "file": "data_csv_type/주단위/설문_국내여행_TOP10_트랜드_데이터_결과.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 1004,
+    "sample_rows": 300,
+    "n_cols": 11,
+    "columns": [
+      "연도",
+      "월",
+      "주차",
+      "week_label",
+      "SRCHWRD_NM",
+      "UPPER_CTGRY_NM",
+      "LWPRT_CTGRY_NM",
+      "AREA_NM",
+      "MOBILE_SCCNT_VALUE",
+      "PC_SCCNT_VALUE",
+      "SCCNT_SM_VALUE"
+    ],
+    "dtypes": {
+      "연도": "object",
+      "월": "object",
+      "주차": "object",
+      "week_label": "object",
+      "SRCHWRD_NM": "object",
+      "UPPER_CTGRY_NM": "object",
+      "LWPRT_CTGRY_NM": "object",
+      "AREA_NM": "object",
+      "MOBILE_SCCNT_VALUE": "int64",
+      "PC_SCCNT_VALUE": "int64",
+      "SCCNT_SM_VALUE": "int64"
+    },
+    "missing_counts_sample": {
+      "연도": 0,
+      "월": 0,
+      "주차": 0,
+      "week_label": 0,
+      "SRCHWRD_NM": 0,
+      "UPPER_CTGRY_NM": 0,
+      "LWPRT_CTGRY_NM": 0,
+      "AREA_NM": 0,
+      "MOBILE_SCCNT_VALUE": 0,
+      "PC_SCCNT_VALUE": 0,
+      "SCCNT_SM_VALUE": 0
+    },
+    "nunique_sample": {
+      "연도": 1,
+      "월": 6,
+      "주차": 5,
+      "week_label": 28,
+      "SRCHWRD_NM": 16,
+      "UPPER_CTGRY_NM": 1,
+      "LWPRT_CTGRY_NM": 1,
+      "AREA_NM": 9,
+      "MOBILE_SCCNT_VALUE": 292,
+      "PC_SCCNT_VALUE": 280,
+      "SCCNT_SM_VALUE": 297
+    }
+  },
+  {
+    "file": "data_csv_type/일단위/설문_국내_여행_비용_지출_의향_통합.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 46000,
+    "sample_rows": 300,
+    "n_cols": 11,
+    "columns": [
+      "연도",
+      "월",
+      "주차",
+      "EXAMIN_BEGIN_DE",
+      "SEXDSTN_FLAG_CD",
+      "AGRDE_FLAG_NM",
+      "ANSWRR_OC_AREA_NM",
+      "HSHLD_INCOME_DGREE_NM",
+      "ALL_TURSM_TOUR_EXPNDTR_INTEN_VALUE",
+      "DMSTC_TURSM_TOUR_EXPNDTR_INTEN_VALUE",
+      "OVSEA_TURSM_TOUR_EXPNDTR_INTEN_VALUE"
+    ],
+    "dtypes": {
+      "연도": "object",
+      "월": "object",
+      "주차": "object",
+      "EXAMIN_BEGIN_DE": "int64",
+      "SEXDSTN_FLAG_CD": "object",
+      "AGRDE_FLAG_NM": "object",
+      "ANSWRR_OC_AREA_NM": "object",
+      "HSHLD_INCOME_DGREE_NM": "object",
+      "ALL_TURSM_TOUR_EXPNDTR_INTEN_VALUE": "object",
+      "DMSTC_TURSM_TOUR_EXPNDTR_INTEN_VALUE": "object",
+      "OVSEA_TURSM_TOUR_EXPNDTR_INTEN_VALUE": "object"
+    },
+    "missing_counts_sample": {
+      "연도": 0,
+      "월": 0,
+      "주차": 0,
+      "EXAMIN_BEGIN_DE": 0,
+      "SEXDSTN_FLAG_CD": 0,
+      "AGRDE_FLAG_NM": 0,
+      "ANSWRR_OC_AREA_NM": 0,
+      "HSHLD_INCOME_DGREE_NM": 0,
+      "ALL_TURSM_TOUR_EXPNDTR_INTEN_VALUE": 0,
+      "DMSTC_TURSM_TOUR_EXPNDTR_INTEN_VALUE": 0,
+      "OVSEA_TURSM_TOUR_EXPNDTR_INTEN_VALUE": 0
+    },
+    "nunique_sample": {
+      "연도": 1,
+      "월": 1,
+      "주차": 1,
+      "EXAMIN_BEGIN_DE": 1,
+      "SEXDSTN_FLAG_CD": 2,
+      "AGRDE_FLAG_NM": 5,
+      "ANSWRR_OC_AREA_NM": 16,
+      "HSHLD_INCOME_DGREE_NM": 5,
+      "ALL_TURSM_TOUR_EXPNDTR_INTEN_VALUE": 5,
+      "DMSTC_TURSM_TOUR_EXPNDTR_INTEN_VALUE": 5,
+      "OVSEA_TURSM_TOUR_EXPNDTR_INTEN_VALUE": 5
+    }
+  },
+  {
+    "file": "data_csv_type/일단위/설문_국내_여행_비용_지출_특성_통합.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 28858,
+    "sample_rows": 300,
+    "n_cols": 21,
+    "columns": [
+      "연도",
+      "월",
+      "주차",
+      "EXAMIN_BEGIN_DE",
+      "TOUR_TOT_CT_VALUE",
+      "TOUR_LDGMNT_CT_VALUE",
+      "TOUR_FOOD_CT_VALUE",
+      "TOUR_TRNSPORT_CT_VALUE",
+      "TOUR_SHOPNG_CT_VALUE",
+      "TOUR_ACTVTY_CT_VALUE",
+      "TOUR_ETC_CT_VALUE",
+      "TOUR_CTPRVN_NM",
+      "TOUR_SIGNGU_NM",
+      "TOUR_COM_NMPR_NM",
+      "TOUR_PD_VALUE",
+      "SEXDSTN_FLAG_CD",
+      "AGRDE_FLAG_NM",
+      "MRRG_AT_NM",
+      "CHLDRN_TY_NM",
+      "OCCP_NM",
+      "HSHLD_INCOME_DGREE_NM"
+    ],
+    "dtypes": {
+      "연도": "object",
+      "월": "object",
+      "주차": "object",
+      "EXAMIN_BEGIN_DE": "int64",
+      "TOUR_TOT_CT_VALUE": "object",
+      "TOUR_LDGMNT_CT_VALUE": "object",
+      "TOUR_FOOD_CT_VALUE": "object",
+      "TOUR_TRNSPORT_CT_VALUE": "object",
+      "TOUR_SHOPNG_CT_VALUE": "object",
+      "TOUR_ACTVTY_CT_VALUE": "object",
+      "TOUR_ETC_CT_VALUE": "object",
+      "TOUR_CTPRVN_NM": "object",
+      "TOUR_SIGNGU_NM": "object",
+      "TOUR_COM_NMPR_NM": "object",
+      "TOUR_PD_VALUE": "object",
+      "SEXDSTN_FLAG_CD": "object",
+      "AGRDE_FLAG_NM": "object",
+      "MRRG_AT_NM": "object",
+      "CHLDRN_TY_NM": "object",
+      "OCCP_NM": "object",
+      "HSHLD_INCOME_DGREE_NM": "object"
+    },
+    "missing_counts_sample": {
+      "연도": 0,
+      "월": 0,
+      "주차": 0,
+      "EXAMIN_BEGIN_DE": 0,
+      "TOUR_TOT_CT_VALUE": 0,
+      "TOUR_LDGMNT_CT_VALUE": 0,
+      "TOUR_FOOD_CT_VALUE": 0,
+      "TOUR_TRNSPORT_CT_VALUE": 0,
+      "TOUR_SHOPNG_CT_VALUE": 0,
+      "TOUR_ACTVTY_CT_VALUE": 0,
+      "TOUR_ETC_CT_VALUE": 0,
+      "TOUR_CTPRVN_NM": 0,
+      "TOUR_SIGNGU_NM": 0,
+      "TOUR_COM_NMPR_NM": 0,
+      "TOUR_PD_VALUE": 0,
+      "SEXDSTN_FLAG_CD": 0,
+      "AGRDE_FLAG_NM": 0,
+      "MRRG_AT_NM": 0,
+      "CHLDRN_TY_NM": 0,
+      "OCCP_NM": 0,
+      "HSHLD_INCOME_DGREE_NM": 0
+    },
+    "nunique_sample": {
+      "연도": 1,
+      "월": 1,
+      "주차": 1,
+      "EXAMIN_BEGIN_DE": 1,
+      "TOUR_TOT_CT_VALUE": 6,
+      "TOUR_LDGMNT_CT_VALUE": 7,
+      "TOUR_FOOD_CT_VALUE": 7,
+      "TOUR_TRNSPORT_CT_VALUE": 7,
+      "TOUR_SHOPNG_CT_VALUE": 7,
+      "TOUR_ACTVTY_CT_VALUE": 7,
+      "TOUR_ETC_CT_VALUE": 7,
+      "TOUR_CTPRVN_NM": 16,
+      "TOUR_SIGNGU_NM": 134,
+      "TOUR_COM_NMPR_NM": 6,
+      "TOUR_PD_VALUE": 7,
+      "SEXDSTN_FLAG_CD": 2,
+      "AGRDE_FLAG_NM": 5,
+      "MRRG_AT_NM": 3,
+      "CHLDRN_TY_NM": 6,
+      "OCCP_NM": 8,
+      "HSHLD_INCOME_DGREE_NM": 5
+    }
+  },
+  {
+    "file": "data_csv_type/일단위/설문_국내_여행지역_관심도.csv",
+    "encoding": "utf-8-sig",
+    "total_rows_est": 23064,
+    "sample_rows": 300,
+    "n_cols": 19,
+    "columns": [
+      "연도",
+      "월",
+      "주차",
+      "EXAMIN_BEGIN_DE",
+      "SEXDSTN_FLAG_CD",
+      "AGRDE_FLAG_NM",
+      "ANSWRR_OC_AREA_NM",
+      "HSHLD_INCOME_DGREE_NM",
+      "SU_TOUR_INTRST_VALUE",
+      "GG_IC_TOUR_INTRST_VALUE",
+      "BS_TOUR_INTRST_VALUE",
+      "CHN_DJ_TOUR_INTRST_VALUE",
+      "CB_TOUR_INTRST_VALUE",
+      "GN_US_TOUR_INTRST_VALUE",
+      "GB_DG_TOUR_INTRST_VALUE",
+      "JN_GJ_TOUR_INTRST_VALUE",
+      "JNBK_TOUR_INTRST_VALUE",
+      "GW_TOUR_INTRST_VALUE",
+      "JJ_TOUR_INTRST_VALUE"
+    ],
+    "dtypes": {
+      "연도": "object",
+      "월": "object",
+      "주차": "object",
+      "EXAMIN_BEGIN_DE": "int64",
+      "SEXDSTN_FLAG_CD": "object",
+      "AGRDE_FLAG_NM": "object",
+      "ANSWRR_OC_AREA_NM": "object",
+      "HSHLD_INCOME_DGREE_NM": "object",
+      "SU_TOUR_INTRST_VALUE": "object",
+      "GG_IC_TOUR_INTRST_VALUE": "object",
+      "BS_TOUR_INTRST_VALUE": "object",
+      "CHN_DJ_TOUR_INTRST_VALUE": "object",
+      "CB_TOUR_INTRST_VALUE": "object",
+      "GN_US_TOUR_INTRST_VALUE": "object",
+      "GB_DG_TOUR_INTRST_VALUE": "object",
+      "JN_GJ_TOUR_INTRST_VALUE": "object",
+      "JNBK_TOUR_INTRST_VALUE": "object",
+      "GW_TOUR_INTRST_VALUE": "object",
+      "JJ_TOUR_INTRST_VALUE": "object"
+    },
+    "missing_counts_sample": {
+      "연도": 0,
+      "월": 0,
+      "주차": 0,
+      "EXAMIN_BEGIN_DE": 0,
+      "SEXDSTN_FLAG_CD": 0,
+      "AGRDE_FLAG_NM": 0,
+      "ANSWRR_OC_AREA_NM": 0,
+      "HSHLD_INCOME_DGREE_NM": 0,
+      "SU_TOUR_INTRST_VALUE": 0,
+      "GG_IC_TOUR_INTRST_VALUE": 0,
+      "BS_TOUR_INTRST_VALUE": 0,
+      "CHN_DJ_TOUR_INTRST_VALUE": 0,
+      "CB_TOUR_INTRST_VALUE": 0,
+      "GN_US_TOUR_INTRST_VALUE": 0,
+      "GB_DG_TOUR_INTRST_VALUE": 0,
+      "JN_GJ_TOUR_INTRST_VALUE": 0,
+      "JNBK_TOUR_INTRST_VALUE": 0,
+      "GW_TOUR_INTRST_VALUE": 0,
+      "JJ_TOUR_INTRST_VALUE": 0
+    },
+    "nunique_sample": {
+      "연도": 1,
+      "월": 1,
+      "주차": 2,
+      "EXAMIN_BEGIN_DE": 2,
+      "SEXDSTN_FLAG_CD": 2,
+      "AGRDE_FLAG_NM": 5,
+      "ANSWRR_OC_AREA_NM": 16,
+      "HSHLD_INCOME_DGREE_NM": 5,
+      "SU_TOUR_INTRST_VALUE": 5,
+      "GG_IC_TOUR_INTRST_VALUE": 5,
+      "BS_TOUR_INTRST_VALUE": 5,
+      "CHN_DJ_TOUR_INTRST_VALUE": 5,
+      "CB_TOUR_INTRST_VALUE": 5,
+      "GN_US_TOUR_INTRST_VALUE": 5,
+      "GB_DG_TOUR_INTRST_VALUE": 5,
+      "JN_GJ_TOUR_INTRST_VALUE": 5,
+      "JNBK_TOUR_INTRST_VALUE": 5,
+      "GW_TOUR_INTRST_VALUE": 5,
+      "JJ_TOUR_INTRST_VALUE": 5
+    }
+  },
+  {
+    "file": "data_csv_type/기간없음/현시점_업종별 관광사업체 수.csv",
     "encoding": "utf-8-sig",
     "total_rows_est": 24,
     "sample_rows": 24,
-    "n_cols": 4,
+    "n_cols": 3,
     "columns": [
       "업종명",
-      "기준년도",
       "상위업종명",
       "영업현황수"
     ],
     "dtypes": {
       "업종명": "object",
-      "기준년도": "int64",
       "상위업종명": "object",
       "영업현황수": "int64"
     },
     "missing_counts_sample": {
       "업종명": 0,
-      "기준년도": 0,
       "상위업종명": 0,
       "영업현황수": 0
     },
     "nunique_sample": {
       "업종명": 18,
-      "기준년도": 1,
       "상위업종명": 7,
       "영업현황수": 16
     }
   },
   {
-    "file": "현시점_행정동별_생활인구_경기데이터드림.csv",
+    "file": "data_csv_type/기간없음/현시점_행정동별_생활인구_경기데이터드림.csv",
     "encoding": "utf-8-sig",
     "total_rows_est": 19,
     "sample_rows": 19,
@@ -883,9 +931,9 @@
     }
   },
   {
-    "file": "현시점_행정동별_숙박시설 및 객실 수 상세.csv",
+    "file": "data_csv_type/기간없음/현시점_행정동별_숙박시설 및 객실 수 상세.csv",
     "encoding": "utf-8-sig",
-    "total_rows_est": 362,
+    "total_rows_est": 359,
     "sample_rows": 300,
     "n_cols": 8,
     "columns": [
@@ -930,7 +978,7 @@
     }
   },
   {
-    "file": "현시점_행정동별_식품위생업소_영업유형분포_삼성카드.csv",
+    "file": "data_csv_type/기간없음/현시점_행정동별_식품위생업소_영업유형분포_삼성카드.csv",
     "encoding": "utf-8-sig",
     "total_rows_est": 20,
     "sample_rows": 20,
@@ -981,7 +1029,7 @@
     }
   },
   {
-    "file": "현시점_행정동별_식품위생업소_지역별소비규모_경기데이터드림.csv",
+    "file": "data_csv_type/기간없음/현시점_행정동별_식품위생업소_지역별소비규모_경기데이터드림.csv",
     "encoding": "utf-8-sig",
     "total_rows_est": 20,
     "sample_rows": 20,
@@ -1020,7 +1068,7 @@
     }
   },
   {
-    "file": "현시점_행정동별_인구소비지표_추정요약.csv",
+    "file": "data_csv_type/기간없음/현시점_행정동별_인구소비지표_추정요약.csv",
     "encoding": "utf-8-sig",
     "total_rows_est": 20,
     "sample_rows": 20,
@@ -1096,539 +1144,6 @@
       "인구활력지수 변화": 10,
       "인구활력지수 증감률(%)": 19,
       "방문인구 증감방향": 2
-    }
-  },
-  {
-    "file": "내외국인_비교데이터\\내국인 관심 관광지.csv",
-    "encoding": "utf-8-sig",
-    "total_rows_est": 100,
-    "sample_rows": 100,
-    "n_cols": 5,
-    "columns": [
-      "시군구명",
-      "시도명",
-      "관광지명",
-      "구분",
-      "방문자수"
-    ],
-    "dtypes": {
-      "시군구명": "object",
-      "시도명": "object",
-      "관광지명": "object",
-      "구분": "object",
-      "방문자수": "int64"
-    },
-    "missing_counts_sample": {
-      "시군구명": 0,
-      "시도명": 0,
-      "관광지명": 0,
-      "구분": 0,
-      "방문자수": 0
-    },
-    "nunique_sample": {
-      "시군구명": 1,
-      "시도명": 1,
-      "관광지명": 100,
-      "구분": 10,
-      "방문자수": 100
-    }
-  },
-  {
-    "file": "내외국인_비교데이터\\내외국인_관광소비 추이.csv",
-    "encoding": "utf-8-sig",
-    "total_rows_est": 864,
-    "sample_rows": 300,
-    "n_cols": 6,
-    "columns": [
-      "기간",
-      "기준년월",
-      "기초지자체",
-      "중분류",
-      "소비액(천원) (내국인)",
-      "소비액(천원) (외국인)"
-    ],
-    "dtypes": {
-      "기간": "object",
-      "기준년월": "int64",
-      "기초지자체": "object",
-      "중분류": "object",
-      "소비액(천원) (내국인)": "float64",
-      "소비액(천원) (외국인)": "float64"
-    },
-    "missing_counts_sample": {
-      "기간": 0,
-      "기준년월": 0,
-      "기초지자체": 0,
-      "중분류": 0,
-      "소비액(천원) (내국인)": 0,
-      "소비액(천원) (외국인)": 29
-    },
-    "nunique_sample": {
-      "기간": 2,
-      "기준년월": 17,
-      "기초지자체": 1,
-      "중분류": 18,
-      "소비액(천원) (내국인)": 300,
-      "소비액(천원) (외국인)": 262
-    }
-  },
-  {
-    "file": "내외국인_비교데이터\\내외국인_관광소비 히트맵.csv",
-    "encoding": "utf-8-sig",
-    "total_rows_est": 352,
-    "sample_rows": 300,
-    "n_cols": 6,
-    "columns": [
-      "기간",
-      "기초지자체",
-      "중분류",
-      "소비액(천원) (내국인)",
-      "전년동기 소비액 (내국인)",
-      "소비액(천원) (외국인)"
-    ],
-    "dtypes": {
-      "기간": "object",
-      "기초지자체": "object",
-      "중분류": "object",
-      "소비액(천원) (내국인)": "float64",
-      "전년동기 소비액 (내국인)": "float64",
-      "소비액(천원) (외국인)": "float64"
-    },
-    "missing_counts_sample": {
-      "기간": 0,
-      "기초지자체": 0,
-      "중분류": 0,
-      "소비액(천원) (내국인)": 167,
-      "전년동기 소비액 (내국인)": 167,
-      "소비액(천원) (외국인)": 133
-    },
-    "nunique_sample": {
-      "기간": 4,
-      "기초지자체": 45,
-      "중분류": 1,
-      "소비액(천원) (내국인)": 133,
-      "전년동기 소비액 (내국인)": 133,
-      "소비액(천원) (외국인)": 167
-    }
-  },
-  {
-    "file": "내외국인_비교데이터\\내외국인_업종별 지출액.csv",
-    "encoding": "utf-8-sig",
-    "total_rows_est": 68,
-    "sample_rows": 68,
-    "n_cols": 7,
-    "columns": [
-      "기간",
-      "대분류",
-      "중분류",
-      "대분류 지출액 비율 (내국인)",
-      "중분류 지출액 비율 (내국인)",
-      "대분류 지출액 비율 (외국인)",
-      "중분류 지출액 비율 (외국인)"
-    ],
-    "dtypes": {
-      "기간": "object",
-      "대분류": "object",
-      "중분류": "object",
-      "대분류 지출액 비율 (내국인)": "float64",
-      "중분류 지출액 비율 (내국인)": "float64",
-      "대분류 지출액 비율 (외국인)": "float64",
-      "중분류 지출액 비율 (외국인)": "float64"
-    },
-    "missing_counts_sample": {
-      "기간": 0,
-      "대분류": 0,
-      "중분류": 0,
-      "대분류 지출액 비율 (내국인)": 0,
-      "중분류 지출액 비율 (내국인)": 0,
-      "대분류 지출액 비율 (외국인)": 0,
-      "중분류 지출액 비율 (외국인)": 0
-    },
-    "nunique_sample": {
-      "기간": 4,
-      "대분류": 7,
-      "중분류": 17,
-      "대분류 지출액 비율 (내국인)": 24,
-      "중분류 지출액 비율 (내국인)": 56,
-      "대분류 지출액 비율 (외국인)": 23,
-      "중분류 지출액 비율 (외국인)": 61
-    }
-  },
-  {
-    "file": "내외국인_비교데이터\\내외국인_지역별 지출액.csv",
-    "encoding": "utf-8-sig",
-    "total_rows_est": 81,
-    "sample_rows": 81,
-    "n_cols": 4,
-    "columns": [
-      "기간",
-      "지역명",
-      "비율(%) (내국인)",
-      "비율(%) (외국인)"
-    ],
-    "dtypes": {
-      "기간": "object",
-      "지역명": "object",
-      "비율(%) (내국인)": "float64",
-      "비율(%) (외국인)": "float64"
-    },
-    "missing_counts_sample": {
-      "기간": 0,
-      "지역명": 1,
-      "비율(%) (내국인)": 0,
-      "비율(%) (외국인)": 1
-    },
-    "nunique_sample": {
-      "기간": 4,
-      "지역명": 20,
-      "비율(%) (내국인)": 52,
-      "비율(%) (외국인)": 38
-    }
-  },
-  {
-    "file": "내외국인_비교데이터\\인기관광지_외지인.csv",
-    "encoding": "utf-8-sig",
-    "total_rows_est": 100,
-    "sample_rows": 100,
-    "n_cols": 4,
-    "columns": [
-      "순위",
-      "관광지ID",
-      "관광지명",
-      "분류"
-    ],
-    "dtypes": {
-      "순위": "int64",
-      "관광지ID": "object",
-      "관광지명": "object",
-      "분류": "object"
-    },
-    "missing_counts_sample": {
-      "순위": 0,
-      "관광지ID": 0,
-      "관광지명": 0,
-      "분류": 0
-    },
-    "nunique_sample": {
-      "순위": 100,
-      "관광지ID": 100,
-      "관광지명": 100,
-      "분류": 25
-    }
-  },
-  {
-    "file": "내외국인_비교데이터\\인기관광지_전체.csv",
-    "encoding": "utf-8-sig",
-    "total_rows_est": 100,
-    "sample_rows": 100,
-    "n_cols": 4,
-    "columns": [
-      "순위",
-      "관광지ID",
-      "관광지명",
-      "분류"
-    ],
-    "dtypes": {
-      "순위": "int64",
-      "관광지ID": "object",
-      "관광지명": "object",
-      "분류": "object"
-    },
-    "missing_counts_sample": {
-      "순위": 0,
-      "관광지ID": 0,
-      "관광지명": 0,
-      "분류": 0
-    },
-    "nunique_sample": {
-      "순위": 100,
-      "관광지ID": 100,
-      "관광지명": 100,
-      "분류": 25
-    }
-  },
-  {
-    "file": "내외국인_비교데이터\\인기관광지_현지인.csv",
-    "encoding": "utf-8-sig",
-    "total_rows_est": 100,
-    "sample_rows": 100,
-    "n_cols": 4,
-    "columns": [
-      "순위",
-      "관광지ID",
-      "관광지명",
-      "분류"
-    ],
-    "dtypes": {
-      "순위": "int64",
-      "관광지ID": "object",
-      "관광지명": "object",
-      "분류": "object"
-    },
-    "missing_counts_sample": {
-      "순위": 0,
-      "관광지ID": 0,
-      "관광지명": 0,
-      "분류": 0
-    },
-    "nunique_sample": {
-      "순위": 100,
-      "관광지ID": 100,
-      "관광지명": 100,
-      "분류": 24
-    }
-  },
-  {
-    "file": "내외국인_비교데이터\\주요 유료관광지점 입장객 수_내국인 .csv",
-    "encoding": "utf-8-sig",
-    "total_rows_est": 504,
-    "sample_rows": 300,
-    "n_cols": 7,
-    "columns": [
-      "순위",
-      "광역지자체명",
-      "기초지자체명",
-      "관광지명",
-      "기준연월",
-      "입장객수",
-      "입장객 수 총계"
-    ],
-    "dtypes": {
-      "순위": "int64",
-      "광역지자체명": "object",
-      "기초지자체명": "object",
-      "관광지명": "object",
-      "기준연월": "int64",
-      "입장객수": "object",
-      "입장객 수 총계": "float64"
-    },
-    "missing_counts_sample": {
-      "순위": 0,
-      "광역지자체명": 0,
-      "기초지자체명": 0,
-      "관광지명": 0,
-      "기준연월": 0,
-      "입장객수": 0,
-      "입장객 수 총계": 0
-    },
-    "nunique_sample": {
-      "순위": 17,
-      "광역지자체명": 1,
-      "기초지자체명": 1,
-      "관광지명": 17,
-      "기준연월": 18,
-      "입장객수": 288,
-      "입장객 수 총계": 17
-    }
-  },
-  {
-    "file": "내외국인_비교데이터\\주요 유료관광지점 입장객 수_외국인.csv",
-    "encoding": "utf-8-sig",
-    "total_rows_est": 270,
-    "sample_rows": 270,
-    "n_cols": 7,
-    "columns": [
-      "순위",
-      "광역지자체명",
-      "기초지자체명",
-      "관광지명",
-      "기준연월",
-      "입장객수",
-      "입장객 수 총계"
-    ],
-    "dtypes": {
-      "순위": "int64",
-      "광역지자체명": "object",
-      "기초지자체명": "object",
-      "관광지명": "object",
-      "기준연월": "int64",
-      "입장객수": "object",
-      "입장객 수 총계": "float64"
-    },
-    "missing_counts_sample": {
-      "순위": 0,
-      "광역지자체명": 0,
-      "기초지자체명": 0,
-      "관광지명": 0,
-      "기준연월": 0,
-      "입장객수": 0,
-      "입장객 수 총계": 0
-    },
-    "nunique_sample": {
-      "순위": 15,
-      "광역지자체명": 1,
-      "기초지자체명": 1,
-      "관광지명": 15,
-      "기준연월": 18,
-      "입장객수": 105,
-      "입장객 수 총계": 15
-    }
-  },
-  {
-    "file": "내외국인_비교데이터\\주요 유료관광지점 입장객 수_전체.csv",
-    "encoding": "utf-8-sig",
-    "total_rows_est": 504,
-    "sample_rows": 300,
-    "n_cols": 7,
-    "columns": [
-      "순위",
-      "광역지자체명",
-      "기초지자체명",
-      "관광지명",
-      "기준연월",
-      "입장객수",
-      "입장객총계"
-    ],
-    "dtypes": {
-      "순위": "int64",
-      "광역지자체명": "object",
-      "기초지자체명": "object",
-      "관광지명": "object",
-      "기준연월": "int64",
-      "입장객수": "object",
-      "입장객총계": "float64"
-    },
-    "missing_counts_sample": {
-      "순위": 0,
-      "광역지자체명": 0,
-      "기초지자체명": 0,
-      "관광지명": 0,
-      "기준연월": 0,
-      "입장객수": 0,
-      "입장객총계": 0
-    },
-    "nunique_sample": {
-      "순위": 17,
-      "광역지자체명": 1,
-      "기초지자체명": 1,
-      "관광지명": 17,
-      "기준연월": 18,
-      "입장객수": 286,
-      "입장객총계": 17
-    }
-  },
-  {
-    "file": "내외국인_비교데이터\\중심 관광지.csv",
-    "encoding": "utf-8-sig",
-    "total_rows_est": 100,
-    "sample_rows": 100,
-    "n_cols": 4,
-    "columns": [
-      "순위",
-      "관광지ID",
-      "관광지명",
-      "분류"
-    ],
-    "dtypes": {
-      "순위": "int64",
-      "관광지ID": "object",
-      "관광지명": "object",
-      "분류": "object"
-    },
-    "missing_counts_sample": {
-      "순위": 0,
-      "관광지ID": 0,
-      "관광지명": 0,
-      "분류": 0
-    },
-    "nunique_sample": {
-      "순위": 100,
-      "관광지ID": 98,
-      "관광지명": 98,
-      "분류": 8
-    }
-  },
-  {
-    "file": "내외국인_비교데이터\\지역_맛집_외지인.csv",
-    "encoding": "utf-8-sig",
-    "total_rows_est": 100,
-    "sample_rows": 100,
-    "n_cols": 4,
-    "columns": [
-      "순위",
-      "관광지ID",
-      "업소명",
-      "분류"
-    ],
-    "dtypes": {
-      "순위": "int64",
-      "관광지ID": "object",
-      "업소명": "object",
-      "분류": "object"
-    },
-    "missing_counts_sample": {
-      "순위": 0,
-      "관광지ID": 0,
-      "업소명": 0,
-      "분류": 0
-    },
-    "nunique_sample": {
-      "순위": 98,
-      "관광지ID": 100,
-      "업소명": 100,
-      "분류": 5
-    }
-  },
-  {
-    "file": "내외국인_비교데이터\\지역_맛집_전체.csv",
-    "encoding": "utf-8-sig",
-    "total_rows_est": 100,
-    "sample_rows": 100,
-    "n_cols": 4,
-    "columns": [
-      "순위",
-      "관광지ID",
-      "업소명",
-      "분류"
-    ],
-    "dtypes": {
-      "순위": "int64",
-      "관광지ID": "object",
-      "업소명": "object",
-      "분류": "object"
-    },
-    "missing_counts_sample": {
-      "순위": 0,
-      "관광지ID": 0,
-      "업소명": 0,
-      "분류": 0
-    },
-    "nunique_sample": {
-      "순위": 100,
-      "관광지ID": 100,
-      "업소명": 100,
-      "분류": 5
-    }
-  },
-  {
-    "file": "내외국인_비교데이터\\지역맛집_현지인.csv",
-    "encoding": "utf-8-sig",
-    "total_rows_est": 100,
-    "sample_rows": 100,
-    "n_cols": 4,
-    "columns": [
-      "순위",
-      "관광지ID",
-      "업소명",
-      "분류"
-    ],
-    "dtypes": {
-      "순위": "int64",
-      "관광지ID": "object",
-      "업소명": "object",
-      "분류": "object"
-    },
-    "missing_counts_sample": {
-      "순위": 0,
-      "관광지ID": 0,
-      "업소명": 0,
-      "분류": 0
-    },
-    "nunique_sample": {
-      "순위": 100,
-      "관광지ID": 100,
-      "업소명": 100,
-      "분류": 5
     }
   }
 ]

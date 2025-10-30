@@ -1,0 +1,43 @@
+{
+  "file": "data_csv_type/내외국인/유입_유출지역_파주시_202410-202509_데이터랩_다운로드/202410-202509_경기도_파주시_▶_경기도_고양시_일산동구_전년_동기_대비_유출_증감.csv",
+  "generated_at": "2025-10-30 11:47:41",
+  "language": "en",
+  "columns": [
+    {
+      "column": "년도",
+      "description": "Values recorded in column \"년도\" of the dataset."
+    },
+    {
+      "column": "월",
+      "description": "Values recorded in column \"월\" of the dataset."
+    },
+    {
+      "column": "업종중분류명",
+      "description": "Values recorded in column \"업종중분류명\" of the dataset."
+    },
+    {
+      "column": "검색건수",
+      "description": "Values recorded in column \"검색건수\" of the dataset."
+    },
+    {
+      "column": "전년동기 검색건수",
+      "description": "Values recorded in column \"전년동기 검색건수\" of the dataset."
+    },
+    {
+      "column": "전년동기 대비 검색율",
+      "description": "Values recorded in column \"전년동기 대비 검색율\" of the dataset."
+    },
+    {
+      "column": "총검색건수",
+      "description": "Values recorded in column \"총검색건수\" of the dataset."
+    },
+    {
+      "column": "전년동기 총검색건수",
+      "description": "Values recorded in column \"전년동기 총검색건수\" of the dataset."
+    },
+    {
+      "column": "전년동기 대비 총검색율",
+      "description": "Values recorded in column \"전년동기 대비 총검색율\" of the dataset."
+    }
+  ]
+}

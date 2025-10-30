@@ -1,0 +1,35 @@
+{
+  "file": "data_csv_type/내외국인/관광소비_파주시_202404-202509_데이터랩_다운로드/202404-202509_전국_대비_관광소비_추이_외지인.csv",
+  "generated_at": "2025-10-30 11:47:41",
+  "language": "en",
+  "columns": [
+    {
+      "column": "년도",
+      "description": "Values recorded in column \"년도\" of the dataset."
+    },
+    {
+      "column": "월",
+      "description": "Values recorded in column \"월\" of the dataset."
+    },
+    {
+      "column": "기준연월",
+      "description": "Values recorded in column \"기준연월\" of the dataset."
+    },
+    {
+      "column": "지역명",
+      "description": "Values recorded in column \"지역명\" of the dataset."
+    },
+    {
+      "column": "관광소비액(백만원)",
+      "description": "Values recorded in column \"관광소비액(백만원)\" of the dataset."
+    },
+    {
+      "column": "전국 관광소비액(백만원)",
+      "description": "Values recorded in column \"전국 관광소비액(백만원)\" of the dataset."
+    },
+    {
+      "column": "전국 대비 관광소비율",
+      "description": "Values recorded in column \"전국 대비 관광소비율\" of the dataset."
+    }
+  ]
+}

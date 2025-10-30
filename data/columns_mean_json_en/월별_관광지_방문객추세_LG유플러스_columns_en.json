@@ -1,47 +1,47 @@
 {
-  "file": "월별_관광지_방문객추세_LG유플러스.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/월단위/월별_관광지_방문객추세_LG유플러스.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "en",
   "columns": [
     {
       "column": "연도",
-      "description": "Contains the values for Korean labeled column '연도'."
+      "description": "Values recorded in column \"연도\" of the dataset."
     },
     {
       "column": "월",
-      "description": "Contains the values for Korean labeled column '월'."
+      "description": "Values recorded in column \"월\" of the dataset."
     },
     {
       "column": "방문인구(명)",
-      "description": "Contains the values for Korean labeled column '방문인구(명)'."
+      "description": "Values recorded in column \"방문인구(명)\" of the dataset."
     },
     {
       "column": "누적방문인구(명)",
-      "description": "Contains the values for Korean labeled column '누적방문인구(명)'."
+      "description": "Values recorded in column \"누적방문인구(명)\" of the dataset."
     },
     {
       "column": "전월대비 증감률(%)",
-      "description": "Contains the values for Korean labeled column '전월대비 증감률(%)'."
+      "description": "Values recorded in column \"전월대비 증감률(%)\" of the dataset."
     },
     {
       "column": "전년동월대비 증감률(%)",
-      "description": "Contains the values for Korean labeled column '전년동월대비 증감률(%)'."
+      "description": "Values recorded in column \"전년동월대비 증감률(%)\" of the dataset."
     },
     {
       "column": "3개월 이동평균(명)",
-      "description": "Contains the values for Korean labeled column '3개월 이동평균(명)'."
+      "description": "Values recorded in column \"3개월 이동평균(명)\" of the dataset."
     },
     {
       "column": "방문인구 지수(평균=100)",
-      "description": "Contains the values for Korean labeled column '방문인구 지수(평균=100)'."
+      "description": "Values recorded in column \"방문인구 지수(평균=100)\" of the dataset."
     },
     {
       "column": "성수기 구분",
-      "description": "Contains the values for Korean labeled column '성수기 구분'."
+      "description": "Values recorded in column \"성수기 구분\" of the dataset."
     },
     {
       "column": "기준월",
-      "description": "Contains the values for Korean labeled column '기준월'."
+      "description": "Values recorded in column \"기준월\" of the dataset."
     }
   ]
 }

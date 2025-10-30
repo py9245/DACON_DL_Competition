@@ -1,39 +1,39 @@
 {
-  "file": "월별_경기도_파주시_지역화폐 발행및이용현황.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/월단위/월별_경기도_파주시_지역화폐 발행및이용현황.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "en",
   "columns": [
     {
       "column": "시도명",
-      "description": "Province or metropolitan city name"
+      "description": "Values recorded in column \"시도명\" of the dataset."
     },
     {
       "column": "시군구명",
-      "description": "City/county/district name"
+      "description": "Values recorded in column \"시군구명\" of the dataset."
     },
     {
       "column": "발행년월",
-      "description": "Issue month for local currency (YYYYMM)"
+      "description": "Values recorded in column \"발행년월\" of the dataset."
     },
     {
       "column": "월별카드발행수량",
-      "description": "Monthly issued local currency card count"
+      "description": "Values recorded in column \"월별카드발행수량\" of the dataset."
     },
     {
       "column": "월별카드충전액",
-      "description": "Monthly top-up amount for local currency"
+      "description": "Values recorded in column \"월별카드충전액\" of the dataset."
     },
     {
       "column": "월별카드사용액",
-      "description": "Monthly spending amount for local currency"
+      "description": "Values recorded in column \"월별카드사용액\" of the dataset."
     },
     {
       "column": "관리기관명",
-      "description": "Managing organization name"
+      "description": "Values recorded in column \"관리기관명\" of the dataset."
     },
     {
       "column": "관리기관전화번호",
-      "description": "Managing organization phone number"
+      "description": "Values recorded in column \"관리기관전화번호\" of the dataset."
     }
   ]
 }

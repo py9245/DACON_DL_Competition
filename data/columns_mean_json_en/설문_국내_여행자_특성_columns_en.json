@@ -1,23 +1,27 @@
 {
-  "file": "설문_국내_여행자_특성.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/월단위/설문_국내_여행자_특성.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "en",
   "columns": [
     {
-      "column": "EXAMIN_YM",
-      "description": "Survey year-month (YYYYMM)"
+      "column": "연도",
+      "description": "Survey year (YYYY)"
+    },
+    {
+      "column": "월",
+      "description": "Survey month (1-12)"
     },
     {
       "column": "RESPOND_CHARTR_SDIV_ID",
-      "description": "Respondent characteristic detail ID"
+      "description": "Respondent characteristic category ID"
     },
     {
       "column": "RESPOND_CHARTR_SDIV_NM",
-      "description": "Respondent characteristic detail name"
+      "description": "Respondent characteristic category name"
     },
     {
       "column": "RSPNS_RATE",
-      "description": "Response rate (%)"
+      "description": "Response rate (percentage)"
     }
   ]
 }

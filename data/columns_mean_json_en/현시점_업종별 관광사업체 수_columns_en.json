@@ -1,23 +1,19 @@
 {
-  "file": "현시점_업종별 관광사업체 수.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/기간없음/현시점_업종별 관광사업체 수.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "en",
   "columns": [
     {
       "column": "업종명",
-      "description": "Contains the values for Korean labeled column '업종명'."
-    },
-    {
-      "column": "기준년도",
-      "description": "Contains the values for Korean labeled column '기준년도'."
+      "description": "Values recorded in column \"업종명\" of the dataset."
     },
     {
       "column": "상위업종명",
-      "description": "Contains the values for Korean labeled column '상위업종명'."
+      "description": "Values recorded in column \"상위업종명\" of the dataset."
     },
     {
       "column": "영업현황수",
-      "description": "Contains the values for Korean labeled column '영업현황수'."
+      "description": "Values recorded in column \"영업현황수\" of the dataset."
     }
   ]
 }

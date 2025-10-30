@@ -1,0 +1,43 @@
+{
+  "file": "data_csv_type/내외국인/인기관광지_파주시_202404-202509_데이터랩_다운로드/202404-202509_주요_유료관광지점_입장객_수_전체.csv",
+  "generated_at": "2025-10-30 11:47:41",
+  "language": "en",
+  "columns": [
+    {
+      "column": "년도",
+      "description": "Values recorded in column \"년도\" of the dataset."
+    },
+    {
+      "column": "월",
+      "description": "Values recorded in column \"월\" of the dataset."
+    },
+    {
+      "column": "순위",
+      "description": "Values recorded in column \"순위\" of the dataset."
+    },
+    {
+      "column": "광역지자체명",
+      "description": "Values recorded in column \"광역지자체명\" of the dataset."
+    },
+    {
+      "column": "기초지자체명",
+      "description": "Values recorded in column \"기초지자체명\" of the dataset."
+    },
+    {
+      "column": "관광지명",
+      "description": "Values recorded in column \"관광지명\" of the dataset."
+    },
+    {
+      "column": "기준연월",
+      "description": "Values recorded in column \"기준연월\" of the dataset."
+    },
+    {
+      "column": "입장객수",
+      "description": "Values recorded in column \"입장객수\" of the dataset."
+    },
+    {
+      "column": "입장객총계",
+      "description": "Values recorded in column \"입장객총계\" of the dataset."
+    }
+  ]
+}

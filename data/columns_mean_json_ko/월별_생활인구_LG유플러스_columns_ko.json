@@ -1,15 +1,15 @@
 {
-  "file": "월별_생활인구_LG유플러스.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/월단위/월별_생활인구_LG유플러스.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "ko",
   "columns": [
     {
       "column": "기준연월",
-      "description": "'기준연월' 값을 담고 있습니다."
+      "description": "데이터셋의 \"기준연월\" 컬럼에 기록된 값입니다."
     },
     {
       "column": "생활인구수",
-      "description": "'생활인구수' 값을 담고 있습니다."
+      "description": "데이터셋의 \"생활인구수\" 컬럼에 기록된 값입니다."
     }
   ]
 }

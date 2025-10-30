@@ -1,0 +1,27 @@
+{
+  "file": "data_csv_type/내외국인/방문자_파주시_202310-202403_데이터랩_다운로드/202310-202403_내비게이션_목적지_유형별_검색량.csv",
+  "generated_at": "2025-10-30 11:47:41",
+  "language": "en",
+  "columns": [
+    {
+      "column": "년도",
+      "description": "Values recorded in column \"년도\" of the dataset."
+    },
+    {
+      "column": "월",
+      "description": "Values recorded in column \"월\" of the dataset."
+    },
+    {
+      "column": "기준연월",
+      "description": "Values recorded in column \"기준연월\" of the dataset."
+    },
+    {
+      "column": "목적지 유형",
+      "description": "Values recorded in column \"목적지 유형\" of the dataset."
+    },
+    {
+      "column": "목적지 검색량",
+      "description": "Values recorded in column \"목적지 검색량\" of the dataset."
+    }
+  ]
+}

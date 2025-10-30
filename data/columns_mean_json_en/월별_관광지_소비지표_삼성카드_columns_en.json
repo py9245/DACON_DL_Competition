@@ -1,59 +1,59 @@
 {
-  "file": "월별_관광지_소비지표_삼성카드.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/월단위/월별_관광지_소비지표_삼성카드.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "en",
   "columns": [
     {
       "column": "연도",
-      "description": "Contains the values for Korean labeled column '연도'."
+      "description": "Values recorded in column \"연도\" of the dataset."
     },
     {
       "column": "월",
-      "description": "Contains the values for Korean labeled column '월'."
+      "description": "Values recorded in column \"월\" of the dataset."
     },
     {
       "column": "매출금액(백만원)",
-      "description": "Contains the values for Korean labeled column '매출금액(백만원)'."
+      "description": "Values recorded in column \"매출금액(백만원)\" of the dataset."
     },
     {
       "column": "매출건수(건)",
-      "description": "Contains the values for Korean labeled column '매출건수(건)'."
+      "description": "Values recorded in column \"매출건수(건)\" of the dataset."
     },
     {
       "column": "누적매출금액(백만원)",
-      "description": "Contains the values for Korean labeled column '누적매출금액(백만원)'."
+      "description": "Values recorded in column \"누적매출금액(백만원)\" of the dataset."
     },
     {
       "column": "전월대비 매출증감률(%)",
-      "description": "Contains the values for Korean labeled column '전월대비 매출증감률(%)'."
+      "description": "Values recorded in column \"전월대비 매출증감률(%)\" of the dataset."
     },
     {
       "column": "전년동월대비 매출증감률(%)",
-      "description": "Contains the values for Korean labeled column '전년동월대비 매출증감률(%)'."
+      "description": "Values recorded in column \"전년동월대비 매출증감률(%)\" of the dataset."
     },
     {
       "column": "3개월 이동평균 매출(백만원)",
-      "description": "Contains the values for Korean labeled column '3개월 이동평균 매출(백만원)'."
+      "description": "Values recorded in column \"3개월 이동평균 매출(백만원)\" of the dataset."
     },
     {
       "column": "월별 매출비중(%)",
-      "description": "Contains the values for Korean labeled column '월별 매출비중(%)'."
+      "description": "Values recorded in column \"월별 매출비중(%)\" of the dataset."
     },
     {
       "column": "객단가(만원)",
-      "description": "Contains the values for Korean labeled column '객단가(만원)'."
+      "description": "Values recorded in column \"객단가(만원)\" of the dataset."
     },
     {
       "column": "객단가(원)",
-      "description": "Contains the values for Korean labeled column '객단가(원)'."
+      "description": "Values recorded in column \"객단가(원)\" of the dataset."
     },
     {
       "column": "건담 이용지수(평균=100)",
-      "description": "Contains the values for Korean labeled column '건담 이용지수(평균=100)'."
+      "description": "Values recorded in column \"건담 이용지수(평균=100)\" of the dataset."
     },
     {
       "column": "기준월",
-      "description": "Contains the values for Korean labeled column '기준월'."
+      "description": "Values recorded in column \"기준월\" of the dataset."
     }
   ]
 }

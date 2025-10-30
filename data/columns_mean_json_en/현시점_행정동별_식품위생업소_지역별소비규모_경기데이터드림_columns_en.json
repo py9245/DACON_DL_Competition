@@ -1,31 +1,31 @@
 {
-  "file": "현시점_행정동별_식품위생업소_지역별소비규모_경기데이터드림.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/기간없음/현시점_행정동별_식품위생업소_지역별소비규모_경기데이터드림.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "en",
   "columns": [
     {
       "column": "행정동",
-      "description": "Contains the values for Korean labeled column '행정동'."
+      "description": "Values recorded in column \"행정동\" of the dataset."
     },
     {
       "column": "연간소비금액(백만원)",
-      "description": "Contains the values for Korean labeled column '연간소비금액(백만원)'."
+      "description": "Values recorded in column \"연간소비금액(백만원)\" of the dataset."
     },
     {
       "column": "소비규모순위",
-      "description": "Contains the values for Korean labeled column '소비규모순위'."
+      "description": "Values recorded in column \"소비규모순위\" of the dataset."
     },
     {
       "column": "전체비중(%)",
-      "description": "Contains the values for Korean labeled column '전체비중(%)'."
+      "description": "Values recorded in column \"전체비중(%)\" of the dataset."
     },
     {
       "column": "누적비중(%)",
-      "description": "Contains the values for Korean labeled column '누적비중(%)'."
+      "description": "Values recorded in column \"누적비중(%)\" of the dataset."
     },
     {
       "column": "소비규모군",
-      "description": "Contains the values for Korean labeled column '소비규모군'."
+      "description": "Values recorded in column \"소비규모군\" of the dataset."
     }
   ]
 }

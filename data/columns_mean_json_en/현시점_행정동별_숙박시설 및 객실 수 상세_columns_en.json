@@ -1,39 +1,39 @@
 {
-  "file": "현시점_행정동별_숙박시설 및 객실 수 상세.csv",
-  "generated_at": "2025-10-29 18:02:43",
+  "file": "data_csv_type/기간없음/현시점_행정동별_숙박시설 및 객실 수 상세.csv",
+  "generated_at": "2025-10-30 11:47:41",
   "language": "en",
   "columns": [
     {
       "column": "번호",
-      "description": "Contains the values for Korean labeled column '번호'."
+      "description": "Values recorded in column \"번호\" of the dataset."
     },
     {
       "column": "지역",
-      "description": "Contains the values for Korean labeled column '지역'."
+      "description": "Values recorded in column \"지역\" of the dataset."
     },
     {
       "column": "업종",
-      "description": "Contains the values for Korean labeled column '업종'."
+      "description": "Values recorded in column \"업종\" of the dataset."
     },
     {
       "column": "상호",
-      "description": "Contains the values for Korean labeled column '상호'."
+      "description": "Values recorded in column \"상호\" of the dataset."
     },
     {
       "column": "주소",
-      "description": "Contains the values for Korean labeled column '주소'."
+      "description": "Values recorded in column \"주소\" of the dataset."
     },
     {
       "column": "연락처",
-      "description": "Contains the values for Korean labeled column '연락처'."
+      "description": "Values recorded in column \"연락처\" of the dataset."
     },
     {
       "column": "객실수",
-      "description": "Contains the values for Korean labeled column '객실수'."
+      "description": "Values recorded in column \"객실수\" of the dataset."
     },
     {
       "column": "기타",
-      "description": "Contains the values for Korean labeled column '기타'."
+      "description": "Values recorded in column \"기타\" of the dataset."
     }
   ]
 }

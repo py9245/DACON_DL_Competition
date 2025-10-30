@@ -1,0 +1,31 @@
+{
+  "file": "data_csv_type/내외국인/유입_유출지역_파주시_202204-202309_데이터랩_다운로드/202204-202309_주_유출_방문_목적지.csv",
+  "generated_at": "2025-10-30 11:47:41",
+  "language": "en",
+  "columns": [
+    {
+      "column": "년도",
+      "description": "Values recorded in column \"년도\" of the dataset."
+    },
+    {
+      "column": "월",
+      "description": "Values recorded in column \"월\" of the dataset."
+    },
+    {
+      "column": "업종중분류명",
+      "description": "Values recorded in column \"업종중분류명\" of the dataset."
+    },
+    {
+      "column": "업체명",
+      "description": "Values recorded in column \"업체명\" of the dataset."
+    },
+    {
+      "column": "방문자수",
+      "description": "Values recorded in column \"방문자수\" of the dataset."
+    },
+    {
+      "column": "순위",
+      "description": "Values recorded in column \"순위\" of the dataset."
+    }
+  ]
+}
