@@ -1,0 +1,39 @@
+{
+  "file": "설문_국내여행_TOP10_트랜드_데이터_결과.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "en",
+  "columns": [
+    {
+      "column": "week_label",
+      "description": "Week label (e.g., 202401W1)"
+    },
+    {
+      "column": "SRCHWRD_NM",
+      "description": "Search keyword name"
+    },
+    {
+      "column": "UPPER_CTGRY_NM",
+      "description": "Upper category name"
+    },
+    {
+      "column": "LWPRT_CTGRY_NM",
+      "description": "Lower category name"
+    },
+    {
+      "column": "AREA_NM",
+      "description": "Area name"
+    },
+    {
+      "column": "MOBILE_SCCNT_VALUE",
+      "description": "Mobile search count"
+    },
+    {
+      "column": "PC_SCCNT_VALUE",
+      "description": "PC search count"
+    },
+    {
+      "column": "SCCNT_SM_VALUE",
+      "description": "Combined search count (mobile+PC)"
+    }
+  ]
+}

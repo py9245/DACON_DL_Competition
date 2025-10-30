@@ -1,0 +1,155 @@
+{
+  "file": "년도별_인구감소지역 현황 및 지역주민 소비액_한국관광 데이터랩_통합.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "en",
+  "columns": [
+    {
+      "column": "기간",
+      "description": "Contains the values for Korean labeled column '기간'."
+    },
+    {
+      "column": "고령화_유소년비율_고령화 비율",
+      "description": "Contains the values for Korean labeled column '고령화 유소년비율 고령화 비율'."
+    },
+    {
+      "column": "고령화_유소년비율_유소년 비율",
+      "description": "Contains the values for Korean labeled column '고령화 유소년비율 유소년 비율'."
+    },
+    {
+      "column": "사망률_사망률",
+      "description": "Contains the values for Korean labeled column '사망률 사망률'."
+    },
+    {
+      "column": "인구감소관련주요데이터_1회평균당일관광객소비액(I)",
+      "description": "Contains the values for Korean labeled column '인구감소관련주요데이터 1회평균당일관광객소비액(I)'."
+    },
+    {
+      "column": "인구감소관련주요데이터_1회평균숙박관광객소비액(H)",
+      "description": "Contains the values for Korean labeled column '인구감소관련주요데이터 1회평균숙박관광객소비액(H)'."
+    },
+    {
+      "column": "인구감소관련주요데이터_①숙박관광객(G/H)",
+      "description": "H) for the 인구감소관련주요데이터_①숙박관광객(G area."
+    },
+    {
+      "column": "인구감소관련주요데이터_②당일관광객(G/I)",
+      "description": "I) for the 인구감소관련주요데이터_②당일관광객(G area."
+    },
+    {
+      "column": "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객당일",
+      "description": "당일여행횟수비율적용관광객당일 for the 인구감소관련주요데이터_③숙박 area."
+    },
+    {
+      "column": "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객당일비율",
+      "description": "당일여행횟수비율적용관광객당일비율 for the 인구감소관련주요데이터_③숙박 area."
+    },
+    {
+      "column": "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객숙박",
+      "description": "당일여행횟수비율적용관광객숙박 for the 인구감소관련주요데이터_③숙박 area."
+    },
+    {
+      "column": "인구감소관련주요데이터_③숙박/당일여행횟수비율적용관광객숙박비율",
+      "description": "당일여행횟수비율적용관광객숙박비율 for the 인구감소관련주요데이터_③숙박 area."
+    },
+    {
+      "column": "인구감소관련주요데이터_전국소비지출액(A)",
+      "description": "Contains the values for Korean labeled column '인구감소관련주요데이터 전국소비지출액(A)'."
+    },
+    {
+      "column": "인구감소관련주요데이터_전국카드지출액대비지역주민의카드소비액비율(B)",
+      "description": "Contains the values for Korean labeled column '인구감소관련주요데이터 전국카드지출액대비지역주민의카드소비액비율(B)'."
+    },
+    {
+      "column": "인구감소관련주요데이터_주간인구수",
+      "description": "Contains the values for Korean labeled column '인구감소관련주요데이터 주간인구수'."
+    },
+    {
+      "column": "인구감소관련주요데이터_주민1인당지역내소비액(G=D/E)",
+      "description": "E) for the 인구감소관련주요데이터_주민1인당지역내소비액(G=D area."
+    },
+    {
+      "column": "인구감소관련주요데이터_주민등록인구수(E)",
+      "description": "Contains the values for Korean labeled column '인구감소관련주요데이터 주민등록인구수(E)'."
+    },
+    {
+      "column": "인구감소관련주요데이터_지역내소비비율(F)",
+      "description": "Contains the values for Korean labeled column '인구감소관련주요데이터 지역내소비비율(F)'."
+    },
+    {
+      "column": "인구감소관련주요데이터_지역외소비액비율",
+      "description": "Contains the values for Korean labeled column '인구감소관련주요데이터 지역외소비액비율'."
+    },
+    {
+      "column": "인구감소관련주요데이터_지역주민의지역내소비액(D=CXF)",
+      "description": "Contains the values for Korean labeled column '인구감소관련주요데이터 지역주민의지역내소비액(D=CXF)'."
+    },
+    {
+      "column": "인구감소관련주요데이터_지역주민의총소비지출액(C=AXB)",
+      "description": "Contains the values for Korean labeled column '인구감소관련주요데이터 지역주민의총소비지출액(C=AXB)'."
+    },
+    {
+      "column": "인구밀도_인구밀도",
+      "description": "Contains the values for Korean labeled column '인구밀도 인구밀도'."
+    },
+    {
+      "column": "재정자립도_재정자립도",
+      "description": "Contains the values for Korean labeled column '재정자립도 재정자립도'."
+    },
+    {
+      "column": "재정자주도_재정자주도",
+      "description": "Contains the values for Korean labeled column '재정자주도 재정자주도'."
+    },
+    {
+      "column": "전입전출이동규모_전입",
+      "description": "Contains the values for Korean labeled column '전입전출이동규모 전입'."
+    },
+    {
+      "column": "전입전출이동규모_전출",
+      "description": "Contains the values for Korean labeled column '전입전출이동규모 전출'."
+    },
+    {
+      "column": "조출생률_조출생률",
+      "description": "Contains the values for Korean labeled column '조출생률 조출생률'."
+    },
+    {
+      "column": "주민등록인구연령별분포추이_10대 이하",
+      "description": "Contains the values for Korean labeled column '주민등록인구연령별분포추이 10대 이하'."
+    },
+    {
+      "column": "주민등록인구연령별분포추이_10대",
+      "description": "Contains the values for Korean labeled column '주민등록인구연령별분포추이 10대'."
+    },
+    {
+      "column": "주민등록인구연령별분포추이_20대",
+      "description": "Contains the values for Korean labeled column '주민등록인구연령별분포추이 20대'."
+    },
+    {
+      "column": "주민등록인구연령별분포추이_30대",
+      "description": "Contains the values for Korean labeled column '주민등록인구연령별분포추이 30대'."
+    },
+    {
+      "column": "주민등록인구연령별분포추이_40대",
+      "description": "Contains the values for Korean labeled column '주민등록인구연령별분포추이 40대'."
+    },
+    {
+      "column": "주민등록인구연령별분포추이_50대",
+      "description": "Contains the values for Korean labeled column '주민등록인구연령별분포추이 50대'."
+    },
+    {
+      "column": "주민등록인구연령별분포추이_60대",
+      "description": "Contains the values for Korean labeled column '주민등록인구연령별분포추이 60대'."
+    },
+    {
+      "column": "주민등록인구연령별분포추이_70대 이상",
+      "description": "Contains the values for Korean labeled column '주민등록인구연령별분포추이 70대 이상'."
+    },
+    {
+      "column": "주민등록인구연령별분포추이_총인구수",
+      "description": "Contains the values for Korean labeled column '주민등록인구연령별분포추이 총인구수'."
+    },
+    {
+      "column": "청년순이동률_청년순이동률",
+      "description": "Contains the values for Korean labeled column '청년순이동률 청년순이동률'."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "file": "현시점_행정동별_식품위생업소_지역별소비규모_경기데이터드림.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "en",
+  "columns": [
+    {
+      "column": "행정동",
+      "description": "Contains the values for Korean labeled column '행정동'."
+    },
+    {
+      "column": "연간소비금액(백만원)",
+      "description": "Contains the values for Korean labeled column '연간소비금액(백만원)'."
+    },
+    {
+      "column": "소비규모순위",
+      "description": "Contains the values for Korean labeled column '소비규모순위'."
+    },
+    {
+      "column": "전체비중(%)",
+      "description": "Contains the values for Korean labeled column '전체비중(%)'."
+    },
+    {
+      "column": "누적비중(%)",
+      "description": "Contains the values for Korean labeled column '누적비중(%)'."
+    },
+    {
+      "column": "소비규모군",
+      "description": "Contains the values for Korean labeled column '소비규모군'."
+    }
+  ]
+}

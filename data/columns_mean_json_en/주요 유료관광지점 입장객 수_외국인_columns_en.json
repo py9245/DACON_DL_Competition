@@ -1,0 +1,35 @@
+{
+  "file": "내외국인_비교데이터\\주요 유료관광지점 입장객 수_외국인.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "en",
+  "columns": [
+    {
+      "column": "순위",
+      "description": "Contains the values for Korean labeled column '순위'."
+    },
+    {
+      "column": "광역지자체명",
+      "description": "Contains the values for Korean labeled column '광역지자체명'."
+    },
+    {
+      "column": "기초지자체명",
+      "description": "Contains the values for Korean labeled column '기초지자체명'."
+    },
+    {
+      "column": "관광지명",
+      "description": "Contains the values for Korean labeled column '관광지명'."
+    },
+    {
+      "column": "기준연월",
+      "description": "Contains the values for Korean labeled column '기준연월'."
+    },
+    {
+      "column": "입장객수",
+      "description": "Contains the values for Korean labeled column '입장객수'."
+    },
+    {
+      "column": "입장객 수 총계",
+      "description": "Contains the values for Korean labeled column '입장객 수 총계'."
+    }
+  ]
+}

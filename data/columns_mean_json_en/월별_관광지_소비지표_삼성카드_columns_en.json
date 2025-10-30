@@ -1,0 +1,59 @@
+{
+  "file": "월별_관광지_소비지표_삼성카드.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "en",
+  "columns": [
+    {
+      "column": "연도",
+      "description": "Contains the values for Korean labeled column '연도'."
+    },
+    {
+      "column": "월",
+      "description": "Contains the values for Korean labeled column '월'."
+    },
+    {
+      "column": "매출금액(백만원)",
+      "description": "Contains the values for Korean labeled column '매출금액(백만원)'."
+    },
+    {
+      "column": "매출건수(건)",
+      "description": "Contains the values for Korean labeled column '매출건수(건)'."
+    },
+    {
+      "column": "누적매출금액(백만원)",
+      "description": "Contains the values for Korean labeled column '누적매출금액(백만원)'."
+    },
+    {
+      "column": "전월대비 매출증감률(%)",
+      "description": "Contains the values for Korean labeled column '전월대비 매출증감률(%)'."
+    },
+    {
+      "column": "전년동월대비 매출증감률(%)",
+      "description": "Contains the values for Korean labeled column '전년동월대비 매출증감률(%)'."
+    },
+    {
+      "column": "3개월 이동평균 매출(백만원)",
+      "description": "Contains the values for Korean labeled column '3개월 이동평균 매출(백만원)'."
+    },
+    {
+      "column": "월별 매출비중(%)",
+      "description": "Contains the values for Korean labeled column '월별 매출비중(%)'."
+    },
+    {
+      "column": "객단가(만원)",
+      "description": "Contains the values for Korean labeled column '객단가(만원)'."
+    },
+    {
+      "column": "객단가(원)",
+      "description": "Contains the values for Korean labeled column '객단가(원)'."
+    },
+    {
+      "column": "건담 이용지수(평균=100)",
+      "description": "Contains the values for Korean labeled column '건담 이용지수(평균=100)'."
+    },
+    {
+      "column": "기준월",
+      "description": "Contains the values for Korean labeled column '기준월'."
+    }
+  ]
+}

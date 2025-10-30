@@ -1,0 +1,39 @@
+{
+  "file": "설문_국내_여행_비용_지출_의향_통합.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "ko",
+  "columns": [
+    {
+      "column": "EXAMIN_BEGIN_DE",
+      "description": "조사 시작일(YYYYMMDD)"
+    },
+    {
+      "column": "SEXDSTN_FLAG_CD",
+      "description": "응답자 성별 코드(M/F)"
+    },
+    {
+      "column": "AGRDE_FLAG_NM",
+      "description": "응답자 연령대 명칭"
+    },
+    {
+      "column": "ANSWRR_OC_AREA_NM",
+      "description": "응답자 거주 지역 명칭"
+    },
+    {
+      "column": "HSHLD_INCOME_DGREE_NM",
+      "description": "응답자 가구 소득 구간 명칭"
+    },
+    {
+      "column": "ALL_TURSM_TOUR_EXPNDTR_INTEN_VALUE",
+      "description": "전체 여행 지출 의향(범주형)"
+    },
+    {
+      "column": "DMSTC_TURSM_TOUR_EXPNDTR_INTEN_VALUE",
+      "description": "국내 여행 지출 의향(범주형)"
+    },
+    {
+      "column": "OVSEA_TURSM_TOUR_EXPNDTR_INTEN_VALUE",
+      "description": "해외 여행 지출 의향(범주형)"
+    }
+  ]
+}

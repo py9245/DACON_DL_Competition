@@ -1,0 +1,23 @@
+{
+  "file": "설문_국내_여행자_특성.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "ko",
+  "columns": [
+    {
+      "column": "EXAMIN_YM",
+      "description": "조사 연월(YYYYMM)"
+    },
+    {
+      "column": "RESPOND_CHARTR_SDIV_ID",
+      "description": "응답자 특성 세부 코드"
+    },
+    {
+      "column": "RESPOND_CHARTR_SDIV_NM",
+      "description": "응답자 특성 세부 명칭"
+    },
+    {
+      "column": "RSPNS_RATE",
+      "description": "응답률(%)"
+    }
+  ]
+}

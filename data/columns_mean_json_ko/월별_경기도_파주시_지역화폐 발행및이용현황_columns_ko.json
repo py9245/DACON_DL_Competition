@@ -1,0 +1,39 @@
+{
+  "file": "월별_경기도_파주시_지역화폐 발행및이용현황.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "ko",
+  "columns": [
+    {
+      "column": "시도명",
+      "description": "시/도 명칭"
+    },
+    {
+      "column": "시군구명",
+      "description": "시/군/구 명칭"
+    },
+    {
+      "column": "발행년월",
+      "description": "지역화폐 발행 기준 연월(YYYYMM)"
+    },
+    {
+      "column": "월별카드발행수량",
+      "description": "월별 지역화폐 카드 발행 수량"
+    },
+    {
+      "column": "월별카드충전액",
+      "description": "월별 지역화폐 충전액"
+    },
+    {
+      "column": "월별카드사용액",
+      "description": "월별 지역화폐 사용액"
+    },
+    {
+      "column": "관리기관명",
+      "description": "관리기관 명칭"
+    },
+    {
+      "column": "관리기관전화번호",
+      "description": "관리기관 연락처"
+    }
+  ]
+}

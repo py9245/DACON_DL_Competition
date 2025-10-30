@@ -1,0 +1,79 @@
+{
+  "file": "설문_국내_여행_비용_지출_특성_통합.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "en",
+  "columns": [
+    {
+      "column": "EXAMIN_BEGIN_DE",
+      "description": "Survey start date (YYYYMMDD)"
+    },
+    {
+      "column": "TOUR_TOT_CT_VALUE",
+      "description": "Holds the travel tot ct value."
+    },
+    {
+      "column": "TOUR_LDGMNT_CT_VALUE",
+      "description": "Holds the travel ldgmnt ct value."
+    },
+    {
+      "column": "TOUR_FOOD_CT_VALUE",
+      "description": "Holds the travel food ct value."
+    },
+    {
+      "column": "TOUR_TRNSPORT_CT_VALUE",
+      "description": "Holds the travel trnsport ct value."
+    },
+    {
+      "column": "TOUR_SHOPNG_CT_VALUE",
+      "description": "Holds the travel shopng ct value."
+    },
+    {
+      "column": "TOUR_ACTVTY_CT_VALUE",
+      "description": "Holds the travel actvty ct value."
+    },
+    {
+      "column": "TOUR_ETC_CT_VALUE",
+      "description": "Holds the travel etc ct value."
+    },
+    {
+      "column": "TOUR_CTPRVN_NM",
+      "description": "Holds the travel ctprvn name."
+    },
+    {
+      "column": "TOUR_SIGNGU_NM",
+      "description": "Holds the travel signgu name."
+    },
+    {
+      "column": "TOUR_COM_NMPR_NM",
+      "description": "Holds the travel com nmpr name."
+    },
+    {
+      "column": "TOUR_PD_VALUE",
+      "description": "Holds the travel pd value."
+    },
+    {
+      "column": "SEXDSTN_FLAG_CD",
+      "description": "Respondent gender code (M/F)"
+    },
+    {
+      "column": "AGRDE_FLAG_NM",
+      "description": "Respondent age-group label"
+    },
+    {
+      "column": "MRRG_AT_NM",
+      "description": "Holds the mrrg at name."
+    },
+    {
+      "column": "CHLDRN_TY_NM",
+      "description": "Holds the chldrn ty name."
+    },
+    {
+      "column": "OCCP_NM",
+      "description": "Holds the occp name."
+    },
+    {
+      "column": "HSHLD_INCOME_DGREE_NM",
+      "description": "Household income bracket label"
+    }
+  ]
+}

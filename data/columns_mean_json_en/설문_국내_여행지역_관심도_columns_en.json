@@ -1,0 +1,71 @@
+{
+  "file": "설문_국내_여행지역_관심도.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "en",
+  "columns": [
+    {
+      "column": "EXAMIN_BEGIN_DE",
+      "description": "Survey start date (YYYYMMDD)"
+    },
+    {
+      "column": "SEXDSTN_FLAG_CD",
+      "description": "Respondent gender code (M/F)"
+    },
+    {
+      "column": "AGRDE_FLAG_NM",
+      "description": "Respondent age-group label"
+    },
+    {
+      "column": "ANSWRR_OC_AREA_NM",
+      "description": "Respondent home region"
+    },
+    {
+      "column": "HSHLD_INCOME_DGREE_NM",
+      "description": "Household income bracket label"
+    },
+    {
+      "column": "SU_TOUR_INTRST_VALUE",
+      "description": "Holds the su travel intrst value."
+    },
+    {
+      "column": "GG_IC_TOUR_INTRST_VALUE",
+      "description": "Holds the gg ic travel intrst value."
+    },
+    {
+      "column": "BS_TOUR_INTRST_VALUE",
+      "description": "Holds the bs travel intrst value."
+    },
+    {
+      "column": "CHN_DJ_TOUR_INTRST_VALUE",
+      "description": "Holds the chn dj travel intrst value."
+    },
+    {
+      "column": "CB_TOUR_INTRST_VALUE",
+      "description": "Holds the cb travel intrst value."
+    },
+    {
+      "column": "GN_US_TOUR_INTRST_VALUE",
+      "description": "Holds the gn us travel intrst value."
+    },
+    {
+      "column": "GB_DG_TOUR_INTRST_VALUE",
+      "description": "Holds the gb dg travel intrst value."
+    },
+    {
+      "column": "JN_GJ_TOUR_INTRST_VALUE",
+      "description": "Holds the jn gj travel intrst value."
+    },
+    {
+      "column": "JNBK_TOUR_INTRST_VALUE",
+      "description": "Holds the jnbk travel intrst value."
+    },
+    {
+      "column": "GW_TOUR_INTRST_VALUE",
+      "description": "Holds the gw travel intrst value."
+    },
+    {
+      "column": "JJ_TOUR_INTRST_VALUE",
+      "description": "Holds the jj travel intrst value."
+    }
+  ]
+}

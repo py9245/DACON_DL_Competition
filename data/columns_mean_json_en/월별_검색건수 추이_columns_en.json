@@ -1,0 +1,27 @@
+{
+  "file": "월별_검색건수 추이.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "en",
+  "columns": [
+    {
+      "column": "기간",
+      "description": "Contains the values for Korean labeled column '기간'."
+    },
+    {
+      "column": "기준년월",
+      "description": "Contains the values for Korean labeled column '기준년월'."
+    },
+    {
+      "column": "기초지자체",
+      "description": "Contains the values for Korean labeled column '기초지자체'."
+    },
+    {
+      "column": "카테고리중분류명",
+      "description": "Contains the values for Korean labeled column '카테고리중분류명'."
+    },
+    {
+      "column": "기초지자체 검색건수",
+      "description": "Contains the values for Korean labeled column '기초지자체 검색건수'."
+    }
+  ]
+}

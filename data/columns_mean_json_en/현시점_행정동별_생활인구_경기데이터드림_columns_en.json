@@ -1,0 +1,27 @@
+{
+  "file": "현시점_행정동별_생활인구_경기데이터드림.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "en",
+  "columns": [
+    {
+      "column": "행정동명",
+      "description": "Contains the values for Korean labeled column '행정동명'."
+    },
+    {
+      "column": "거주인구",
+      "description": "Contains the values for Korean labeled column '거주인구'."
+    },
+    {
+      "column": "방문인구",
+      "description": "Contains the values for Korean labeled column '방문인구'."
+    },
+    {
+      "column": "근무인구",
+      "description": "Contains the values for Korean labeled column '근무인구'."
+    },
+    {
+      "column": "생활인구",
+      "description": "Contains the values for Korean labeled column '생활인구'."
+    }
+  ]
+}

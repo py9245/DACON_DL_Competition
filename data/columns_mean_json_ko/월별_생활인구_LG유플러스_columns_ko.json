@@ -1,0 +1,15 @@
+{
+  "file": "월별_생활인구_LG유플러스.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "ko",
+  "columns": [
+    {
+      "column": "기준연월",
+      "description": "'기준연월' 값을 담고 있습니다."
+    },
+    {
+      "column": "생활인구수",
+      "description": "'생활인구수' 값을 담고 있습니다."
+    }
+  ]
+}

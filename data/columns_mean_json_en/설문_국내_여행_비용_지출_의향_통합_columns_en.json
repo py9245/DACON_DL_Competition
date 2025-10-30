@@ -1,0 +1,39 @@
+{
+  "file": "설문_국내_여행_비용_지출_의향_통합.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "en",
+  "columns": [
+    {
+      "column": "EXAMIN_BEGIN_DE",
+      "description": "Survey start date (YYYYMMDD)"
+    },
+    {
+      "column": "SEXDSTN_FLAG_CD",
+      "description": "Respondent gender code (M/F)"
+    },
+    {
+      "column": "AGRDE_FLAG_NM",
+      "description": "Respondent age-group label"
+    },
+    {
+      "column": "ANSWRR_OC_AREA_NM",
+      "description": "Respondent home region"
+    },
+    {
+      "column": "HSHLD_INCOME_DGREE_NM",
+      "description": "Household income bracket label"
+    },
+    {
+      "column": "ALL_TURSM_TOUR_EXPNDTR_INTEN_VALUE",
+      "description": "Overall travel expenditure intention (categorical)"
+    },
+    {
+      "column": "DMSTC_TURSM_TOUR_EXPNDTR_INTEN_VALUE",
+      "description": "Domestic travel expenditure intention (categorical)"
+    },
+    {
+      "column": "OVSEA_TURSM_TOUR_EXPNDTR_INTEN_VALUE",
+      "description": "Outbound travel expenditure intention (categorical)"
+    }
+  ]
+}

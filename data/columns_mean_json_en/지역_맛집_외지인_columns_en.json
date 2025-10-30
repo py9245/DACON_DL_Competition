@@ -1,0 +1,23 @@
+{
+  "file": "내외국인_비교데이터\\지역_맛집_외지인.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "en",
+  "columns": [
+    {
+      "column": "순위",
+      "description": "Contains the values for Korean labeled column '순위'."
+    },
+    {
+      "column": "관광지ID",
+      "description": "Contains the values for Korean labeled column '관광지ID'."
+    },
+    {
+      "column": "업소명",
+      "description": "Contains the values for Korean labeled column '업소명'."
+    },
+    {
+      "column": "분류",
+      "description": "Contains the values for Korean labeled column '분류'."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "file": "내외국인_비교데이터\\내국인 관심 관광지.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "ko",
+  "columns": [
+    {
+      "column": "시군구명",
+      "description": "시/군/구 명칭"
+    },
+    {
+      "column": "시도명",
+      "description": "시/도 명칭"
+    },
+    {
+      "column": "관광지명",
+      "description": "'관광지명' 값을 담고 있습니다."
+    },
+    {
+      "column": "구분",
+      "description": "'구분' 값을 담고 있습니다."
+    },
+    {
+      "column": "방문자수",
+      "description": "'방문자수' 값을 담고 있습니다."
+    }
+  ]
+}

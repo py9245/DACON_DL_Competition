@@ -1,0 +1,23 @@
+{
+  "file": "내외국인_비교데이터\\지역_맛집_외지인.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "ko",
+  "columns": [
+    {
+      "column": "순위",
+      "description": "'순위' 값을 담고 있습니다."
+    },
+    {
+      "column": "관광지ID",
+      "description": "'관광지ID' 값을 담고 있습니다."
+    },
+    {
+      "column": "업소명",
+      "description": "'업소명' 값을 담고 있습니다."
+    },
+    {
+      "column": "분류",
+      "description": "'분류' 값을 담고 있습니다."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "file": "현시점_행정동별_숙박시설 및 객실 수 상세.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "en",
+  "columns": [
+    {
+      "column": "번호",
+      "description": "Contains the values for Korean labeled column '번호'."
+    },
+    {
+      "column": "지역",
+      "description": "Contains the values for Korean labeled column '지역'."
+    },
+    {
+      "column": "업종",
+      "description": "Contains the values for Korean labeled column '업종'."
+    },
+    {
+      "column": "상호",
+      "description": "Contains the values for Korean labeled column '상호'."
+    },
+    {
+      "column": "주소",
+      "description": "Contains the values for Korean labeled column '주소'."
+    },
+    {
+      "column": "연락처",
+      "description": "Contains the values for Korean labeled column '연락처'."
+    },
+    {
+      "column": "객실수",
+      "description": "Contains the values for Korean labeled column '객실수'."
+    },
+    {
+      "column": "기타",
+      "description": "Contains the values for Korean labeled column '기타'."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "file": "월별_파주시방문 추이.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "en",
+  "columns": [
+    {
+      "column": "기준년월",
+      "description": "Contains the values for Korean labeled column '기준년월'."
+    },
+    {
+      "column": "구분",
+      "description": "Contains the values for Korean labeled column '구분'."
+    },
+    {
+      "column": "방문지",
+      "description": "Contains the values for Korean labeled column '방문지'."
+    },
+    {
+      "column": "방문자 수",
+      "description": "Contains the values for Korean labeled column '방문자 수'."
+    },
+    {
+      "column": "방문자 수 비율",
+      "description": "Contains the values for Korean labeled column '방문자 수 비율'."
+    }
+  ]
+}

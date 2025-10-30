@@ -1,0 +1,35 @@
+{
+  "file": "내외국인_비교데이터\\내외국인_업종별 지출액.csv",
+  "generated_at": "2025-10-29 18:02:43",
+  "language": "en",
+  "columns": [
+    {
+      "column": "기간",
+      "description": "Contains the values for Korean labeled column '기간'."
+    },
+    {
+      "column": "대분류",
+      "description": "Contains the values for Korean labeled column '대분류'."
+    },
+    {
+      "column": "중분류",
+      "description": "Contains the values for Korean labeled column '중분류'."
+    },
+    {
+      "column": "대분류 지출액 비율 (내국인)",
+      "description": "Contains the values for Korean labeled column '대분류 지출액 비율 (내국인)'."
+    },
+    {
+      "column": "중분류 지출액 비율 (내국인)",
+      "description": "Contains the values for Korean labeled column '중분류 지출액 비율 (내국인)'."
+    },
+    {
+      "column": "대분류 지출액 비율 (외국인)",
+      "description": "Contains the values for Korean labeled column '대분류 지출액 비율 (외국인)'."
+    },
+    {
+      "column": "중분류 지출액 비율 (외국인)",
+      "description": "Contains the values for Korean labeled column '중분류 지출액 비율 (외국인)'."
+    }
+  ]
+}
